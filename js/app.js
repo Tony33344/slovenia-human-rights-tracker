@@ -23,6 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function initNavigation() {
     const tabs = document.querySelectorAll('.nav-tab');
     let networkInitialized = false;
+    let flowchartInitialized = false;
     
     tabs.forEach(tab => {
         tab.addEventListener('click', () => {
@@ -44,6 +45,16 @@ function initNavigation() {
                     if (typeof initNetwork === 'function') {
                         initNetwork();
                         networkInitialized = true;
+                    }
+                }, 100);
+            }
+            
+            // Initialize flowchart on first view
+            if (tabId === 'flowchart' && !flowchartInitialized) {
+                setTimeout(() => {
+                    if (typeof initFlowchart === 'function') {
+                        initFlowchart();
+                        flowchartInitialized = true;
                     }
                 }, 100);
             }

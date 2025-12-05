@@ -27,10 +27,11 @@
         <button class="nav-tab" data-tab="recommendations">📋 Priporočila</button>
         <button class="nav-tab" data-tab="themes">🎯 Tematska področja</button>
         <button class="nav-tab" data-tab="ministries">🏛️ Ministrstva</button>
-        <button class="nav-tab" data-tab="network">🔗 Mreža povezav</button>
+        <button class="nav-tab" data-tab="network">🕸️ Mreža</button>
+        <button class="nav-tab" data-tab="flowchart">📐 Diagram</button>
         <button class="nav-tab" data-tab="treaties">📜 Pogodbena telesa</button>
-        <button class="nav-tab" data-tab="media">📰 Mediji</button>
-        <button class="nav-tab" data-tab="documents">📁 Dokumenti</button>
+        <button class="nav-tab" data-tab="media">📰 UPR Dokumenti</button>
+        <button class="nav-tab" data-tab="documents">📁 Viri</button>
     </nav>
 
     <main class="container">
@@ -189,6 +190,30 @@
                         <li>🖱️ <strong>Dvojni klik</strong> - Povečaj na vozlišče</li>
                         <li>🖱️ <strong>Povleci</strong> - Premakni pogled</li>
                         <li>🔄 <strong>Kolešček</strong> - Povečaj/pomanjšaj</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- FLOWCHART TAB -->
+        <section id="flowchart" class="tab-content">
+            <h2 class="section-title">Hierarhični diagram - Strukturni prikaz</h2>
+            
+            <div class="flowchart-intro">
+                <p>Pregledna vizualizacija povezav med UPR cikli, tematskimi področji in pristojnimi ministrstvi. Kliknite na elemente za podrobnosti.</p>
+            </div>
+            
+            <div class="flowchart-wrapper">
+                <div id="flowchartCanvas" class="flowchart-canvas"></div>
+                <div id="flowchartDetails" class="flowchart-details">
+                    <h4>📍 Izberite element</h4>
+                    <p>Kliknite na katerikoli element v diagramu za prikaz podrobnih informacij.</p>
+                    <hr style="margin: 1rem 0; border: none; border-top: 1px solid #e2e8f0;">
+                    <p><strong>Elementi diagrama:</strong></p>
+                    <ul>
+                        <li>🔵 <strong>UPR Cikli</strong> - Obdobja pregleda</li>
+                        <li>🟣 <strong>Teme</strong> - Tematska področja</li>
+                        <li>🟢 <strong>Ministrstva</strong> - Pristojni organi</li>
                     </ul>
                 </div>
             </div>
@@ -418,6 +443,7 @@
     <script src="js/data.js"></script>
     <script src="js/recommendations-full.js"></script>
     <script src="js/network.js"></script>
+    <script src="js/flowchart.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>

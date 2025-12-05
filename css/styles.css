@@ -1231,3 +1231,137 @@ body {
         padding: 1.5rem;
     }
 }
+
+/* Flowchart Styles */
+.flowchart-intro {
+    background: white;
+    padding: 1rem 1.5rem;
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--card-shadow);
+}
+
+.flowchart-intro p {
+    color: #475569;
+    margin: 0;
+}
+
+.flowchart-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 1.5rem;
+    background: white;
+    border-radius: 16px;
+    padding: 1.5rem;
+    box-shadow: var(--card-shadow);
+}
+
+.flowchart-canvas {
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+    border-radius: 12px;
+    min-height: 700px;
+    overflow: hidden;
+}
+
+.flowchart-details {
+    background: #f8fafc;
+    border-radius: 12px;
+    padding: 1.5rem;
+    border: 1px solid #e2e8f0;
+}
+
+.flowchart-details h4 {
+    color: var(--un-dark);
+    margin-bottom: 1rem;
+}
+
+.flowchart-details ul {
+    padding-left: 1.2rem;
+    margin: 0.5rem 0;
+}
+
+.flowchart-details li {
+    margin-bottom: 0.5rem;
+    color: #475569;
+}
+
+/* SVG Flowchart Styles */
+.flowchart-title {
+    font-size: 24px;
+    font-weight: 700;
+    fill: #1e293b;
+}
+
+.flowchart-subtitle {
+    font-size: 14px;
+    fill: #64748b;
+}
+
+.node-label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.node-sublabel {
+    font-size: 11px;
+}
+
+.node-sublabel-sm {
+    font-size: 10px;
+}
+
+.legend-title {
+    font-size: 16px;
+    font-weight: 600;
+    fill: #1e293b;
+}
+
+.legend-text {
+    font-size: 12px;
+    fill: #475569;
+}
+
+.legend-help {
+    font-size: 12px;
+    fill: #64748b;
+    font-style: italic;
+}
+
+.node-group.clickable {
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.node-group.clickable:hover .node-rect {
+    filter: url(#shadow) brightness(1.1);
+}
+
+.node-group.selected .node-rect {
+    stroke: #1e293b;
+    stroke-width: 3;
+}
+
+.detail-link {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background: var(--un-blue);
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 0.9rem;
+}
+
+.detail-link:hover {
+    background: #1d4ed8;
+}
+
+@media (max-width: 1024px) {
+    .flowchart-wrapper {
+        grid-template-columns: 1fr;
+    }
+    
+    .flowchart-canvas {
+        min-height: 500px;
+    }
+}
