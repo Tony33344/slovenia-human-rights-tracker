@@ -29,6 +29,7 @@
         <button class="nav-tab" data-tab="ministries">🏛️ Ministrstva</button>
         <button class="nav-tab" data-tab="network">🔗 Mreža povezav</button>
         <button class="nav-tab" data-tab="treaties">📜 Pogodbena telesa</button>
+        <button class="nav-tab" data-tab="media">📰 Mediji</button>
         <button class="nav-tab" data-tab="documents">📁 Dokumenti</button>
     </nav>
 
@@ -202,6 +203,216 @@
             
             <div class="treaties-container" id="treatiesContainer">
                 <!-- Treaties will be populated by JS -->
+            </div>
+        </section>
+
+        <!-- MEDIA TAB -->
+        <section id="media" class="tab-content">
+            <h2 class="section-title">Mediji in novice o človekovih pravicah v Sloveniji</h2>
+            
+            <div class="media-intro">
+                <p>Spremljajte novice in poročanje o človekovih pravicah v Sloveniji iz različnih virov.</p>
+            </div>
+
+            <div class="media-grid">
+                <div class="media-section">
+                    <h3>🇸🇮 Slovenski mediji</h3>
+                    <div class="media-links" id="slovenianMedia">
+                        <a href="https://www.rtvslo.si/slovenija" target="_blank" class="media-card">
+                            <span class="media-icon">📺</span>
+                            <div class="media-info">
+                                <strong>RTV Slovenija</strong>
+                                <span>Javni medij - novice o človekovih pravicah</span>
+                            </div>
+                        </a>
+                        <a href="https://www.delo.si/tag/clovekove-pravice/" target="_blank" class="media-card">
+                            <span class="media-icon">📰</span>
+                            <div class="media-info">
+                                <strong>Delo</strong>
+                                <span>Dnevnik - človeške pravice</span>
+                            </div>
+                        </a>
+                        <a href="https://www.dnevnik.si/tag/clovekove-pravice" target="_blank" class="media-card">
+                            <span class="media-icon">📰</span>
+                            <div class="media-info">
+                                <strong>Dnevnik</strong>
+                                <span>Dnevnik - človeške pravice</span>
+                            </div>
+                        </a>
+                        <a href="https://www.mladina.si/rubrika/slovenija/" target="_blank" class="media-card">
+                            <span class="media-icon">📰</span>
+                            <div class="media-info">
+                                <strong>Mladina</strong>
+                                <span>Tednik - družbena vprašanja</span>
+                            </div>
+                        </a>
+                        <a href="https://www.24ur.com/novice" target="_blank" class="media-card">
+                            <span class="media-icon">📺</span>
+                            <div class="media-info">
+                                <strong>24ur</strong>
+                                <span>POP TV - novice</span>
+                            </div>
+                        </a>
+                        <a href="https://n1info.si/tag/clovekove-pravice/" target="_blank" class="media-card">
+                            <span class="media-icon">📺</span>
+                            <div class="media-info">
+                                <strong>N1 Slovenija</strong>
+                                <span>Novice - človeške pravice</span>
+                            </div>
+                        </a>
+                        <a href="https://www.necenzurirano.si/" target="_blank" class="media-card">
+                            <span class="media-icon">🔍</span>
+                            <div class="media-info">
+                                <strong>Necenzurirano</strong>
+                                <span>Raziskovalno novinarstvo</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="media-section">
+                    <h3>🌍 Mednarodni mediji</h3>
+                    <div class="media-links" id="internationalMedia">
+                        <a href="https://www.ohchr.org/en/countries/slovenia" target="_blank" class="media-card">
+                            <span class="media-icon">🇺🇳</span>
+                            <div class="media-info">
+                                <strong>UN OHCHR - Slovenija</strong>
+                                <span>Uradna stran ZN za človekove pravice</span>
+                            </div>
+                        </a>
+                        <a href="https://www.amnesty.org/en/location/europe-and-central-asia/slovenia/" target="_blank" class="media-card">
+                            <span class="media-icon">🕯️</span>
+                            <div class="media-info">
+                                <strong>Amnesty International</strong>
+                                <span>Poročila o Sloveniji</span>
+                            </div>
+                        </a>
+                        <a href="https://www.hrw.org/europe/central-asia/slovenia" target="_blank" class="media-card">
+                            <span class="media-icon">👁️</span>
+                            <div class="media-info">
+                                <strong>Human Rights Watch</strong>
+                                <span>Poročila o Sloveniji</span>
+                            </div>
+                        </a>
+                        <a href="https://www.coe.int/en/web/portal/slovenia" target="_blank" class="media-card">
+                            <span class="media-icon">🇪🇺</span>
+                            <div class="media-info">
+                                <strong>Svet Evrope</strong>
+                                <span>Slovenija - človeške pravice</span>
+                            </div>
+                        </a>
+                        <a href="https://fra.europa.eu/en/country-data/slovenia" target="_blank" class="media-card">
+                            <span class="media-icon">🇪🇺</span>
+                            <div class="media-info">
+                                <strong>EU FRA</strong>
+                                <span>Agencija EU za temeljne pravice</span>
+                            </div>
+                        </a>
+                        <a href="https://www.echr.coe.int/Pages/home.aspx?p=caselaw/HUDOC" target="_blank" class="media-card">
+                            <span class="media-icon">⚖️</span>
+                            <div class="media-info">
+                                <strong>ESČP HUDOC</strong>
+                                <span>Sodbe proti Sloveniji</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="media-section">
+                    <h3>🏛️ Institucije in NVO</h3>
+                    <div class="media-links" id="ngoMedia">
+                        <a href="https://www.varuh-rs.si/" target="_blank" class="media-card">
+                            <span class="media-icon">🛡️</span>
+                            <div class="media-info">
+                                <strong>Varuh človekovih pravic RS</strong>
+                                <span>Nacionalna institucija za človekove pravice</span>
+                            </div>
+                        </a>
+                        <a href="https://www.zagovornik.si/" target="_blank" class="media-card">
+                            <span class="media-icon">⚖️</span>
+                            <div class="media-info">
+                                <strong>Zagovornik načela enakosti</strong>
+                                <span>Organ za enakost</span>
+                            </div>
+                        </a>
+                        <a href="https://www.mirovni-institut.si/" target="_blank" class="media-card">
+                            <span class="media-icon">🕊️</span>
+                            <div class="media-info">
+                                <strong>Mirovni inštitut</strong>
+                                <span>Raziskave človekovih pravic</span>
+                            </div>
+                        </a>
+                        <a href="https://www.pic.si/" target="_blank" class="media-card">
+                            <span class="media-icon">📋</span>
+                            <div class="media-info">
+                                <strong>PIC</strong>
+                                <span>Pravno-informacijski center</span>
+                            </div>
+                        </a>
+                        <a href="https://www.legebitra.si/" target="_blank" class="media-card">
+                            <span class="media-icon">🏳️‍🌈</span>
+                            <div class="media-info">
+                                <strong>Legebitra</strong>
+                                <span>LGBTI+ pravice</span>
+                            </div>
+                        </a>
+                        <a href="https://www.amnesty.si/" target="_blank" class="media-card">
+                            <span class="media-icon">🕯️</span>
+                            <div class="media-info">
+                                <strong>Amnesty Slovenija</strong>
+                                <span>Slovenska sekcija AI</span>
+                            </div>
+                        </a>
+                        <a href="https://www.romsvet.si/" target="_blank" class="media-card">
+                            <span class="media-icon">🎪</span>
+                            <div class="media-info">
+                                <strong>Svet romske skupnosti</strong>
+                                <span>Romske pravice</span>
+                            </div>
+                        </a>
+                        <a href="https://www.zdruzenjeizbrisan.si/" target="_blank" class="media-card">
+                            <span class="media-icon">📜</span>
+                            <div class="media-info">
+                                <strong>Združenje izbrisanih</strong>
+                                <span>Pravice izbrisanih</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="media-section">
+                    <h3>📊 UPR in poročila</h3>
+                    <div class="media-links" id="uprMedia">
+                        <a href="https://www.ohchr.org/en/hr-bodies/upr/si-index" target="_blank" class="media-card">
+                            <span class="media-icon">🇺🇳</span>
+                            <div class="media-info">
+                                <strong>UPR Slovenija - OHCHR</strong>
+                                <span>Vsi UPR dokumenti</span>
+                            </div>
+                        </a>
+                        <a href="https://upr-info.org/en/review/Slovenia" target="_blank" class="media-card">
+                            <span class="media-icon">📊</span>
+                            <div class="media-info">
+                                <strong>UPR Info</strong>
+                                <span>Baza podatkov UPR</span>
+                            </div>
+                        </a>
+                        <a href="https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/countries.aspx?CountryCode=SVN" target="_blank" class="media-card">
+                            <span class="media-icon">📋</span>
+                            <div class="media-info">
+                                <strong>Pogodbena telesa ZN</strong>
+                                <span>Vsa poročila za Slovenijo</span>
+                            </div>
+                        </a>
+                        <a href="https://www.gov.si/teme/clovekove-pravice/" target="_blank" class="media-card">
+                            <span class="media-icon">🏛️</span>
+                            <div class="media-info">
+                                <strong>Vlada RS - Človekove pravice</strong>
+                                <span>Vladna stran</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </div>
         </section>
 

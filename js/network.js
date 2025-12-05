@@ -356,9 +356,26 @@ class HumanRightsNetwork {
 let humanRightsNetwork = null;
 
 function initNetwork() {
-    if (document.getElementById('networkCanvas')) {
+    const canvas = document.getElementById('networkCanvas');
+    if (!canvas) {
+        console.error('Network canvas not found');
+        return;
+    }
+    
+    // Check if vis.js is loaded
+    if (typeof vis === 'undefined') {
+        console.error('vis.js library not loaded');
+        canvas.innerHTML = '<p style="padding:2rem;color:#dc2626;">Napaka: vis.js knjižnica ni naložena. Osvežite stran.</p>';
+        return;
+    }
+    
+    try {
         humanRightsNetwork = new HumanRightsNetwork('networkCanvas');
         humanRightsNetwork.init();
+        console.log('Network initialized successfully');
+    } catch (e) {
+        console.error('Network initialization error:', e);
+        canvas.innerHTML = '<p style="padding:2rem;color:#dc2626;">Napaka pri nalaganju mreže: ' + e.message + '</p>';
     }
 }
 

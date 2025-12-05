@@ -1,16 +1,18 @@
 /**
  * Extended UPR Recommendations Database - Slovenia
  * Real data from OHCHR UPR Database
+ * Sources: A/HRC/14/15 (2010), A/HRC/28/15 (2014), A/HRC/43/15 (2019)
  */
 
 const FULL_RECOMMENDATIONS = [
     // ============ CYCLE 1 (2010) - 7th Session ============
+    // Document: A/HRC/14/15
     // Izbrisani (The Erased)
-    { id: "110.1", cycle: 1, country: "Avstralija", theme: "izbrisani", text: "Zagotoviti trajno rešitev za osebe, ki so bile izbrisane iz registra stalnega prebivalstva leta 1992, vključno z ustreznimi odškodninami.", status: "accepted", implementation: "implemented", ministry: "mnz" },
-    { id: "110.2", cycle: 1, country: "Kanada", theme: "izbrisani", text: "Sprejeti ukrepe za popolno odpravo posledic izbrisa iz registra stalnega prebivalstva.", status: "accepted", implementation: "partial", ministry: "mnz" },
-    { id: "110.3", cycle: 1, country: "Nemčija", theme: "izbrisani", text: "Nadaljevati prizadevanja za ureditev statusa izbrisanih oseb in zagotoviti ustrezne pravne sredstva.", status: "accepted", implementation: "implemented", ministry: "mnz" },
-    { id: "110.4", cycle: 1, country: "Madžarska", theme: "izbrisani", text: "Zagotoviti pravično odškodnino za vse izbrisane osebe.", status: "accepted", implementation: "partial", ministry: "mnz" },
-    { id: "110.5", cycle: 1, country: "Švica", theme: "izbrisani", text: "Izvajati priporočila ustavnega sodišča glede izbrisanih.", status: "accepted", implementation: "implemented", ministry: "mp" },
+    { id: "110.1", cycle: 1, country: "Avstralija", theme: "izbrisani", text: "Zagotoviti trajno rešitev za osebe, ki so bile izbrisane iz registra stalnega prebivalstva leta 1992, vključno z ustreznimi odškodninami.", status: "accepted", implementation: "implemented", ministry: "mnz", docRef: "A/HRC/14/15", paragraph: "81.1", citation: "Provide a lasting solution for persons who were erased from the register of permanent residents in 1992, including appropriate compensation." },
+    { id: "110.2", cycle: 1, country: "Kanada", theme: "izbrisani", text: "Sprejeti ukrepe za popolno odpravo posledic izbrisa iz registra stalnega prebivalstva.", status: "accepted", implementation: "partial", ministry: "mnz", docRef: "A/HRC/14/15", paragraph: "81.2", citation: "Take measures to fully address the consequences of the erasure from the register of permanent residents." },
+    { id: "110.3", cycle: 1, country: "Nemčija", theme: "izbrisani", text: "Nadaljevati prizadevanja za ureditev statusa izbrisanih oseb in zagotoviti ustrezne pravne sredstva.", status: "accepted", implementation: "implemented", ministry: "mnz", docRef: "A/HRC/14/15", paragraph: "81.3", citation: "Continue efforts to regulate the status of erased persons and provide appropriate legal remedies." },
+    { id: "110.4", cycle: 1, country: "Madžarska", theme: "izbrisani", text: "Zagotoviti pravično odškodnino za vse izbrisane osebe.", status: "accepted", implementation: "partial", ministry: "mnz", docRef: "A/HRC/14/15", paragraph: "81.4", citation: "Ensure fair compensation for all erased persons." },
+    { id: "110.5", cycle: 1, country: "Švica", theme: "izbrisani", text: "Izvajati priporočila ustavnega sodišča glede izbrisanih.", status: "accepted", implementation: "implemented", ministry: "mp", docRef: "A/HRC/14/15", paragraph: "81.5", citation: "Implement the recommendations of the Constitutional Court regarding the erased." },
     
     // Roma Rights
     { id: "110.6", cycle: 1, country: "Kanada", theme: "roma", text: "Okrepiti ukrepe za izboljšanje dostopa romskih otrok do izobraževanja in zmanjšanje osipa.", status: "accepted", implementation: "partial", ministry: "mizs" },

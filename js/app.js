@@ -320,7 +320,7 @@ function renderRecommendations(recs) {
     count.textContent = recs.length;
     
     body.innerHTML = recs.map((r, i) => `
-        <div class="table-row">
+        <div class="table-row clickable-row" data-rec-id="${r.id}" onclick="showRecDetail('${r.id}')">
             <div>${i + 1}</div>
             <div>${r.text}</div>
             <div>${r.country}</div>
@@ -330,6 +330,103 @@ function renderRecommendations(recs) {
             <div><span class="status-badge ${r.status}">${getStatusLabel(r.status)}</span></div>
         </div>
     `).join('');
+}
+
+// Show recommendation detail modal
+function showRecDetail(recId) {
+    const rec = ALL_RECOMMENDATIONS.find(r => r.id === recId);
+    if (!rec) return;
+    
+    const modal = document.createElement('div');
+    modal.className = 'rec-modal';
+    modal.innerHTML = `
+        <div class="rec-modal-content">
+            <button class="rec-modal-close" onclick="this.parentElement.parentElement.remove()">&times;</button>
+            <h3>📋 Priporočilo ${rec.id}</h3>
+            
+            <div class="rec-detail-grid">
+                <div class="rec-detail-item">
+                    <strong>🌍 Država:</strong>
+                    <span>${rec.country}</span>
+                </div>
+                <div class="rec-detail-item">
+                    <strong>🔄 Cikel:</strong>
+                    <span>${rec.cycle}. cikel UPR</span>
+                </div>
+                <div class="rec-detail-item">
+                    <strong>🎯 Tema:</strong>
+                    <span>${getThemeName(rec.theme)}</span>
+                </div>
+                <div class="rec-detail-item">
+                    <strong>🏛️ Ministrstvo:</strong>
+                    <span>${getMinistryFull(rec.ministry)}</span>
+                </div>
+                <div class="rec-detail-item">
+                    <strong>📊 Status:</strong>
+                    <span class="status-badge ${rec.status}">${getStatusLabel(rec.status)}</span>
+                </div>
+                <div class="rec-detail-item">
+                    <strong>✅ Implementacija:</strong>
+                    <span class="impl-badge ${rec.implementation}">${getImplLabel(rec.implementation)}</span>
+                </div>
+            </div>
+            
+            <div class="rec-text-section">
+                <h4>📝 Besedilo priporočila (SL):</h4>
+                <p class="rec-text">${rec.text}</p>
+            </div>
+            
+            ${rec.citation ? `
+            <div class="rec-citation-section">
+                <h4>📄 Izvirni citat (EN):</h4>
+                <blockquote class="rec-citation">"${rec.citation}"</blockquote>
+            </div>
+            ` : ''}
+            
+            ${rec.docRef ? `
+            <div class="rec-source-section">
+                <h4>📚 Vir:</h4>
+                <p>
+                    <strong>Dokument:</strong> ${rec.docRef}<br>
+                    ${rec.paragraph ? `<strong>Odstavek:</strong> ${rec.paragraph}<br>` : ''}
+                    <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/${getDocPath(rec.docRef)}" target="_blank" class="doc-link">
+                        🔗 Odpri dokument na UN
+                    </a>
+                </p>
+            </div>
+            ` : ''}
+        </div>
+    `;
+    
+    document.body.appendChild(modal);
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) modal.remove();
+    });
+}
+
+function getMinistryFull(ministryId) {
+    const ministry = UPR_DATA.ministries.find(m => m.id === ministryId);
+    return ministry ? ministry.name : '-';
+}
+
+function getImplLabel(impl) {
+    const labels = {
+        'implemented': 'Implementirano',
+        'partial': 'Delno implementirano',
+        'not-implemented': 'Neimplementirano',
+        'pending': 'V obravnavi'
+    };
+    return labels[impl] || impl;
+}
+
+function getDocPath(docRef) {
+    // Convert document reference to UN document path
+    const paths = {
+        'A/HRC/14/15': 'G10/124/89/PDF/G1012489.pdf',
+        'A/HRC/28/15': 'G14/232/26/PDF/G1423226.pdf',
+        'A/HRC/43/15': 'G19/348/54/PDF/G1934854.pdf'
+    };
+    return paths[docRef] || '';
 }
 
 function getMinistryShort(ministryId) {
