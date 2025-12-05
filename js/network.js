@@ -247,37 +247,100 @@ class HumanRightsNetwork {
         const options = {
             nodes: {
                 shape: 'dot',
-                font: { size: 14, face: 'Segoe UI', color: '#1e293b', strokeWidth: 2, strokeColor: '#ffffff' },
-                borderWidth: 3,
-                shadow: true,
-                scaling: { min: 15, max: 60 }
+                font: { 
+                    size: 13, 
+                    face: 'Segoe UI, Arial, sans-serif', 
+                    color: '#1e293b', 
+                    strokeWidth: 3, 
+                    strokeColor: '#ffffff',
+                    bold: { color: '#1e293b', size: 14 }
+                },
+                borderWidth: 4,
+                shadow: {
+                    enabled: true,
+                    color: 'rgba(0,0,0,0.2)',
+                    size: 10,
+                    x: 3,
+                    y: 3
+                },
+                scaling: { 
+                    min: 20, 
+                    max: 70,
+                    label: { enabled: true, min: 12, max: 16 }
+                },
+                chosen: {
+                    node: function(values, id, selected, hovering) {
+                        values.borderWidth = 6;
+                        values.shadow = true;
+                        values.shadowSize = 15;
+                    }
+                }
             },
             edges: {
-                smooth: { type: 'continuous', roundness: 0.5 },
+                smooth: { 
+                    type: 'curvedCW', 
+                    roundness: 0.2,
+                    forceDirection: 'none'
+                },
                 arrows: { to: { enabled: false } },
-                selectionWidth: 3
+                selectionWidth: 4,
+                hoverWidth: 3,
+                color: {
+                    inherit: 'both',
+                    opacity: 0.7
+                }
             },
             physics: {
-                stabilization: { iterations: 150 },
+                enabled: true,
+                stabilization: { 
+                    enabled: true,
+                    iterations: 200,
+                    updateInterval: 25
+                },
                 barnesHut: {
-                    gravitationalConstant: -4000,
-                    springLength: 200,
-                    springConstant: 0.03,
-                    damping: 0.3
+                    gravitationalConstant: -5000,
+                    centralGravity: 0.3,
+                    springLength: 180,
+                    springConstant: 0.04,
+                    damping: 0.4,
+                    avoidOverlap: 0.5
                 }
             },
             interaction: {
                 hover: true,
-                tooltipDelay: 100,
+                tooltipDelay: 50,
                 hideEdgesOnDrag: false,
-                multiselect: false
+                multiselect: false,
+                navigationButtons: true,
+                keyboard: true,
+                zoomView: true
             },
             groups: {
-                theme: { color: { background: '#3b82f6', border: '#1d4ed8' }, shape: 'dot' },
-                ministry: { color: { background: '#10b981', border: '#059669' }, shape: 'diamond' },
-                treaty: { color: { background: '#f59e0b', border: '#d97706' }, shape: 'triangle' },
-                cycle: { color: { background: '#6366f1', border: '#4f46e5' }, shape: 'square' },
-                country: { color: { background: '#8b5cf6', border: '#7c3aed' }, shape: 'star' }
+                theme: { 
+                    color: { background: '#3b82f6', border: '#1d4ed8', highlight: { background: '#60a5fa', border: '#2563eb' } }, 
+                    shape: 'dot',
+                    borderWidth: 4
+                },
+                ministry: { 
+                    color: { background: '#10b981', border: '#047857', highlight: { background: '#34d399', border: '#059669' } }, 
+                    shape: 'dot',
+                    borderWidth: 4
+                },
+                treaty: { 
+                    color: { background: '#f59e0b', border: '#b45309', highlight: { background: '#fbbf24', border: '#d97706' } }, 
+                    shape: 'dot',
+                    borderWidth: 4
+                },
+                cycle: { 
+                    color: { background: '#6366f1', border: '#4338ca', highlight: { background: '#818cf8', border: '#4f46e5' } }, 
+                    shape: 'dot',
+                    borderWidth: 5
+                },
+                country: { 
+                    color: { background: '#ec4899', border: '#be185d', highlight: { background: '#f472b6', border: '#db2777' } }, 
+                    shape: 'dot',
+                    borderWidth: 4
+                }
             }
         };
 
