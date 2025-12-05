@@ -1,15 +1,19 @@
 /**
  * Network Visualization for Slovenia Human Rights System
- * Interactive connection web showing relationships between themes, countries, ministries
+ * Interactive connection web with step-by-step filtering
+ * Click any node to see ONLY its direct connections
  */
 
 class HumanRightsNetwork {
     constructor(containerId) {
         this.container = document.getElementById(containerId);
-        this.nodes = [];
-        this.edges = [];
+        this.allNodes = [];
+        this.allEdges = [];
+        this.nodes = null;
+        this.edges = null;
         this.network = null;
         this.selectedNode = null;
+        this.isFiltered = false;
     }
 
     init() {
@@ -17,12 +21,34 @@ class HumanRightsNetwork {
         this.buildEdges();
         this.render();
         this.setupEvents();
+        this.updateInstructions();
+    }
+    
+    updateInstructions() {
+        const panel = document.getElementById('networkDetails');
+        if (panel && !this.isFiltered) {
+            panel.innerHTML = `
+                <h4>📍 Navodila za uporabo</h4>
+                <p><strong>Kliknite na katerokoli vozlišče</strong> da vidite samo njegove povezave.</p>
+                <hr style="margin: 1rem 0; border: none; border-top: 1px solid #e2e8f0;">
+                <p><strong>Vrste vozlišč:</strong></p>
+                <ul>
+                    <li><span style="color:#3b82f6">●</span> <strong>Teme</strong> - Tematska področja</li>
+                    <li><span style="color:#10b981">◆</span> <strong>Ministrstva</strong> - Pristojni organi</li>
+                    <li><span style="color:#f59e0b">▲</span> <strong>Konvencije</strong> - Pogodbena telesa ZN</li>
+                    <li><span style="color:#6366f1">■</span> <strong>UPR Cikli</strong> - 2010, 2014, 2019, 2025</li>
+                    <li><span style="color:#8b5cf6">★</span> <strong>Države</strong> - Države s priporočili</li>
+                </ul>
+                <hr style="margin: 1rem 0; border: none; border-top: 1px solid #e2e8f0;">
+                <p><strong>Uporabite gumbe zgoraj</strong> za filtriranje po vrsti.</p>
+            `;
+        }
     }
 
     buildNodes() {
         // Theme nodes
         UPR_DATA.themes.forEach(theme => {
-            this.nodes.push({
+            this.allNodes.push({
                 id: `theme_${theme.id}`,
                 label: `${theme.icon} ${theme.name}`,
                 group: 'theme',
@@ -34,7 +60,7 @@ class HumanRightsNetwork {
 
         // Ministry nodes
         UPR_DATA.ministries.forEach(ministry => {
-            this.nodes.push({
+            this.allNodes.push({
                 id: `ministry_${ministry.id}`,
                 label: `${ministry.icon} ${ministry.shortName}`,
                 group: 'ministry',
@@ -46,7 +72,7 @@ class HumanRightsNetwork {
 
         // Treaty body nodes
         UPR_DATA.treatyBodies.filter(t => t.ratification).forEach(treaty => {
-            this.nodes.push({
+            this.allNodes.push({
                 id: `treaty_${treaty.id}`,
                 label: treaty.id.toUpperCase(),
                 group: 'treaty',
@@ -58,7 +84,7 @@ class HumanRightsNetwork {
 
         // Cycle nodes
         UPR_DATA.cycles.forEach(cycle => {
-            this.nodes.push({
+            this.allNodes.push({
                 id: `cycle_${cycle.cycle}`,
                 label: `UPR ${cycle.year}`,
                 group: 'cycle',
@@ -68,9 +94,9 @@ class HumanRightsNetwork {
             });
         });
 
-        // Top recommending countries
-        UPR_DATA.topRecommendingCountries.slice(0, 8).forEach(country => {
-            this.nodes.push({
+        // Top recommending countries - add more
+        UPR_DATA.topRecommendingCountries.forEach(country => {
+            this.allNodes.push({
                 id: `country_${country.country.toLowerCase().replace(/\s/g, '_')}`,
                 label: country.country,
                 group: 'country',
@@ -103,11 +129,12 @@ class HumanRightsNetwork {
 
         Object.entries(themeMinistryMap).forEach(([theme, ministries]) => {
             ministries.forEach(ministry => {
-                this.edges.push({
+                this.allEdges.push({
                     from: `theme_${theme}`,
                     to: `ministry_${ministry}`,
-                    color: { color: '#94a3b8', opacity: 0.6 },
-                    width: 2
+                    color: { color: '#10b981', opacity: 0.7 },
+                    width: 3,
+                    title: 'Tema → Ministrstvo'
                 });
             });
         });
@@ -129,12 +156,13 @@ class HumanRightsNetwork {
 
         Object.entries(themeTreatyMap).forEach(([theme, treaties]) => {
             treaties.forEach(treaty => {
-                this.edges.push({
+                this.allEdges.push({
                     from: `theme_${theme}`,
                     to: `treaty_${treaty}`,
-                    color: { color: '#f59e0b', opacity: 0.4 },
-                    width: 1,
-                    dashes: true
+                    color: { color: '#f59e0b', opacity: 0.6 },
+                    width: 2,
+                    dashes: true,
+                    title: 'Tema → Konvencija'
                 });
             });
         });
@@ -142,70 +170,114 @@ class HumanRightsNetwork {
         // Connect cycles to themes based on recommendations per cycle
         UPR_DATA.themes.forEach(theme => {
             Object.entries(theme.cycles).forEach(([cycle, count]) => {
-                if (count > 5) {
-                    this.edges.push({
+                if (count > 3) {
+                    this.allEdges.push({
                         from: `cycle_${cycle}`,
                         to: `theme_${theme.id}`,
-                        color: { color: '#3b82f6', opacity: 0.3 },
-                        width: Math.max(1, count / 5)
+                        color: { color: '#3b82f6', opacity: 0.5 },
+                        width: Math.max(2, count / 4),
+                        title: `${count} priporočil`
                     });
                 }
             });
         });
 
-        // Connect countries to cycles
-        UPR_DATA.topRecommendingCountries.slice(0, 8).forEach(country => {
+        // Connect countries to cycles - all countries
+        UPR_DATA.topRecommendingCountries.forEach(country => {
             const countryId = `country_${country.country.toLowerCase().replace(/\s/g, '_')}`;
             Object.entries(country.cycles).forEach(([cycle, count]) => {
-                if (count > 3) {
-                    this.edges.push({
+                if (count > 2) {
+                    this.allEdges.push({
                         from: countryId,
                         to: `cycle_${cycle}`,
-                        color: { color: '#8b5cf6', opacity: 0.3 },
-                        width: count / 2
+                        color: { color: '#8b5cf6', opacity: 0.5 },
+                        width: Math.max(1, count / 2),
+                        title: `${count} priporočil`
                     });
                 }
             });
+        });
+        
+        // Connect countries to themes they recommended most
+        const countryThemes = {};
+        const recs = typeof FULL_RECOMMENDATIONS !== 'undefined' ? FULL_RECOMMENDATIONS : [];
+        recs.forEach(r => {
+            const key = `${r.country.toLowerCase().replace(/\s/g, '_')}_${r.theme}`;
+            countryThemes[key] = (countryThemes[key] || 0) + 1;
+        });
+        
+        Object.entries(countryThemes).forEach(([key, count]) => {
+            if (count >= 2) {
+                const [country, theme] = key.split('_').reduce((acc, part, i, arr) => {
+                    if (i === arr.length - 1) {
+                        acc[1] = part;
+                    } else {
+                        acc[0] = acc[0] ? acc[0] + '_' + part : part;
+                    }
+                    return acc;
+                }, ['', '']);
+                
+                // Check if nodes exist
+                const countryNode = this.allNodes.find(n => n.id === `country_${country}`);
+                const themeNode = this.allNodes.find(n => n.id === `theme_${theme}`);
+                
+                if (countryNode && themeNode) {
+                    this.allEdges.push({
+                        from: `country_${country}`,
+                        to: `theme_${theme}`,
+                        color: { color: '#ec4899', opacity: 0.4 },
+                        width: count,
+                        dashes: [5, 5],
+                        title: `${count} priporočil`
+                    });
+                }
+            }
         });
     }
 
     render() {
+        this.nodes = new vis.DataSet(this.allNodes);
+        this.edges = new vis.DataSet(this.allEdges);
+        
         const data = {
-            nodes: new vis.DataSet(this.nodes),
-            edges: new vis.DataSet(this.edges)
+            nodes: this.nodes,
+            edges: this.edges
         };
 
         const options = {
             nodes: {
                 shape: 'dot',
-                font: { size: 12, face: 'Segoe UI', color: '#1e293b' },
-                borderWidth: 2,
+                font: { size: 14, face: 'Segoe UI', color: '#1e293b', strokeWidth: 2, strokeColor: '#ffffff' },
+                borderWidth: 3,
                 shadow: true,
-                scaling: { min: 10, max: 50 }
+                scaling: { min: 15, max: 60 }
             },
             edges: {
-                smooth: { type: 'continuous' },
-                arrows: { to: { enabled: false } }
+                smooth: { type: 'continuous', roundness: 0.5 },
+                arrows: { to: { enabled: false } },
+                selectionWidth: 3
             },
             physics: {
-                stabilization: { iterations: 100 },
+                stabilization: { iterations: 150 },
                 barnesHut: {
-                    gravitationalConstant: -3000,
-                    springLength: 150,
-                    springConstant: 0.04
+                    gravitationalConstant: -4000,
+                    springLength: 200,
+                    springConstant: 0.03,
+                    damping: 0.3
                 }
             },
             interaction: {
                 hover: true,
                 tooltipDelay: 100,
-                hideEdgesOnDrag: true
+                hideEdgesOnDrag: false,
+                multiselect: false
             },
             groups: {
-                theme: { color: { background: '#3b82f6' }, shape: 'dot' },
-                ministry: { color: { background: '#10b981' }, shape: 'diamond' },
-                treaty: { color: { background: '#f59e0b' }, shape: 'triangle' },
-                cycle: { color: { background: '#6366f1' }, shape: 'square' },
-                country: { color: { background: '#8b5cf6' }, shape: 'star' }
+                theme: { color: { background: '#3b82f6', border: '#1d4ed8' }, shape: 'dot' },
+                ministry: { color: { background: '#10b981', border: '#059669' }, shape: 'diamond' },
+                treaty: { color: { background: '#f59e0b', border: '#d97706' }, shape: 'triangle' },
+                cycle: { color: { background: '#6366f1', border: '#4f46e5' }, shape: 'square' },
+                country: { color: { background: '#8b5cf6', border: '#7c3aed' }, shape: 'star' }
             }
         };
 
@@ -213,21 +285,82 @@ class HumanRightsNetwork {
     }
 
     setupEvents() {
+        // Single click - filter to show only connected nodes
         this.network.on('click', (params) => {
             if (params.nodes.length > 0) {
                 const nodeId = params.nodes[0];
-                this.showNodeDetails(nodeId);
+                this.focusOnNode(nodeId);
+            } else if (params.nodes.length === 0 && params.edges.length === 0) {
+                // Click on empty space - reset view
+                this.showAll();
             }
         });
 
         this.network.on('doubleClick', (params) => {
             if (params.nodes.length > 0) {
                 this.network.focus(params.nodes[0], {
-                    scale: 1.5,
-                    animation: true
+                    scale: 1.8,
+                    animation: { duration: 500, easingFunction: 'easeInOutQuad' }
                 });
             }
         });
+    }
+    
+    // Focus on a single node and show only its connections
+    focusOnNode(nodeId) {
+        this.selectedNode = nodeId;
+        this.isFiltered = true;
+        
+        // Find all connected nodes
+        const connectedEdges = this.allEdges.filter(e => e.from === nodeId || e.to === nodeId);
+        const connectedNodeIds = new Set([nodeId]);
+        
+        connectedEdges.forEach(e => {
+            connectedNodeIds.add(e.from);
+            connectedNodeIds.add(e.to);
+        });
+        
+        // Update nodes - highlight connected, fade others
+        const updatedNodes = this.allNodes.map(n => {
+            if (connectedNodeIds.has(n.id)) {
+                return { ...n, opacity: 1, hidden: false };
+            } else {
+                return { ...n, opacity: 0.1, hidden: true };
+            }
+        });
+        
+        // Filter to only show connected
+        const visibleNodes = updatedNodes.filter(n => !n.hidden);
+        
+        this.nodes.clear();
+        this.nodes.add(visibleNodes);
+        this.edges.clear();
+        this.edges.add(connectedEdges);
+        
+        // Focus on the selected node
+        setTimeout(() => {
+            this.network.fit({
+                nodes: Array.from(connectedNodeIds),
+                animation: { duration: 500, easingFunction: 'easeInOutQuad' }
+            });
+        }, 100);
+        
+        // Show details
+        this.showNodeDetails(nodeId);
+    }
+    
+    // Show all nodes again
+    showAll() {
+        this.selectedNode = null;
+        this.isFiltered = false;
+        
+        this.nodes.clear();
+        this.nodes.add(this.allNodes);
+        this.edges.clear();
+        this.edges.add(this.allEdges);
+        
+        this.network.fit({ animation: true });
+        this.updateInstructions();
     }
 
     showNodeDetails(nodeId) {
@@ -321,34 +454,66 @@ class HumanRightsNetwork {
 
     filterByGroup(group) {
         if (!group) {
-            this.network.setData({
-                nodes: new vis.DataSet(this.nodes),
-                edges: new vis.DataSet(this.edges)
-            });
+            this.showAll();
             return;
         }
-
-        const filteredNodes = this.nodes.filter(n => n.group === group);
-        const nodeIds = filteredNodes.map(n => n.id);
-        const filteredEdges = this.edges.filter(e => 
-            nodeIds.includes(e.from) || nodeIds.includes(e.to)
+        
+        this.isFiltered = true;
+        
+        // Get nodes of the selected group
+        const groupNodes = this.allNodes.filter(n => n.group === group);
+        const groupNodeIds = groupNodes.map(n => n.id);
+        
+        // Get all edges connected to these nodes
+        const connectedEdges = this.allEdges.filter(e => 
+            groupNodeIds.includes(e.from) || groupNodeIds.includes(e.to)
         );
-
-        this.network.setData({
-            nodes: new vis.DataSet(filteredNodes),
-            edges: new vis.DataSet(filteredEdges)
+        
+        // Get all nodes that are connected (including other groups)
+        const connectedNodeIds = new Set(groupNodeIds);
+        connectedEdges.forEach(e => {
+            connectedNodeIds.add(e.from);
+            connectedNodeIds.add(e.to);
         });
+        
+        const visibleNodes = this.allNodes.filter(n => connectedNodeIds.has(n.id));
+        
+        this.nodes.clear();
+        this.nodes.add(visibleNodes);
+        this.edges.clear();
+        this.edges.add(connectedEdges);
+        
+        this.network.fit({ animation: true });
+        
+        // Update details panel
+        const groupNames = {
+            theme: 'Teme',
+            ministry: 'Ministrstva', 
+            treaty: 'Pogodbena telesa',
+            cycle: 'UPR Cikli',
+            country: 'Države'
+        };
+        
+        const panel = document.getElementById('networkDetails');
+        if (panel) {
+            panel.innerHTML = `
+                <h4>🔍 Filter: ${groupNames[group] || group}</h4>
+                <p>Prikazanih <strong>${groupNodes.length}</strong> vozlišč tipa "${groupNames[group]}"</p>
+                <p>Povezanih z <strong>${visibleNodes.length - groupNodes.length}</strong> drugimi vozlišči</p>
+                <hr style="margin: 1rem 0; border: none; border-top: 1px solid #e2e8f0;">
+                <p><strong>Kliknite na posamezno vozlišče</strong> za podrobnosti.</p>
+                <p><strong>Kliknite na prazen prostor</strong> za prikaz vseh.</p>
+            `;
+        }
     }
 
     focusOnTheme(themeId) {
         const nodeId = `theme_${themeId}`;
-        this.network.focus(nodeId, { scale: 1.2, animation: true });
-        this.network.selectNodes([nodeId]);
-        this.showNodeDetails(nodeId);
+        this.focusOnNode(nodeId);
     }
 
     resetView() {
-        this.network.fit({ animation: true });
+        this.showAll();
     }
 }
 

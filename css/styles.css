@@ -827,10 +827,24 @@ body {
 }
 
 .legend-badge {
-    padding: 0.4rem 0.8rem;
+    padding: 0.5rem 1rem;
     border-radius: 20px;
     font-size: 0.85rem;
     font-weight: 500;
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.legend-badge.clickable:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.btn-network.btn-primary {
+    background: var(--un-blue);
+    color: white;
+    border-color: var(--un-blue);
 }
 
 .legend-badge.theme {

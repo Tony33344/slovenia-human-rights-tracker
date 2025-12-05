@@ -168,17 +168,14 @@
             
             <div class="network-controls">
                 <div class="network-legend">
-                    <span class="legend-badge theme">● Teme</span>
-                    <span class="legend-badge ministry">◆ Ministrstva</span>
-                    <span class="legend-badge treaty">▲ Pogodbena telesa</span>
-                    <span class="legend-badge cycle">■ UPR Cikli</span>
-                    <span class="legend-badge country">★ Države</span>
+                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup('theme')" class="legend-badge theme clickable">● Teme</button>
+                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup('ministry')" class="legend-badge ministry clickable">◆ Ministrstva</button>
+                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup('treaty')" class="legend-badge treaty clickable">▲ Pogodbena telesa</button>
+                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup('cycle')" class="legend-badge cycle clickable">■ UPR Cikli</button>
+                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup('country')" class="legend-badge country clickable">★ Države</button>
                 </div>
                 <div class="network-buttons">
-                    <button onclick="humanRightsNetwork && humanRightsNetwork.resetView()" class="btn-network">🔄 Ponastavi pogled</button>
-                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup('theme')" class="btn-network">Samo teme</button>
-                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup('ministry')" class="btn-network">Samo ministrstva</button>
-                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup(null)" class="btn-network">Prikaži vse</button>
+                    <button onclick="humanRightsNetwork && humanRightsNetwork.showAll()" class="btn-network btn-primary">🔄 Prikaži vse</button>
                 </div>
             </div>
             
@@ -206,209 +203,178 @@
             </div>
         </section>
 
-        <!-- MEDIA TAB -->
+        <!-- MEDIA TAB - UPR Documents Only -->
         <section id="media" class="tab-content">
-            <h2 class="section-title">Mediji in novice o človekovih pravicah v Sloveniji</h2>
+            <h2 class="section-title">UPR Dokumenti Slovenije - Uradni viri</h2>
             
             <div class="media-intro">
-                <p>Spremljajte novice in poročanje o človekovih pravicah v Sloveniji iz različnih virov.</p>
+                <p>Uradni dokumenti Univerzalnega periodičnega pregleda (UPR) za Slovenijo iz baze OHCHR.</p>
             </div>
 
             <div class="media-grid">
+                <!-- 1. CYCLE (2010) -->
                 <div class="media-section">
-                    <h3>🇸🇮 Slovenski mediji</h3>
-                    <div class="media-links" id="slovenianMedia">
-                        <a href="https://www.rtvslo.si/slovenija" target="_blank" class="media-card">
-                            <span class="media-icon">📺</span>
+                    <h3>🔄 1. Cikel UPR (2010) - 7. seja</h3>
+                    <div class="media-links">
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G10/124/89/PDF/G1012489.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>RTV Slovenija</strong>
-                                <span>Javni medij - novice o človekovih pravicah</span>
+                                <strong>A/HRC/14/15</strong>
+                                <span>Poročilo delovne skupine</span>
                             </div>
                         </a>
-                        <a href="https://www.delo.si/tag/clovekove-pravice/" target="_blank" class="media-card">
-                            <span class="media-icon">📰</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G10/140/17/PDF/G1014017.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Delo</strong>
-                                <span>Dnevnik - človeške pravice</span>
+                                <strong>A/HRC/14/15/Add.1</strong>
+                                <span>Stališča Slovenije do priporočil</span>
                             </div>
                         </a>
-                        <a href="https://www.dnevnik.si/tag/clovekove-pravice" target="_blank" class="media-card">
-                            <span class="media-icon">📰</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G09/172/48/PDF/G0917248.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Dnevnik</strong>
-                                <span>Dnevnik - človeške pravice</span>
+                                <strong>A/HRC/WG.6/7/SVN/1</strong>
+                                <span>Nacionalno poročilo Slovenije</span>
                             </div>
                         </a>
-                        <a href="https://www.mladina.si/rubrika/slovenija/" target="_blank" class="media-card">
-                            <span class="media-icon">📰</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G09/176/48/PDF/G0917648.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Mladina</strong>
-                                <span>Tednik - družbena vprašanja</span>
+                                <strong>A/HRC/WG.6/7/SVN/2</strong>
+                                <span>Kompilacija ZN</span>
                             </div>
                         </a>
-                        <a href="https://www.24ur.com/novice" target="_blank" class="media-card">
-                            <span class="media-icon">📺</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G09/176/56/PDF/G0917656.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>24ur</strong>
-                                <span>POP TV - novice</span>
-                            </div>
-                        </a>
-                        <a href="https://n1info.si/tag/clovekove-pravice/" target="_blank" class="media-card">
-                            <span class="media-icon">📺</span>
-                            <div class="media-info">
-                                <strong>N1 Slovenija</strong>
-                                <span>Novice - človeške pravice</span>
-                            </div>
-                        </a>
-                        <a href="https://www.necenzurirano.si/" target="_blank" class="media-card">
-                            <span class="media-icon">🔍</span>
-                            <div class="media-info">
-                                <strong>Necenzurirano</strong>
-                                <span>Raziskovalno novinarstvo</span>
+                                <strong>A/HRC/WG.6/7/SVN/3</strong>
+                                <span>Povzetek deležnikov</span>
                             </div>
                         </a>
                     </div>
                 </div>
 
+                <!-- 2. CYCLE (2014) -->
                 <div class="media-section">
-                    <h3>🌍 Mednarodni mediji</h3>
-                    <div class="media-links" id="internationalMedia">
-                        <a href="https://www.ohchr.org/en/countries/slovenia" target="_blank" class="media-card">
-                            <span class="media-icon">🇺🇳</span>
+                    <h3>🔄 2. Cikel UPR (2014) - 20. seja</h3>
+                    <div class="media-links">
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G14/232/26/PDF/G1423226.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>UN OHCHR - Slovenija</strong>
-                                <span>Uradna stran ZN za človekove pravice</span>
+                                <strong>A/HRC/28/15</strong>
+                                <span>Poročilo delovne skupine</span>
                             </div>
                         </a>
-                        <a href="https://www.amnesty.org/en/location/europe-and-central-asia/slovenia/" target="_blank" class="media-card">
-                            <span class="media-icon">🕯️</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G15/050/51/PDF/G1505051.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Amnesty International</strong>
-                                <span>Poročila o Sloveniji</span>
+                                <strong>A/HRC/28/15/Add.1</strong>
+                                <span>Stališča Slovenije do priporočil</span>
                             </div>
                         </a>
-                        <a href="https://www.hrw.org/europe/central-asia/slovenia" target="_blank" class="media-card">
-                            <span class="media-icon">👁️</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G14/130/95/PDF/G1413095.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Human Rights Watch</strong>
-                                <span>Poročila o Sloveniji</span>
+                                <strong>A/HRC/WG.6/20/SVN/1</strong>
+                                <span>Nacionalno poročilo Slovenije</span>
                             </div>
                         </a>
-                        <a href="https://www.coe.int/en/web/portal/slovenia" target="_blank" class="media-card">
-                            <span class="media-icon">🇪🇺</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G14/133/96/PDF/G1413396.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Svet Evrope</strong>
-                                <span>Slovenija - človeške pravice</span>
+                                <strong>A/HRC/WG.6/20/SVN/2</strong>
+                                <span>Kompilacija ZN</span>
                             </div>
                         </a>
-                        <a href="https://fra.europa.eu/en/country-data/slovenia" target="_blank" class="media-card">
-                            <span class="media-icon">🇪🇺</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G14/130/28/PDF/G1413028.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>EU FRA</strong>
-                                <span>Agencija EU za temeljne pravice</span>
+                                <strong>A/HRC/WG.6/20/SVN/3</strong>
+                                <span>Povzetek deležnikov</span>
                             </div>
                         </a>
-                        <a href="https://www.echr.coe.int/Pages/home.aspx?p=caselaw/HUDOC" target="_blank" class="media-card">
-                            <span class="media-icon">⚖️</span>
+                        <a href="https://www.ohchr.org/sites/default/files/lib-docs/HRBodies/UPR/Documents/Session20/SI/SloveniaMidtermReport.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>ESČP HUDOC</strong>
-                                <span>Sodbe proti Sloveniji</span>
+                                <strong>Vmesno poročilo 2017</strong>
+                                <span>Mid-term Report</span>
                             </div>
                         </a>
                     </div>
                 </div>
 
+                <!-- 3. CYCLE (2019) -->
                 <div class="media-section">
-                    <h3>🏛️ Institucije in NVO</h3>
-                    <div class="media-links" id="ngoMedia">
-                        <a href="https://www.varuh-rs.si/" target="_blank" class="media-card">
-                            <span class="media-icon">🛡️</span>
+                    <h3>🔄 3. Cikel UPR (2019) - 34. seja</h3>
+                    <div class="media-links">
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G19/348/54/PDF/G1934854.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Varuh človekovih pravic RS</strong>
-                                <span>Nacionalna institucija za človekove pravice</span>
+                                <strong>A/HRC/43/15</strong>
+                                <span>Poročilo delovne skupine</span>
                             </div>
                         </a>
-                        <a href="https://www.zagovornik.si/" target="_blank" class="media-card">
-                            <span class="media-icon">⚖️</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G20/051/24/PDF/G2005124.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Zagovornik načela enakosti</strong>
-                                <span>Organ za enakost</span>
+                                <strong>A/HRC/43/15/Add.1</strong>
+                                <span>Stališča Slovenije do priporočil</span>
                             </div>
                         </a>
-                        <a href="https://www.mirovni-institut.si/" target="_blank" class="media-card">
-                            <span class="media-icon">🕊️</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G19/254/44/PDF/G1925444.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Mirovni inštitut</strong>
-                                <span>Raziskave človekovih pravic</span>
+                                <strong>A/HRC/WG.6/34/SVN/1</strong>
+                                <span>Nacionalno poročilo Slovenije</span>
                             </div>
                         </a>
-                        <a href="https://www.pic.si/" target="_blank" class="media-card">
-                            <span class="media-icon">📋</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G19/257/68/PDF/G1925768.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>PIC</strong>
-                                <span>Pravno-informacijski center</span>
+                                <strong>A/HRC/WG.6/34/SVN/2</strong>
+                                <span>Kompilacija ZN</span>
                             </div>
                         </a>
-                        <a href="https://www.legebitra.si/" target="_blank" class="media-card">
-                            <span class="media-icon">🏳️‍🌈</span>
+                        <a href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/G19/285/98/PDF/G1928598.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Legebitra</strong>
-                                <span>LGBTI+ pravice</span>
+                                <strong>A/HRC/WG.6/34/SVN/3</strong>
+                                <span>Povzetek deležnikov</span>
                             </div>
                         </a>
-                        <a href="https://www.amnesty.si/" target="_blank" class="media-card">
-                            <span class="media-icon">🕯️</span>
+                        <a href="https://www.ohchr.org/sites/default/files/documents/hrbodies/upr/sessions/session34/si/Slovenia-Mid-termReport.pdf" target="_blank" class="media-card">
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>Amnesty Slovenija</strong>
-                                <span>Slovenska sekcija AI</span>
-                            </div>
-                        </a>
-                        <a href="https://www.romsvet.si/" target="_blank" class="media-card">
-                            <span class="media-icon">🎪</span>
-                            <div class="media-info">
-                                <strong>Svet romske skupnosti</strong>
-                                <span>Romske pravice</span>
-                            </div>
-                        </a>
-                        <a href="https://www.zdruzenjeizbrisan.si/" target="_blank" class="media-card">
-                            <span class="media-icon">📜</span>
-                            <div class="media-info">
-                                <strong>Združenje izbrisanih</strong>
-                                <span>Pravice izbrisanih</span>
+                                <strong>Vmesno poročilo 2022</strong>
+                                <span>Mid-term Report</span>
                             </div>
                         </a>
                     </div>
                 </div>
 
+                <!-- 4. CYCLE (2025) -->
                 <div class="media-section">
-                    <h3>📊 UPR in poročila</h3>
-                    <div class="media-links" id="uprMedia">
+                    <h3>🔄 4. Cikel UPR (2025) - 48. seja</h3>
+                    <div class="media-links">
                         <a href="https://www.ohchr.org/en/hr-bodies/upr/si-index" target="_blank" class="media-card">
-                            <span class="media-icon">🇺🇳</span>
+                            <span class="media-icon">📄</span>
                             <div class="media-info">
-                                <strong>UPR Slovenija - OHCHR</strong>
-                                <span>Vsi UPR dokumenti</span>
+                                <strong>OHCHR - Slovenija</strong>
+                                <span>Glavna stran UPR</span>
                             </div>
                         </a>
                         <a href="https://upr-info.org/en/review/Slovenia" target="_blank" class="media-card">
                             <span class="media-icon">📊</span>
                             <div class="media-info">
-                                <strong>UPR Info</strong>
-                                <span>Baza podatkov UPR</span>
+                                <strong>UPR Info Database</strong>
+                                <span>Baza vseh priporočil</span>
                             </div>
                         </a>
                         <a href="https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/countries.aspx?CountryCode=SVN" target="_blank" class="media-card">
                             <span class="media-icon">📋</span>
                             <div class="media-info">
-                                <strong>Pogodbena telesa ZN</strong>
-                                <span>Vsa poročila za Slovenijo</span>
-                            </div>
-                        </a>
-                        <a href="https://www.gov.si/teme/clovekove-pravice/" target="_blank" class="media-card">
-                            <span class="media-icon">🏛️</span>
-                            <div class="media-info">
-                                <strong>Vlada RS - Človekove pravice</strong>
-                                <span>Vladna stran</span>
+                                <strong>Treaty Body Database</strong>
+                                <span>Pogodbena telesa - Slovenija</span>
                             </div>
                         </a>
                     </div>
