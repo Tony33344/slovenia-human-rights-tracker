@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slovenija - Sistem za Spremljanje Človekovih Pravic | UN UPR</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vis-network@9.1.6/dist/vis-network.min.js"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1>🇸🇮 Slovenija - Sistem za Spremljanje Človekovih Pravic</h1>
+            <p class="subtitle">Univerzalni periodični pregled (UPR) | 2010-2025</p>
+            <div class="institutions">
+                <span class="institution">📍 OHCHR</span>
+                <span class="institution">🏛️ Varuh človekovih pravic RS</span>
+                <span class="institution">🏢 Ministrstvo za zunanje zadeve</span>
+            </div>
+        </div>
+    </header>
+
+    <nav class="nav-tabs" id="navTabs">
+        <button class="nav-tab active" data-tab="overview">📊 Pregled</button>
+        <button class="nav-tab" data-tab="cycles">🔄 UPR Cikli</button>
+        <button class="nav-tab" data-tab="recommendations">📋 Priporočila</button>
+        <button class="nav-tab" data-tab="themes">🎯 Tematska področja</button>
+        <button class="nav-tab" data-tab="ministries">🏛️ Ministrstva</button>
+        <button class="nav-tab" data-tab="network">🔗 Mreža povezav</button>
+        <button class="nav-tab" data-tab="treaties">📜 Pogodbena telesa</button>
+        <button class="nav-tab" data-tab="documents">📁 Dokumenti</button>
+    </nav>
+
+    <main class="container">
+        <!-- OVERVIEW TAB -->
+        <section id="overview" class="tab-content active">
+            <h2 class="section-title">Statistični pregled - Vsi UPR cikli</h2>
+            
+            <div class="stats-grid" id="statsGrid">
+                <!-- Stats will be populated by JS -->
+            </div>
+
+            <div class="charts-grid">
+                <div class="chart-card">
+                    <h3 class="chart-title">📈 Priporočila po UPR ciklih</h3>
+                    <canvas id="cyclesChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3 class="chart-title">🎯 Status priporočil (1.-3. cikel)</h3>
+                    <canvas id="statusChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3 class="chart-title">📊 Priporočila po tematskih področjih</h3>
+                    <canvas id="themesChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3 class="chart-title">🌍 Države z največ priporočili</h3>
+                    <canvas id="countriesChart"></canvas>
+                </div>
+            </div>
+
+            <div class="legend-section">
+                <h4>Legenda statusov:</h4>
+                <div class="legend">
+                    <div class="legend-item"><span class="legend-color accepted"></span> Sprejeto</div>
+                    <div class="legend-item"><span class="legend-color noted"></span> Notirano</div>
+                    <div class="legend-item"><span class="legend-color implemented"></span> Implementirano</div>
+                    <div class="legend-item"><span class="legend-color partial"></span> Delno implementirano</div>
+                    <div class="legend-item"><span class="legend-color not-implemented"></span> Neimplementirano</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CYCLES TAB -->
+        <section id="cycles" class="tab-content">
+            <h2 class="section-title">UPR Cikli Slovenije (2010-2025)</h2>
+            
+            <div class="cycle-timeline" id="cycleTimeline">
+                <!-- Cycles will be populated by JS -->
+            </div>
+
+            <div class="cycle-details" id="cycleDetails">
+                <p class="placeholder-text">Kliknite na cikel za prikaz podrobnosti.</p>
+            </div>
+        </section>
+
+        <!-- RECOMMENDATIONS TAB -->
+        <section id="recommendations" class="tab-content">
+            <h2 class="section-title">Baza priporočil</h2>
+            
+            <div class="filters-section">
+                <div class="filters-grid">
+                    <div class="filter-group">
+                        <label for="filterCycle">UPR Cikel</label>
+                        <select id="filterCycle">
+                            <option value="">Vsi cikli</option>
+                            <option value="1">1. cikel (2010)</option>
+                            <option value="2">2. cikel (2014)</option>
+                            <option value="3">3. cikel (2019)</option>
+                            <option value="4">4. cikel (2025)</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterTheme">Tematsko področje</label>
+                        <select id="filterTheme">
+                            <option value="">Vsa področja</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterStatus">Status</label>
+                        <select id="filterStatus">
+                            <option value="">Vsi statusi</option>
+                            <option value="accepted">Sprejeto</option>
+                            <option value="noted">Notirano</option>
+                            <option value="pending">V obravnavi</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterSearch">Iskanje</label>
+                        <input type="text" id="filterSearch" placeholder="Ključne besede...">
+                    </div>
+                </div>
+            </div>
+
+            <div class="recommendations-table" id="recommendationsTable">
+                <div class="table-header">
+                    <div>Št.</div>
+                    <div>Priporočilo</div>
+                    <div>Država</div>
+                    <div>Cikel</div>
+                    <div>Tema</div>
+                    <div>Ministrstvo</div>
+                    <div>Status</div>
+                </div>
+                <div class="table-body" id="recommendationsBody">
+                    <!-- Recommendations will be populated by JS -->
+                </div>
+            </div>
+
+            <div class="results-info" id="resultsInfo">
+                Prikazujem <span id="resultsCount">0</span> priporočil
+            </div>
+        </section>
+
+        <!-- THEMES TAB -->
+        <section id="themes" class="tab-content">
+            <h2 class="section-title">Tematska področja</h2>
+            
+            <div class="themes-grid" id="themesGrid">
+                <!-- Themes will be populated by JS -->
+            </div>
+        </section>
+
+        <!-- MINISTRIES TAB -->
+        <section id="ministries" class="tab-content">
+            <h2 class="section-title">Pristojnost po ministrstvih</h2>
+            
+            <div class="ministry-grid" id="ministryGrid">
+                <!-- Ministries will be populated by JS -->
+            </div>
+        </section>
+
+        <!-- NETWORK TAB -->
+        <section id="network" class="tab-content">
+            <h2 class="section-title">Mreža povezav - Interaktivna vizualizacija</h2>
+            
+            <div class="network-controls">
+                <div class="network-legend">
+                    <span class="legend-badge theme">● Teme</span>
+                    <span class="legend-badge ministry">◆ Ministrstva</span>
+                    <span class="legend-badge treaty">▲ Pogodbena telesa</span>
+                    <span class="legend-badge cycle">■ UPR Cikli</span>
+                    <span class="legend-badge country">★ Države</span>
+                </div>
+                <div class="network-buttons">
+                    <button onclick="humanRightsNetwork && humanRightsNetwork.resetView()" class="btn-network">🔄 Ponastavi pogled</button>
+                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup('theme')" class="btn-network">Samo teme</button>
+                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup('ministry')" class="btn-network">Samo ministrstva</button>
+                    <button onclick="humanRightsNetwork && humanRightsNetwork.filterByGroup(null)" class="btn-network">Prikaži vse</button>
+                </div>
+            </div>
+            
+            <div class="network-container">
+                <div id="networkCanvas" class="network-canvas"></div>
+                <div id="networkDetails" class="network-details">
+                    <p>Kliknite na vozlišče za prikaz podrobnosti.</p>
+                    <p><strong>Navodila:</strong></p>
+                    <ul>
+                        <li>🖱️ <strong>Klik</strong> - Izberi vozlišče</li>
+                        <li>🖱️ <strong>Dvojni klik</strong> - Povečaj na vozlišče</li>
+                        <li>🖱️ <strong>Povleci</strong> - Premakni pogled</li>
+                        <li>🔄 <strong>Kolešček</strong> - Povečaj/pomanjšaj</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- TREATIES TAB -->
+        <section id="treaties" class="tab-content">
+            <h2 class="section-title">Pogodbena telesa ZN - Poročila za Slovenijo</h2>
+            
+            <div class="treaties-container" id="treatiesContainer">
+                <!-- Treaties will be populated by JS -->
+            </div>
+        </section>
+
+        <!-- DOCUMENTS TAB -->
+        <section id="documents" class="tab-content">
+            <h2 class="section-title">Dokumenti in viri</h2>
+            
+            <div class="documents-section">
+                <h3>📋 Uradni dokumenti UPR</h3>
+                <div class="documents-grid" id="uprDocuments">
+                    <!-- Documents will be populated by JS -->
+                </div>
+            </div>
+
+            <div class="documents-section">
+                <h3>🏛️ Nacionalne institucije</h3>
+                <div class="documents-grid" id="nationalDocuments">
+                    <!-- Documents will be populated by JS -->
+                </div>
+            </div>
+
+            <div class="documents-section">
+                <h3>🤝 Civilna družba</h3>
+                <div class="documents-grid" id="civilSocietyDocuments">
+                    <!-- Documents will be populated by JS -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>Podatki: <a href="https://www.ohchr.org/en/hr-bodies/upr/si-index" target="_blank">UN OHCHR</a> | 
+           <a href="https://www.varuh-rs.si" target="_blank">Varuh človekovih pravic RS</a> | 
+           Zadnja posodobitev: December 2024</p>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/recommendations-full.js"></script>
+    <script src="js/network.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
