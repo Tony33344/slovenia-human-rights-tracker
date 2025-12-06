@@ -599,7 +599,28 @@ function renderDocuments(containerId, docs) {
 // Utility Functions
 function getThemeName(themeId) {
     const theme = UPR_DATA.themes.find(t => t.id === themeId);
-    return theme ? theme.name : themeId;
+    if (theme) return theme.name;
+    
+    // Fallback mappings for additional themes
+    const fallbackNames = {
+        'roma': 'Pravice Romov',
+        'izbrisani': 'Izbrisani',
+        'discrimination': 'Diskriminacija',
+        'hate_speech': 'Sovražni govor',
+        'lgbti': 'LGBTI+ pravice',
+        'gender': 'Enakost spolov',
+        'migration': 'Migracije in azil',
+        'disability': 'Pravice invalidov',
+        'children': 'Pravice otrok',
+        'trafficking': 'Trgovina z ljudmi',
+        'torture': 'Prepoved mučenja',
+        'media': 'Svoboda medijev',
+        'nhri': 'NHRI / Varuh',
+        'elderly': 'Pravice starejših',
+        'environment': 'Okolje in podnebje',
+        'general': 'Splošno'
+    };
+    return fallbackNames[themeId] || themeId;
 }
 
 function getThemeColor(themeId) {
@@ -610,6 +631,7 @@ function getThemeColor(themeId) {
 function getStatusLabel(status) {
     const labels = {
         'accepted': 'Sprejeto',
+        'supported': 'Sprejeto',
         'noted': 'Notirano',
         'pending': 'V obravnavi',
         'implemented': 'Implementirano',

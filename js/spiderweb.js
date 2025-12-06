@@ -335,12 +335,26 @@ function initSpiderweb() {
         return;
     }
     
+    // Clear any existing content
+    canvas.innerHTML = '';
+    
     try {
         spiderwebDiagram = new SpiderwebDiagram('spiderwebCanvas');
         spiderwebDiagram.init();
         console.log('Spiderweb initialized successfully');
+        
+        // Force a re-render after a short delay to ensure visibility
+        setTimeout(() => {
+            const svg = canvas.querySelector('svg');
+            if (svg) {
+                svg.style.display = 'block';
+                svg.style.width = '100%';
+                svg.style.height = '750px';
+            }
+        }, 50);
     } catch (e) {
         console.error('Spiderweb initialization error:', e);
+        canvas.innerHTML = '<p style="color: white; padding: 2rem;">Error loading visualization. Please refresh the page.</p>';
     }
 }
 
