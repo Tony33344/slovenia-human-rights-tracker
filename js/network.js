@@ -46,62 +46,121 @@ class HumanRightsNetwork {
     }
 
     buildNodes() {
-        // Theme nodes
-        UPR_DATA.themes.forEach(theme => {
+        // Get live data from FULL_RECOMMENDATIONS
+        const recs = typeof FULL_RECOMMENDATIONS !== 'undefined' ? FULL_RECOMMENDATIONS : [];
+        
+        // Compute theme stats from live data
+        const themeStats = {};
+        const ministryStats = {};
+        const countryStats = {};
+        const cycleStats = {1: 0, 2: 0, 3: 0, 4: 0};
+        
+        recs.forEach(r => {
+            themeStats[r.theme] = (themeStats[r.theme] || 0) + 1;
+            ministryStats[r.ministry] = (ministryStats[r.ministry] || 0) + 1;
+            countryStats[r.country] = (countryStats[r.country] || 0) + 1;
+            cycleStats[r.cycle]++;
+        });
+        
+        // Theme name/icon mapping
+        const themeInfo = {
+            'roma': { name: 'Pravice Romov', icon: '🏠', color: '#8b5cf6' },
+            'izbrisani': { name: 'Izbrisani', icon: '📋', color: '#f59e0b' },
+            'discrimination': { name: 'Diskriminacija', icon: '⚖️', color: '#3b82f6' },
+            'hate_speech': { name: 'Sovražni govor', icon: '🗣️', color: '#ef4444' },
+            'lgbti': { name: 'LGBTI+ pravice', icon: '🏳️‍🌈', color: '#ec4899' },
+            'gender': { name: 'Enakost spolov', icon: '♀️', color: '#f472b6' },
+            'migration': { name: 'Migracije in azil', icon: '🌍', color: '#06b6d4' },
+            'disability': { name: 'Pravice invalidov', icon: '♿', color: '#10b981' },
+            'children': { name: 'Pravice otrok', icon: '👶', color: '#14b8a6' },
+            'trafficking': { name: 'Trgovina z ljudmi', icon: '⛓️', color: '#7c3aed' },
+            'torture': { name: 'Prepoved mučenja', icon: '🛡️', color: '#dc2626' },
+            'media': { name: 'Svoboda medijev', icon: '📰', color: '#6366f1' },
+            'nhri': { name: 'NHRI / Varuh', icon: '🏛️', color: '#0ea5e9' },
+            'elderly': { name: 'Pravice starejših', icon: '👴', color: '#84cc16' },
+            'environment': { name: 'Okolje in podnebje', icon: '🌱', color: '#22c55e' },
+            'treaties': { name: 'Mednarodne pogodbe', icon: '📜', color: '#0891b2' },
+            'general': { name: 'Splošno', icon: '📄', color: '#64748b' }
+        };
+        
+        // Theme nodes from live data
+        Object.entries(themeStats).forEach(([themeId, count]) => {
+            const info = themeInfo[themeId] || { name: themeId, icon: '📌', color: '#64748b' };
             this.allNodes.push({
-                id: `theme_${theme.id}`,
-                label: `${theme.icon} ${theme.name}`,
+                id: `theme_${themeId}`,
+                label: `${info.icon} ${info.name}`,
                 group: 'theme',
-                title: `${theme.name}\n${theme.totalRecs} priporočil`,
-                value: theme.totalRecs,
-                color: { background: theme.color, border: theme.color }
+                title: `${info.name}\n${count} priporočil`,
+                value: count,
+                color: { background: info.color, border: info.color }
             });
         });
 
-        // Ministry nodes
-        UPR_DATA.ministries.forEach(ministry => {
+        // Ministry info mapping
+        const ministryInfo = {
+            'mddsz': { name: 'Ministrstvo za delo, družino in socialne zadeve', short: 'MDDSZ', icon: '👥' },
+            'mnz': { name: 'Ministrstvo za notranje zadeve', short: 'MNZ', icon: '🛡️' },
+            'mp': { name: 'Ministrstvo za pravosodje', short: 'MP', icon: '⚖️' },
+            'mizs': { name: 'Ministrstvo za izobraževanje', short: 'MIZŠ', icon: '📚' },
+            'mz': { name: 'Ministrstvo za zdravje', short: 'MZ', icon: '🏥' },
+            'mk': { name: 'Ministrstvo za kulturo', short: 'MK', icon: '🎭' },
+            'mzez': { name: 'Ministrstvo za zunanje zadeve', short: 'MZEZ', icon: '🌐' }
+        };
+        
+        // Ministry nodes from live data
+        Object.entries(ministryStats).forEach(([ministryId, count]) => {
+            const info = ministryInfo[ministryId] || { name: ministryId, short: ministryId.toUpperCase(), icon: '🏛️' };
             this.allNodes.push({
-                id: `ministry_${ministry.id}`,
-                label: `${ministry.icon} ${ministry.shortName}`,
+                id: `ministry_${ministryId}`,
+                label: `${info.icon} ${info.short}`,
                 group: 'ministry',
-                title: `${ministry.name}\n${ministry.recommendations} priporočil`,
-                value: ministry.recommendations / 2,
+                title: `${info.name}\n${count} priporočil`,
+                value: count / 2,
                 color: { background: '#10b981', border: '#059669' }
             });
         });
 
-        // Treaty body nodes
-        UPR_DATA.treatyBodies.filter(t => t.ratification).forEach(treaty => {
-            this.allNodes.push({
-                id: `treaty_${treaty.id}`,
-                label: treaty.id.toUpperCase(),
-                group: 'treaty',
-                title: `${treaty.name}\nRatifikacija: ${treaty.ratification}`,
-                value: 20,
-                color: { background: '#f59e0b', border: '#d97706' }
+        // Treaty body nodes (keep from UPR_DATA as these are static)
+        if (typeof UPR_DATA !== 'undefined' && UPR_DATA.treatyBodies) {
+            UPR_DATA.treatyBodies.filter(t => t.ratification).forEach(treaty => {
+                this.allNodes.push({
+                    id: `treaty_${treaty.id}`,
+                    label: treaty.id.toUpperCase(),
+                    group: 'treaty',
+                    title: `${treaty.name}\nRatifikacija: ${treaty.ratification}`,
+                    value: 20,
+                    color: { background: '#f59e0b', border: '#d97706' }
+                });
             });
+        }
+
+        // Cycle nodes from live data
+        const cycleYears = {1: 2010, 2: 2014, 3: 2019, 4: 2025};
+        Object.entries(cycleStats).forEach(([cycle, count]) => {
+            if (count > 0) {
+                this.allNodes.push({
+                    id: `cycle_${cycle}`,
+                    label: `UPR ${cycleYears[cycle]}`,
+                    group: 'cycle',
+                    title: `${cycle}. cikel UPR\n${count} priporočil`,
+                    value: count / 5,
+                    color: { background: '#3b82f6', border: '#1d4ed8' }
+                });
+            }
         });
 
-        // Cycle nodes
-        UPR_DATA.cycles.forEach(cycle => {
+        // Top recommending countries from live data (top 15)
+        const topCountries = Object.entries(countryStats)
+            .sort((a, b) => b[1] - a[1])
+            .slice(0, 15);
+        
+        topCountries.forEach(([country, count]) => {
             this.allNodes.push({
-                id: `cycle_${cycle.cycle}`,
-                label: `UPR ${cycle.year}`,
-                group: 'cycle',
-                title: `${cycle.cycle}. cikel UPR\n${cycle.totalRecommendations} priporočil`,
-                value: cycle.totalRecommendations / 5,
-                color: { background: '#3b82f6', border: '#1d4ed8' }
-            });
-        });
-
-        // Top recommending countries - add more
-        UPR_DATA.topRecommendingCountries.forEach(country => {
-            this.allNodes.push({
-                id: `country_${country.country.toLowerCase().replace(/\s/g, '_')}`,
-                label: country.country,
+                id: `country_${country.toLowerCase().replace(/\s/g, '_')}`,
+                label: country,
                 group: 'country',
-                title: `${country.country}\n${country.total} priporočil`,
-                value: country.total,
+                title: `${country}\n${count} priporočil`,
+                value: count,
                 color: { background: '#8b5cf6', border: '#7c3aed' }
             });
         });
@@ -167,40 +226,55 @@ class HumanRightsNetwork {
             });
         });
 
-        // Connect cycles to themes based on recommendations per cycle
-        UPR_DATA.themes.forEach(theme => {
-            Object.entries(theme.cycles).forEach(([cycle, count]) => {
-                if (count > 3) {
-                    this.allEdges.push({
-                        from: `cycle_${cycle}`,
-                        to: `theme_${theme.id}`,
-                        color: { color: '#3b82f6', opacity: 0.5 },
-                        width: Math.max(2, count / 4),
-                        title: `${count} priporočil`
-                    });
-                }
-            });
+        // Connect cycles to themes based on LIVE data
+        const recs = typeof FULL_RECOMMENDATIONS !== 'undefined' ? FULL_RECOMMENDATIONS : [];
+        const cycleThemeStats = {};
+        const countryByCycle = {};
+        
+        recs.forEach(r => {
+            const ctKey = `${r.cycle}_${r.theme}`;
+            cycleThemeStats[ctKey] = (cycleThemeStats[ctKey] || 0) + 1;
+            
+            const ccKey = `${r.country.toLowerCase().replace(/\s/g, '_')}_${r.cycle}`;
+            countryByCycle[ccKey] = (countryByCycle[ccKey] || 0) + 1;
+        });
+        
+        Object.entries(cycleThemeStats).forEach(([key, count]) => {
+            if (count > 3) {
+                const [cycle, theme] = key.split('_');
+                this.allEdges.push({
+                    from: `cycle_${cycle}`,
+                    to: `theme_${theme}`,
+                    color: { color: '#3b82f6', opacity: 0.5 },
+                    width: Math.max(2, count / 4),
+                    title: `${count} priporočil`
+                });
+            }
         });
 
-        // Connect countries to cycles - all countries
-        UPR_DATA.topRecommendingCountries.forEach(country => {
-            const countryId = `country_${country.country.toLowerCase().replace(/\s/g, '_')}`;
-            Object.entries(country.cycles).forEach(([cycle, count]) => {
-                if (count > 2) {
+        // Connect countries to cycles from LIVE data
+        Object.entries(countryByCycle).forEach(([key, count]) => {
+            if (count > 2) {
+                const parts = key.split('_');
+                const cycle = parts.pop();
+                const country = parts.join('_');
+                
+                // Check if country node exists
+                const countryNode = this.allNodes.find(n => n.id === `country_${country}`);
+                if (countryNode) {
                     this.allEdges.push({
-                        from: countryId,
+                        from: `country_${country}`,
                         to: `cycle_${cycle}`,
                         color: { color: '#8b5cf6', opacity: 0.5 },
                         width: Math.max(1, count / 2),
                         title: `${count} priporočil`
                     });
                 }
-            });
+            }
         });
         
         // Connect countries to themes they recommended most
         const countryThemes = {};
-        const recs = typeof FULL_RECOMMENDATIONS !== 'undefined' ? FULL_RECOMMENDATIONS : [];
         recs.forEach(r => {
             const key = `${r.country.toLowerCase().replace(/\s/g, '_')}_${r.theme}`;
             countryThemes[key] = (countryThemes[key] || 0) + 1;

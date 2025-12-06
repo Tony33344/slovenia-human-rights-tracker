@@ -99,11 +99,16 @@ class HumanRightsFlowchart {
     }
     
     renderCycles() {
+        // Get cycle counts from LIVE data
+        const recs = typeof FULL_RECOMMENDATIONS !== 'undefined' ? FULL_RECOMMENDATIONS : [];
+        const cycleStats = {1: 0, 2: 0, 3: 0, 4: 0};
+        recs.forEach(r => cycleStats[r.cycle]++);
+        
         const cycles = [
-            { num: 1, year: 2010, recs: 63 },
-            { num: 2, year: 2014, recs: 155 },
-            { num: 3, year: 2019, recs: 184 },
-            { num: 4, year: 2025, recs: 254 }
+            { num: 1, year: 2010, recs: cycleStats[1] },
+            { num: 2, year: 2014, recs: cycleStats[2] },
+            { num: 3, year: 2019, recs: cycleStats[3] },
+            { num: 4, year: 2025, recs: cycleStats[4] }
         ];
         
         const startX = 150;
@@ -133,23 +138,40 @@ class HumanRightsFlowchart {
     }
     
     renderThemes() {
-        const themes = [
-            { id: 'roma', icon: '🎪', name: 'Romi', color: '#ef4444' },
-            { id: 'discrimination', icon: '⚖️', name: 'Diskriminacija', color: '#f59e0b' },
-            { id: 'trafficking', icon: '🚨', name: 'Trgovina z ljudmi', color: '#ec4899' },
-            { id: 'gender', icon: '♀️', name: 'Ženske', color: '#8b5cf6' },
-            { id: 'children', icon: '👶', name: 'Otroci', color: '#06b6d4' },
-            { id: 'migrants', icon: '🌍', name: 'Migranti', color: '#10b981' }
-        ];
+        // Get top 6 themes from LIVE data
+        const recs = typeof FULL_RECOMMENDATIONS !== 'undefined' ? FULL_RECOMMENDATIONS : [];
+        const themeStats = {};
+        recs.forEach(r => themeStats[r.theme] = (themeStats[r.theme] || 0) + 1);
+        
+        const themeInfo = {
+            'roma': { icon: '🏠', name: 'Romi', color: '#ef4444' },
+            'discrimination': { icon: '⚖️', name: 'Diskriminacija', color: '#f59e0b' },
+            'trafficking': { icon: '⛓️', name: 'Trgovina', color: '#ec4899' },
+            'gender': { icon: '♀️', name: 'Enakost spolov', color: '#8b5cf6' },
+            'children': { icon: '👶', name: 'Otroci', color: '#06b6d4' },
+            'migration': { icon: '🌍', name: 'Migracije', color: '#10b981' },
+            'hate_speech': { icon: '🗣️', name: 'Sovražni govor', color: '#dc2626' },
+            'general': { icon: '📄', name: 'Splošno', color: '#64748b' }
+        };
+        
+        const topThemes = Object.entries(themeStats)
+            .sort((a, b) => b[1] - a[1])
+            .slice(0, 6)
+            .map(([id, count]) => ({
+                id,
+                count,
+                ...(themeInfo[id] || { icon: '📌', name: id, color: '#64748b' })
+            }));
         
         const startX = 80;
         const spacing = 180;
         const y = 350;
         
-        return themes.map((t, i) => `
+        return topThemes.map((t, i) => `
             <g class="node-group clickable" data-type="theme" data-id="${t.id}" transform="translate(${startX + i * spacing}, ${y})">
                 <rect width="150" height="50" rx="25" fill="${t.color}" filter="url(#shadow)" class="node-rect"/>
-                <text x="75" y="32" text-anchor="middle" fill="white" class="node-label">${t.icon} ${t.name}</text>
+                <text x="75" y="25" text-anchor="middle" fill="white" class="node-label">${t.icon} ${t.name}</text>
+                <text x="75" y="42" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-size="11">${t.count} prip.</text>
             </g>
         `).join('');
     }

@@ -170,16 +170,31 @@ function renderStatusChart() {
 
 function renderThemesChart() {
     const ctx = document.getElementById('themesChart').getContext('2d');
-    const sortedThemes = [...UPR_DATA.themes].sort((a, b) => b.totalRecs - a.totalRecs).slice(0, 10);
+    
+    // Compute theme stats from LIVE data
+    const themeStats = {};
+    ALL_RECOMMENDATIONS.forEach(r => {
+        themeStats[r.theme] = (themeStats[r.theme] || 0) + 1;
+    });
+    
+    // Map to theme names and colors
+    const themeData = Object.entries(themeStats)
+        .map(([themeId, count]) => ({
+            id: themeId,
+            name: getThemeName(themeId),
+            count: count,
+            color: getThemeColor(themeId)
+        }))
+        .sort((a, b) => b.count - a.count);
     
     new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: sortedThemes.map(t => t.name),
+            labels: themeData.map(t => t.name),
             datasets: [{
                 label: 'Število priporočil',
-                data: sortedThemes.map(t => t.totalRecs),
-                backgroundColor: sortedThemes.map(t => t.color)
+                data: themeData.map(t => t.count),
+                backgroundColor: themeData.map(t => t.color)
             }]
         },
         options: {
@@ -187,21 +202,70 @@ function renderThemesChart() {
             responsive: true,
             plugins: {
                 legend: { display: false }
+            },
+            onClick: (e, elements) => {
+                if (elements.length > 0) {
+                    const idx = elements[0].index;
+                    filterByTheme(themeData[idx].id);
+                }
             }
         }
     });
+    
+    // Also render all themes list
+    renderAllThemesList(themeData);
+}
+
+function renderAllThemesList(themeData) {
+    const container = document.getElementById('allThemesList');
+    if (!container) return;
+    
+    container.innerHTML = `
+        <h4 style="margin: 1.5rem 0 1rem;">🎯 Vsa tematska področja (${themeData.length})</h4>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.75rem;">
+            ${themeData.map(t => `
+                <div style="background: ${t.color}15; border-left: 4px solid ${t.color}; padding: 0.75rem; border-radius: 8px; cursor: pointer;"
+                     onclick="filterByTheme('${t.id}')">
+                    <strong>${t.name}</strong>
+                    <div style="color: #64748b; font-size: 0.9rem;">${t.count} priporočil</div>
+                </div>
+            `).join('')}
+        </div>
+    `;
+}
+
+function filterByTheme(themeId) {
+    // Switch to recommendations tab and filter by theme
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    document.querySelector('[data-tab="recommendations"]').classList.add('active');
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    document.getElementById('recommendations').classList.add('active');
+    
+    document.getElementById('filterTheme').value = themeId;
+    filterRecommendations();
 }
 
 function renderCountriesChart() {
     const ctx = document.getElementById('countriesChart').getContext('2d');
     
+    // Compute countries from LIVE data
+    const countryStats = {};
+    ALL_RECOMMENDATIONS.forEach(r => {
+        countryStats[r.country] = (countryStats[r.country] || 0) + 1;
+    });
+    
+    // Sort and get top 15 for chart
+    const topCountries = Object.entries(countryStats)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 15);
+    
     new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: UPR_DATA.topRecommendingCountries.map(c => c.country),
+            labels: topCountries.map(c => c[0]),
             datasets: [{
                 label: 'Število priporočil',
-                data: UPR_DATA.topRecommendingCountries.map(c => c.total),
+                data: topCountries.map(c => c[1]),
                 backgroundColor: '#3b82f6'
             }]
         },
@@ -213,6 +277,40 @@ function renderCountriesChart() {
             }
         }
     });
+    
+    // Also render full countries list below the chart
+    renderAllCountriesList(countryStats);
+}
+
+function renderAllCountriesList(countryStats) {
+    const container = document.getElementById('allCountriesList');
+    if (!container) return;
+    
+    const sortedCountries = Object.entries(countryStats)
+        .sort((a, b) => b[1] - a[1]);
+    
+    container.innerHTML = `
+        <h4 style="margin: 1.5rem 0 1rem;">🌍 Vse države (${sortedCountries.length})</h4>
+        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-height: 300px; overflow-y: auto;">
+            ${sortedCountries.map(([country, count]) => `
+                <span style="background: #e0f2fe; padding: 0.4rem 0.8rem; border-radius: 20px; font-size: 0.85rem; cursor: pointer;" 
+                      onclick="filterByCountry('${country.replace(/'/g, "\\'")}')">
+                    ${country}: <strong>${count}</strong>
+                </span>
+            `).join('')}
+        </div>
+    `;
+}
+
+function filterByCountry(country) {
+    // Switch to recommendations tab and filter by country
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    document.querySelector('[data-tab="recommendations"]').classList.add('active');
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    document.getElementById('recommendations').classList.add('active');
+    
+    document.getElementById('filterSearch').value = country;
+    filterRecommendations();
 }
 
 // Cycles Tab
@@ -236,12 +334,29 @@ function showCycleDetails(cycleNum) {
     document.querySelectorAll('.cycle-point').forEach(p => p.classList.remove('active'));
     document.querySelector(`.cycle-point[data-cycle="${cycleNum}"]`).classList.add('active');
     
-    const cycleThemes = UPR_DATA.themes.map(t => ({
-        name: t.name,
-        count: t.cycles[cycleNum] || 0
-    })).filter(t => t.count > 0).sort((a, b) => b.count - a.count);
-    
+    // Compute theme stats from LIVE data for this cycle
     const cycleRecs = ALL_RECOMMENDATIONS.filter(r => r.cycle === cycleNum);
+    const themeStats = {};
+    cycleRecs.forEach(r => {
+        themeStats[r.theme] = (themeStats[r.theme] || 0) + 1;
+    });
+    
+    const cycleThemes = Object.entries(themeStats)
+        .map(([themeId, count]) => ({
+            id: themeId,
+            name: getThemeName(themeId),
+            count: count
+        }))
+        .sort((a, b) => b.count - a.count);
+    
+    // Compute country stats for this cycle
+    const countryStats = {};
+    cycleRecs.forEach(r => {
+        countryStats[r.country] = (countryStats[r.country] || 0) + 1;
+    });
+    const topCountries = Object.entries(countryStats)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 10);
     
     cycleDetails.innerHTML = `
         <div class="cycle-detail-header">
@@ -251,8 +366,8 @@ function showCycleDetails(cycleNum) {
         
         <div class="cycle-stats">
             <div class="cycle-stat received">
-                <strong>${cycle.totalRecommendations}</strong><br>
-                <span>Prejetih priporočil</span>
+                <strong>${cycleRecs.length}</strong><br>
+                <span>Priporočil v bazi</span>
             </div>
             ${cycle.accepted !== null ? `
                 <div class="cycle-stat accepted">
@@ -271,16 +386,31 @@ function showCycleDetails(cycleNum) {
             `}
         </div>
         
-        <h4 style="margin: 1.5rem 0 1rem;">Tematska področja v tem ciklu:</h4>
+        <h4 style="margin: 1.5rem 0 1rem;">Tematska področja v tem ciklu (${cycleThemes.length}):</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;">
-            ${cycleThemes.slice(0, 10).map(t => `
-                <span style="background: #e0f2fe; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">
+            ${cycleThemes.map(t => `
+                <span style="background: #e0f2fe; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem; cursor: pointer;"
+                      onclick="showCycleThemeRecs(${cycleNum}, '${t.id}')">
                     ${t.name}: <strong>${t.count}</strong>
                 </span>
             `).join('')}
         </div>
         
-        <h4 style="margin-bottom: 1rem;">Izbrana priporočila:</h4>
+        <h4 style="margin: 1rem 0;">Države z največ priporočili v tem ciklu:</h4>
+        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;">
+            ${topCountries.map(([country, count]) => `
+                <span style="background: #fef3c7; padding: 0.4rem 0.8rem; border-radius: 20px; font-size: 0.85rem;">
+                    ${country}: <strong>${count}</strong>
+                </span>
+            `).join('')}
+        </div>
+        
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+            <h4>Izbrana priporočila (5 od ${cycleRecs.length}):</h4>
+            <button onclick="showAllCycleRecs(${cycleNum})" style="background: #3b82f6; color: white; border: none; padding: 0.5rem 1rem; border-radius: 8px; cursor: pointer;">
+                📋 Prikaži vsa priporočila (${cycleRecs.length})
+            </button>
+        </div>
         <div style="display: flex; flex-direction: column; gap: 0.75rem;">
             ${cycleRecs.slice(0, 5).map(r => `
                 <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; border-left: 4px solid ${getThemeColor(r.theme)};">
@@ -293,6 +423,35 @@ function showCycleDetails(cycleNum) {
             `).join('')}
         </div>
     `;
+}
+
+function showAllCycleRecs(cycleNum) {
+    // Switch to recommendations tab and filter by cycle
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    document.querySelector('[data-tab="recommendations"]').classList.add('active');
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    document.getElementById('recommendations').classList.add('active');
+    
+    // Reset other filters and set cycle
+    document.getElementById('filterCycle').value = cycleNum;
+    document.getElementById('filterTheme').value = '';
+    document.getElementById('filterStatus').value = '';
+    document.getElementById('filterSearch').value = '';
+    filterRecommendations();
+}
+
+function showCycleThemeRecs(cycleNum, themeId) {
+    // Switch to recommendations tab and filter by cycle + theme
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    document.querySelector('[data-tab="recommendations"]').classList.add('active');
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    document.getElementById('recommendations').classList.add('active');
+    
+    document.getElementById('filterCycle').value = cycleNum;
+    document.getElementById('filterTheme').value = themeId;
+    document.getElementById('filterStatus').value = '';
+    document.getElementById('filterSearch').value = '';
+    filterRecommendations();
 }
 
 // Recommendations Tab
@@ -455,81 +614,147 @@ function getMinistryShort(ministryId) {
     return ministry ? ministry.shortName : '-';
 }
 
-// Themes Tab
+// Themes Tab - FULLY DYNAMIC from FULL_RECOMMENDATIONS
 function initThemes() {
     const grid = document.getElementById('themesGrid');
     
-    grid.innerHTML = UPR_DATA.themes.map(theme => {
-        const total = theme.totalRecs;
-        const cycleData = Object.entries(theme.cycles).map(([c, v]) => `${c}. cikel: ${v}`).join(', ');
+    // Compute theme stats from LIVE data
+    const themeStats = {};
+    ALL_RECOMMENDATIONS.forEach(r => {
+        if (!themeStats[r.theme]) {
+            themeStats[r.theme] = { total: 0, byCycle: {1: 0, 2: 0, 3: 0, 4: 0}, countries: new Set() };
+        }
+        themeStats[r.theme].total++;
+        themeStats[r.theme].byCycle[r.cycle]++;
+        themeStats[r.theme].countries.add(r.country);
+    });
+    
+    // Sort by total count
+    const sortedThemes = Object.entries(themeStats)
+        .sort((a, b) => b[1].total - a[1].total);
+    
+    grid.innerHTML = sortedThemes.map(([themeId, stats]) => {
+        const themeName = getThemeName(themeId);
+        const themeColor = getThemeColor(themeId);
+        const cycleData = Object.entries(stats.byCycle)
+            .filter(([_, v]) => v > 0)
+            .map(([c, v]) => `${c}. cikel: ${v}`)
+            .join(', ');
         
         return `
-            <div class="theme-card">
-                <div class="theme-header" style="background: linear-gradient(135deg, ${theme.color}, ${adjustColor(theme.color, 30)});">
-                    ${theme.icon} ${theme.name}
+            <div class="theme-card" onclick="filterByTheme('${themeId}')" style="cursor: pointer;">
+                <div class="theme-header" style="background: linear-gradient(135deg, ${themeColor}, ${adjustColor(themeColor, 30)});">
+                    ${getThemeIcon(themeId)} ${themeName}
                 </div>
                 <div class="theme-body">
                     <div class="theme-stat">
                         <span>Skupaj priporočil:</span>
-                        <strong>${total}</strong>
+                        <strong>${stats.total}</strong>
                     </div>
                     <div class="theme-stat">
                         <span>Po ciklih:</span>
                         <span style="font-size: 0.85rem;">${cycleData}</span>
                     </div>
-                    <div style="margin-top: 1rem;">
-                        <strong style="font-size: 0.9rem;">Ključna vprašanja:</strong>
-                        <ul style="margin: 0.5rem 0 0 1.25rem; color: #64748b; font-size: 0.9rem;">
-                            ${theme.keyIssues.map(issue => `<li>${issue}</li>`).join('')}
-                        </ul>
+                    <div class="theme-stat">
+                        <span>Držav:</span>
+                        <strong>${stats.countries.size}</strong>
                     </div>
+                    <button onclick="event.stopPropagation(); filterByTheme('${themeId}')" 
+                            style="margin-top: 0.75rem; width: 100%; padding: 0.5rem; background: ${themeColor}; color: white; border: none; border-radius: 6px; cursor: pointer;">
+                        📋 Prikaži vsa priporočila
+                    </button>
                 </div>
             </div>
         `;
     }).join('');
 }
 
-// Ministries Tab
+function getThemeIcon(themeId) {
+    const icons = {
+        'roma': '🏠', 'izbrisani': '📋', 'discrimination': '⚖️', 'hate_speech': '🗣️',
+        'lgbti': '🏳️‍🌈', 'gender': '♀️', 'migration': '🌍', 'disability': '♿',
+        'children': '👶', 'trafficking': '⛓️', 'torture': '🛡️', 'media': '📰',
+        'nhri': '🏛️', 'elderly': '👴', 'environment': '🌱', 'treaties': '📜', 'general': '📄'
+    };
+    return icons[themeId] || '📌';
+}
+
+// Ministries Tab - FULLY DYNAMIC from FULL_RECOMMENDATIONS
 function initMinistries() {
     const grid = document.getElementById('ministryGrid');
     
-    grid.innerHTML = UPR_DATA.ministries.map(ministry => {
-        const total = ministry.recommendations;
-        const implRate = ((ministry.implemented + ministry.partial) / total * 100).toFixed(0);
+    // Compute ministry stats from LIVE data
+    const ministryStats = {};
+    ALL_RECOMMENDATIONS.forEach(r => {
+        if (!ministryStats[r.ministry]) {
+            ministryStats[r.ministry] = { total: 0, byCycle: {1: 0, 2: 0, 3: 0, 4: 0}, themes: new Set() };
+        }
+        ministryStats[r.ministry].total++;
+        ministryStats[r.ministry].byCycle[r.cycle]++;
+        ministryStats[r.ministry].themes.add(r.theme);
+    });
+    
+    const ministryNames = {
+        'mddsz': { name: 'Ministrstvo za delo, družino, socialne zadeve in enake možnosti', short: 'MDDSZ', icon: '👥', color: '#3b82f6' },
+        'mnz': { name: 'Ministrstvo za notranje zadeve', short: 'MNZ', icon: '🛡️', color: '#ef4444' },
+        'mp': { name: 'Ministrstvo za pravosodje', short: 'MP', icon: '⚖️', color: '#a855f7' },
+        'mizs': { name: 'Ministrstvo za vzgojo in izobraževanje', short: 'MIZŠ', icon: '📚', color: '#f97316' },
+        'mz': { name: 'Ministrstvo za zdravje', short: 'MZ', icon: '🏥', color: '#22c55e' },
+        'mk': { name: 'Ministrstvo za kulturo', short: 'MK', icon: '🎭', color: '#eab308' },
+        'mzez': { name: 'Ministrstvo za zunanje in evropske zadeve', short: 'MZEZ', icon: '🌐', color: '#06b6d4' }
+    };
+    
+    // Sort by total count
+    const sortedMinistries = Object.entries(ministryStats)
+        .sort((a, b) => b[1].total - a[1].total);
+    
+    grid.innerHTML = sortedMinistries.map(([ministryId, stats]) => {
+        const info = ministryNames[ministryId] || { name: ministryId, short: ministryId.toUpperCase(), icon: '🏛️', color: '#64748b' };
+        const cycleData = Object.entries(stats.byCycle)
+            .filter(([_, v]) => v > 0)
+            .map(([c, v]) => `${c}. cikel: ${v}`)
+            .join(', ');
         
         return `
-            <div class="ministry-card">
-                <div class="ministry-header ${ministry.id}">
-                    ${ministry.icon} ${ministry.name}
+            <div class="ministry-card" onclick="filterByMinistry('${ministryId}')" style="cursor: pointer;">
+                <div class="ministry-header" style="background: linear-gradient(135deg, ${info.color}, ${adjustColor(info.color, 30)});">
+                    ${info.icon} ${info.short}
                 </div>
                 <div class="ministry-body">
+                    <p style="font-size: 0.85rem; color: #64748b; margin-bottom: 0.75rem;">${info.name}</p>
                     <div class="ministry-stat">
                         <span>Skupaj priporočil:</span>
-                        <strong>${total}</strong>
+                        <strong>${stats.total}</strong>
                     </div>
                     <div class="ministry-stat">
-                        <span>Implementiranih:</span>
-                        <strong>${ministry.implemented} (${(ministry.implemented/total*100).toFixed(0)}%)</strong>
+                        <span>Po ciklih:</span>
+                        <span style="font-size: 0.85rem;">${cycleData}</span>
                     </div>
                     <div class="ministry-stat">
-                        <span>Delno impl.:</span>
-                        <strong>${ministry.partial} (${(ministry.partial/total*100).toFixed(0)}%)</strong>
+                        <span>Tematskih področij:</span>
+                        <strong>${stats.themes.size}</strong>
                     </div>
-                    <div class="ministry-stat">
-                        <span>Neimplementiranih:</span>
-                        <strong>${ministry.notImplemented} (${(ministry.notImplemented/total*100).toFixed(0)}%)</strong>
-                    </div>
-                    <div class="progress-bar">
-                        <div class="progress-fill" style="width: ${implRate}%; background: linear-gradient(90deg, #059669 ${ministry.implemented/total*100}%, #d97706 ${ministry.implemented/total*100}%);"></div>
-                    </div>
-                    ${ministry.specialStatus ? `<p style="margin-top: 0.75rem; color: #059669; font-weight: 500;">${ministry.specialStatus}</p>` : ''}
-                    <p class="ministry-description">
-                        <strong>Ključna področja:</strong> ${ministry.responsibilities.join(', ')}
-                    </p>
+                    <button onclick="event.stopPropagation(); filterByMinistry('${ministryId}')" 
+                            style="margin-top: 0.75rem; width: 100%; padding: 0.5rem; background: ${info.color}; color: white; border: none; border-radius: 6px; cursor: pointer;">
+                        📋 Prikaži vsa priporočila
+                    </button>
                 </div>
             </div>
         `;
     }).join('');
+}
+
+function filterByMinistry(ministryId) {
+    // Switch to recommendations tab and filter by ministry
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    document.querySelector('[data-tab="recommendations"]').classList.add('active');
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    document.getElementById('recommendations').classList.add('active');
+    
+    // Filter recommendations by ministry
+    const filtered = ALL_RECOMMENDATIONS.filter(r => r.ministry === ministryId);
+    renderRecommendations(filtered);
+    document.getElementById('resultsCount').textContent = filtered.length + ' (filtrirano po ministrstvu)';
 }
 
 // Treaties Tab

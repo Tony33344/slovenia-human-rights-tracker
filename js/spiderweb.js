@@ -1,151 +1,223 @@
 /**
- * Spiderweb of Accountability - Sankey-style Diagram
- * Shows connections: Documents → Issues → Ministries
- * Based on real UPR data
+ * Dynamic Spiderweb of Accountability
+ * Generates connections from LIVE FULL_RECOMMENDATIONS data
+ * Shows: Documents → Issues (Themes) → Ministries
  */
 
-class SpiderwebDiagram {
+class DynamicSpiderweb {
     constructor(containerId) {
         this.container = document.getElementById(containerId);
-        this.width = 1100;
-        this.height = 750;
+        this.width = 1200;
+        this.height = 850;
         this.selectedNode = null;
         
-        // Data structure
+        // Build data from FULL_RECOMMENDATIONS
+        this.buildDataFromRecommendations();
+    }
+    
+    buildDataFromRecommendations() {
+        if (typeof FULL_RECOMMENDATIONS === 'undefined') {
+            console.error('FULL_RECOMMENDATIONS not loaded');
+            return;
+        }
+        
+        // Documents (UPR cycles as source documents)
         this.documents = [
-            { id: 'national_report', name: 'National Report (A/...)', type: 'govt', color: '#3b82f6', x: 50, recs: 0 },
-            { id: 'un_compilation', name: 'UN Compilation (A/...)', type: 'un', color: '#10b981', x: 50, recs: 0 },
-            { id: 'stakeholder_summary', name: 'Stakeholder Summary', type: 'ngo', color: '#f59e0b', x: 50, recs: 0 },
-            { id: 'working_group_report', name: 'Working Group Report', type: 'un', color: '#10b981', x: 50, recs: 254 },
-            { id: 'ombudsman_report', name: 'Human Rights Ombudsman', type: 'nhri', color: '#8b5cf6', x: 50, recs: 0 },
-            { id: 'coe_report', name: 'Council of Europe', type: 'coe', color: '#06b6d4', x: 50, recs: 0 }
+            { id: 'cycle1', name: '1. Cikel (2010)', type: 'cycle', color: '#3b82f6', recs: 0 },
+            { id: 'cycle2', name: '2. Cikel (2014)', type: 'cycle', color: '#10b981', recs: 0 },
+            { id: 'cycle3', name: '3. Cikel (2019)', type: 'cycle', color: '#f59e0b', recs: 0 },
+            { id: 'cycle4', name: '4. Cikel (2025)', type: 'cycle', color: '#ef4444', recs: 0 }
         ];
         
-        this.issues = [
-            { id: 'roma', name: 'Pravice Romov', recs: 83, color: '#ef4444' },
-            { id: 'erased', name: 'Izbrisani', recs: 25, color: '#ef4444' },
-            { id: 'trafficking', name: 'Trgovina z ljudmi', recs: 46, color: '#ef4444' },
-            { id: 'hate_speech', name: 'Sovražni govor', recs: 36, color: '#ef4444' },
-            { id: 'discrimination', name: 'Diskriminacija', recs: 95, color: '#ef4444' },
-            { id: 'disability', name: 'Pravice invalidov', recs: 22, color: '#ef4444' },
-            { id: 'gender', name: 'Enakost spolov', recs: 105, color: '#ef4444' },
-            { id: 'migration', name: 'Migracije in azil', recs: 55, color: '#ef4444' }
-        ];
+        // Count recs per cycle
+        FULL_RECOMMENDATIONS.forEach(r => {
+            const docIdx = r.cycle - 1;
+            if (this.documents[docIdx]) {
+                this.documents[docIdx].recs++;
+            }
+        });
         
-        this.ministries = [
-            { id: 'mddsz', name: 'MDDSZ', fullName: 'Ministry of Labour, Family, Social Affairs', color: '#3b82f6' },
-            { id: 'mnz', name: 'MNZ', fullName: 'Ministry of the Interior', color: '#ef4444' },
-            { id: 'mp', name: 'MP', fullName: 'Ministry of Justice', color: '#a855f7' },
-            { id: 'mop', name: 'MOP', fullName: 'Ministry of Environment', color: '#f97316' },
-            { id: 'mz', name: 'MZ', fullName: 'Ministry of Health', color: '#22c55e' },
-            { id: 'mk', name: 'MK', fullName: 'Ministry of Culture', color: '#eab308' }
-        ];
+        // Build issues (themes) from live data
+        const themeStats = {};
+        FULL_RECOMMENDATIONS.forEach(r => {
+            if (!themeStats[r.theme]) {
+                themeStats[r.theme] = { count: 0, byCycle: {1:0, 2:0, 3:0, 4:0}, byMinistry: {} };
+            }
+            themeStats[r.theme].count++;
+            themeStats[r.theme].byCycle[r.cycle]++;
+            themeStats[r.theme].byMinistry[r.ministry] = (themeStats[r.theme].byMinistry[r.ministry] || 0) + 1;
+        });
         
-        // Connections: [docIndex, issueIndex, strength]
-        // Issues: 0=Roma, 1=Izbrisani, 2=Trafficking, 3=Hate Speech, 4=Discrimination, 5=Disability, 6=Gender, 7=Migration
-        this.docToIssue = [
-            [0, 0, 2], [0, 1, 1], [0, 4, 2], [0, 6, 2], [0, 7, 2],  // National Report
-            [1, 0, 3], [1, 2, 3], [1, 3, 3], [1, 4, 3], [1, 5, 2], [1, 6, 3], [1, 7, 2],  // UN Compilation
-            [2, 0, 2], [2, 1, 2], [2, 2, 2], [2, 3, 3], [2, 5, 2], [2, 6, 2],  // Stakeholder Summary
-            [3, 0, 3], [3, 1, 2], [3, 2, 3], [3, 3, 3], [3, 4, 3], [3, 5, 3], [3, 6, 3], [3, 7, 3],  // Working Group Report
-            [4, 0, 2], [4, 3, 2], [4, 4, 2], [4, 5, 2],  // Ombudsman
-            [5, 0, 1], [5, 3, 2], [5, 7, 1]  // CoE
-        ];
+        // Theme name mapping
+        const themeNames = {
+            'roma': 'Pravice Romov',
+            'izbrisani': 'Izbrisani',
+            'discrimination': 'Diskriminacija',
+            'hate_speech': 'Sovražni govor',
+            'lgbti': 'LGBTI+ pravice',
+            'gender': 'Enakost spolov',
+            'migration': 'Migracije in azil',
+            'disability': 'Pravice invalidov',
+            'children': 'Pravice otrok',
+            'trafficking': 'Trgovina z ljudmi',
+            'torture': 'Prepoved mučenja',
+            'media': 'Svoboda medijev',
+            'nhri': 'NHRI / Varuh',
+            'elderly': 'Pravice starejših',
+            'environment': 'Okolje in podnebje',
+            'treaties': 'Mednarodne pogodbe',
+            'general': 'Splošno'
+        };
         
-        // Connections: [issueIndex, ministryIndex, strength]
-        // Ministries: 0=MDDSZ, 1=MNZ, 2=MP, 3=MOP, 4=MZ, 5=MK
-        this.issueToMinistry = [
-            [0, 0, 3], [0, 2, 1],  // Roma -> MDDSZ, MP
-            [1, 1, 3], [1, 2, 2],  // Izbrisani -> MNZ, MP
-            [2, 1, 3], [2, 2, 2],  // Trafficking -> MNZ, MP
-            [3, 2, 3], [3, 1, 2],  // Hate Speech -> MP, MNZ
-            [4, 0, 2], [4, 2, 3],  // Discrimination -> MDDSZ, MP
-            [5, 0, 3], [5, 4, 2],  // Disability -> MDDSZ, MZ
-            [6, 0, 3], [6, 2, 2],  // Gender -> MDDSZ, MP
-            [7, 1, 3], [7, 0, 2]   // Migration -> MNZ, MDDSZ
-        ];
+        // Sort themes by count and take top 12
+        this.issues = Object.entries(themeStats)
+            .sort((a, b) => b[1].count - a[1].count)
+            .slice(0, 12)
+            .map(([id, stats], idx) => ({
+                id: id,
+                name: themeNames[id] || id,
+                recs: stats.count,
+                byCycle: stats.byCycle,
+                byMinistry: stats.byMinistry,
+                color: this.getThemeColor(idx)
+            }));
+        
+        // Build ministries from live data
+        const ministryStats = {};
+        FULL_RECOMMENDATIONS.forEach(r => {
+            if (!ministryStats[r.ministry]) {
+                ministryStats[r.ministry] = { count: 0, byTheme: {} };
+            }
+            ministryStats[r.ministry].count++;
+            ministryStats[r.ministry].byTheme[r.theme] = (ministryStats[r.ministry].byTheme[r.theme] || 0) + 1;
+        });
+        
+        const ministryNames = {
+            'mddsz': 'MDDSZ',
+            'mnz': 'MNZ',
+            'mp': 'MP',
+            'mizs': 'MIZŠ',
+            'mz': 'MZ',
+            'mk': 'MK',
+            'mzez': 'MZEZ'
+        };
+        
+        const ministryFullNames = {
+            'mddsz': 'Ministrstvo za delo, družino in socialne zadeve',
+            'mnz': 'Ministrstvo za notranje zadeve',
+            'mp': 'Ministrstvo za pravosodje',
+            'mizs': 'Ministrstvo za izobraževanje',
+            'mz': 'Ministrstvo za zdravje',
+            'mk': 'Ministrstvo za kulturo',
+            'mzez': 'Ministrstvo za zunanje zadeve'
+        };
+        
+        const ministryColors = {
+            'mddsz': '#3b82f6',
+            'mnz': '#ef4444',
+            'mp': '#a855f7',
+            'mizs': '#f97316',
+            'mz': '#22c55e',
+            'mk': '#eab308',
+            'mzez': '#06b6d4'
+        };
+        
+        this.ministries = Object.entries(ministryStats)
+            .sort((a, b) => b[1].count - a[1].count)
+            .map(([id, stats]) => ({
+                id: id,
+                name: ministryNames[id] || id.toUpperCase(),
+                fullName: ministryFullNames[id] || id,
+                recs: stats.count,
+                byTheme: stats.byTheme,
+                color: ministryColors[id] || '#64748b'
+            }));
+        
+        // Build connections: Document (Cycle) → Issue (Theme)
+        this.docToIssue = [];
+        this.documents.forEach((doc, docIdx) => {
+            const cycleNum = docIdx + 1;
+            this.issues.forEach((issue, issueIdx) => {
+                const count = issue.byCycle[cycleNum] || 0;
+                if (count > 0) {
+                    const strength = count >= 20 ? 3 : (count >= 10 ? 2 : 1);
+                    this.docToIssue.push([docIdx, issueIdx, strength, count]);
+                }
+            });
+        });
+        
+        // Build connections: Issue (Theme) → Ministry
+        this.issueToMinistry = [];
+        this.issues.forEach((issue, issueIdx) => {
+            this.ministries.forEach((ministry, ministryIdx) => {
+                const count = issue.byMinistry[ministry.id] || 0;
+                if (count > 0) {
+                    const strength = count >= 15 ? 3 : (count >= 5 ? 2 : 1);
+                    this.issueToMinistry.push([issueIdx, ministryIdx, strength, count]);
+                }
+            });
+        });
+    }
+    
+    getThemeColor(idx) {
+        const colors = ['#ef4444', '#f97316', '#eab308', '#22c55e', '#14b8a6', '#06b6d4', 
+                       '#3b82f6', '#6366f1', '#8b5cf6', '#a855f7', '#ec4899', '#f43f5e'];
+        return colors[idx % colors.length];
     }
     
     init() {
+        if (!this.documents || this.documents.length === 0) {
+            this.container.innerHTML = '<p style="color: white; padding: 2rem;">Napaka: Podatki niso naloženi.</p>';
+            return;
+        }
         this.render();
         this.setupEvents();
     }
     
     render() {
-        const docX = 120;
+        const docX = 100;
         const issueX = this.width / 2;
         const ministryX = this.width - 100;
         
-        const docStartY = 100;
-        const docSpacing = 95;
-        
-        const issueStartY = 80;
-        const issueSpacing = 80;
-        
-        const ministryStartY = 140;
-        const ministrySpacing = 95;
-        
         // Calculate positions
-        this.documents.forEach((d, i) => { d.y = docStartY + i * docSpacing; d.x = docX; });
-        this.issues.forEach((iss, i) => { iss.y = issueStartY + i * issueSpacing; iss.x = issueX; });
-        this.ministries.forEach((m, i) => { m.y = ministryStartY + i * ministrySpacing; m.x = ministryX; });
+        const docSpacing = 140;
+        const docStartY = 150;
+        this.documents.forEach((d, i) => { 
+            d.y = docStartY + i * docSpacing; 
+            d.x = docX; 
+        });
+        
+        const issueSpacing = 55;
+        const issueStartY = 100;
+        this.issues.forEach((iss, i) => { 
+            iss.y = issueStartY + i * issueSpacing; 
+            iss.x = issueX; 
+        });
+        
+        const ministrySpacing = 90;
+        const ministryStartY = 150;
+        this.ministries.forEach((m, i) => { 
+            m.y = ministryStartY + i * ministrySpacing; 
+            m.x = ministryX; 
+        });
         
         this.container.innerHTML = `
             <svg id="spiderwebSvg" width="100%" height="100%" viewBox="0 0 ${this.width} ${this.height}" class="spiderweb-svg">
-                <defs>
-                    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-                        <feGaussianBlur stdDeviation="3" result="blur"/>
-                        <feMerge>
-                            <feMergeNode in="blur"/>
-                            <feMergeNode in="SourceGraphic"/>
-                        </feMerge>
-                    </filter>
-                    <linearGradient id="criticalGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-                        <stop offset="0%" style="stop-color:#ef4444"/>
-                        <stop offset="100%" style="stop-color:#f97316"/>
-                    </linearGradient>
-                    <linearGradient id="highGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-                        <stop offset="0%" style="stop-color:#8b5cf6"/>
-                        <stop offset="100%" style="stop-color:#6366f1"/>
-                    </linearGradient>
-                </defs>
-                
                 <!-- Background -->
                 <rect width="100%" height="100%" fill="#0f172a"/>
                 
                 <!-- Title -->
-                <text x="${this.width/2}" y="35" text-anchor="middle" fill="white" font-size="20" font-weight="bold">
-                    The Spiderweb of Accountability
+                <text x="${this.width/2}" y="30" text-anchor="middle" fill="white" font-size="18" font-weight="bold">
+                    Pajkova mreža odgovornosti - Dinamični prikaz
                 </text>
-                <text x="${this.width/2}" y="55" text-anchor="middle" fill="#94a3b8" font-size="12">
-                    Click any node to highlight its connections. This visualization shows how documents (inputs) connect to human rights issues (problems) and ministries (duty-bearers).
+                <text x="${this.width/2}" y="50" text-anchor="middle" fill="#94a3b8" font-size="11">
+                    Podatki iz ${FULL_RECOMMENDATIONS.length} priporočil. Kliknite na vozlišče za prikaz povezav.
                 </text>
-                
-                <!-- Legend -->
-                <g transform="translate(30, 65)">
-                    <rect width="12" height="12" fill="#3b82f6" rx="2"/>
-                    <text x="18" y="10" fill="#94a3b8" font-size="10">Government</text>
-                    
-                    <rect x="100" width="12" height="12" fill="#f59e0b" rx="2"/>
-                    <text x="118" y="10" fill="#94a3b8" font-size="10">NGO/Civil Society</text>
-                    
-                    <rect x="220" width="12" height="12" fill="#8b5cf6" rx="2"/>
-                    <text x="238" y="10" fill="#94a3b8" font-size="10">NHRI</text>
-                    
-                    <rect x="290" width="12" height="12" fill="#10b981" rx="2"/>
-                    <text x="308" y="10" fill="#94a3b8" font-size="10">UN Bodies</text>
-                    
-                    <line x1="380" y1="6" x2="420" y2="6" stroke="#ef4444" stroke-width="2"/>
-                    <text x="428" y="10" fill="#94a3b8" font-size="10">Critical</text>
-                    
-                    <line x1="480" y1="6" x2="520" y2="6" stroke="#8b5cf6" stroke-width="2"/>
-                    <text x="528" y="10" fill="#94a3b8" font-size="10">High Priority</text>
-                </g>
                 
                 <!-- Column headers -->
-                <text x="${docX}" y="90" text-anchor="middle" fill="#64748b" font-size="12" font-weight="bold">DOCUMENTS</text>
-                <text x="${issueX}" y="90" text-anchor="middle" fill="#64748b" font-size="12" font-weight="bold">ISSUES</text>
-                <text x="${ministryX}" y="90" text-anchor="middle" fill="#64748b" font-size="12" font-weight="bold">MINISTRIES</text>
+                <text x="${docX}" y="85" text-anchor="middle" fill="#64748b" font-size="12" font-weight="bold">UPR CIKLI</text>
+                <text x="${issueX}" y="85" text-anchor="middle" fill="#64748b" font-size="12" font-weight="bold">TEMATSKA PODROČJA</text>
+                <text x="${ministryX}" y="85" text-anchor="middle" fill="#64748b" font-size="12" font-weight="bold">MINISTRSTVA</text>
                 
                 <!-- Connections: Documents to Issues -->
                 <g class="connections doc-to-issue">
@@ -171,83 +243,85 @@ class SpiderwebDiagram {
                 <g class="nodes ministries">
                     ${this.ministries.map((m, i) => this.renderMinistryNode(m, i)).join('')}
                 </g>
+                
+                <!-- Legend -->
+                <g transform="translate(30, ${this.height - 40})">
+                    <text fill="#64748b" font-size="10">Debelina črte = število priporočil</text>
+                    <line x1="200" y1="-5" x2="230" y2="-5" stroke="#ef4444" stroke-width="3"/>
+                    <text x="235" fill="#94a3b8" font-size="10">Visoko (15+)</text>
+                    <line x1="310" y1="-5" x2="340" y2="-5" stroke="#8b5cf6" stroke-width="2"/>
+                    <text x="345" fill="#94a3b8" font-size="10">Srednje (5-14)</text>
+                    <line x1="440" y1="-5" x2="470" y2="-5" stroke="#64748b" stroke-width="1"/>
+                    <text x="475" fill="#94a3b8" font-size="10">Nizko (1-4)</text>
+                </g>
             </svg>
         `;
     }
     
     renderDocNode(doc, idx) {
-        const typeColors = {
-            govt: '#3b82f6',
-            un: '#10b981',
-            ngo: '#f59e0b',
-            nhri: '#8b5cf6',
-            coe: '#06b6d4'
-        };
-        const color = typeColors[doc.type] || '#64748b';
-        const typeLabels = { govt: 'GOVT', un: 'UN', ngo: 'NGO', nhri: 'NHRI', coe: 'COE' };
-        
         return `
-            <g class="node doc-node clickable" data-type="document" data-id="${doc.id}" data-idx="${idx}" transform="translate(${doc.x - 80}, ${doc.y})">
-                <rect width="160" height="45" rx="6" fill="${color}" class="node-rect" opacity="0.9"/>
-                <text x="80" y="20" text-anchor="middle" fill="white" font-size="11" font-weight="500">${doc.name}</text>
-                <text x="80" y="35" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-size="9">${typeLabels[doc.type]}</text>
+            <g class="node doc-node clickable" data-type="document" data-id="${doc.id}" data-idx="${idx}" transform="translate(${doc.x - 70}, ${doc.y})">
+                <rect width="140" height="50" rx="6" fill="${doc.color}" class="node-rect" opacity="0.9"/>
+                <text x="70" y="22" text-anchor="middle" fill="white" font-size="12" font-weight="600">${doc.name}</text>
+                <text x="70" y="38" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-size="10">${doc.recs} priporočil</text>
             </g>
         `;
     }
     
     renderIssueNode(issue, idx) {
         return `
-            <g class="node issue-node clickable" data-type="issue" data-id="${issue.id}" data-idx="${idx}" transform="translate(${issue.x - 85}, ${issue.y})">
-                <rect width="170" height="50" rx="6" fill="#1e293b" stroke="#ef4444" stroke-width="2" class="node-rect"/>
-                <text x="85" y="22" text-anchor="middle" fill="white" font-size="11" font-weight="500">${issue.name}</text>
-                <text x="85" y="38" text-anchor="middle" fill="#94a3b8" font-size="10">${issue.recs} recs</text>
+            <g class="node issue-node clickable" data-type="issue" data-id="${issue.id}" data-idx="${idx}" transform="translate(${issue.x - 90}, ${issue.y})">
+                <rect width="180" height="40" rx="5" fill="#1e293b" stroke="${issue.color}" stroke-width="2" class="node-rect"/>
+                <text x="90" y="18" text-anchor="middle" fill="white" font-size="11" font-weight="500">${issue.name}</text>
+                <text x="90" y="32" text-anchor="middle" fill="#94a3b8" font-size="9">${issue.recs} priporočil</text>
             </g>
         `;
     }
     
     renderMinistryNode(ministry, idx) {
         return `
-            <g class="node ministry-node clickable" data-type="ministry" data-id="${ministry.id}" data-idx="${idx}" transform="translate(${ministry.x - 55}, ${ministry.y})">
-                <rect width="110" height="40" rx="4" fill="${ministry.color}" class="node-rect"/>
-                <text x="55" y="25" text-anchor="middle" fill="white" font-size="13" font-weight="bold">${ministry.name}</text>
+            <g class="node ministry-node clickable" data-type="ministry" data-id="${ministry.id}" data-idx="${idx}" transform="translate(${ministry.x - 60}, ${ministry.y})">
+                <rect width="120" height="50" rx="5" fill="${ministry.color}" class="node-rect"/>
+                <text x="60" y="22" text-anchor="middle" fill="white" font-size="13" font-weight="bold">${ministry.name}</text>
+                <text x="60" y="38" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-size="9">${ministry.recs} priporočil</text>
             </g>
         `;
     }
     
     renderDocToIssueConnections() {
-        return this.docToIssue.map(([docIdx, issueIdx, strength]) => {
+        return this.docToIssue.map(([docIdx, issueIdx, strength, count]) => {
             const doc = this.documents[docIdx];
             const issue = this.issues[issueIdx];
-            const color = strength >= 3 ? '#ef4444' : '#8b5cf6';
-            const opacity = strength >= 3 ? 0.6 : 0.4;
-            const width = strength >= 3 ? 2 : 1.5;
+            const color = strength >= 3 ? '#ef4444' : (strength >= 2 ? '#8b5cf6' : '#64748b');
+            const opacity = strength >= 3 ? 0.7 : (strength >= 2 ? 0.5 : 0.3);
+            const width = strength >= 3 ? 3 : (strength >= 2 ? 2 : 1);
             
             return `
-                <path d="M ${doc.x + 80} ${doc.y + 22} 
-                         C ${doc.x + 150} ${doc.y + 22}, 
-                           ${issue.x - 150} ${issue.y + 25}, 
-                           ${issue.x - 85} ${issue.y + 25}"
+                <path d="M ${doc.x + 70} ${doc.y + 25} 
+                         C ${doc.x + 180} ${doc.y + 25}, 
+                           ${issue.x - 180} ${issue.y + 20}, 
+                           ${issue.x - 90} ${issue.y + 20}"
                       stroke="${color}" stroke-width="${width}" fill="none" opacity="${opacity}"
-                      class="connection" data-from="doc_${docIdx}" data-to="issue_${issueIdx}"/>
+                      class="connection" data-from="doc_${docIdx}" data-to="issue_${issueIdx}" data-count="${count}"/>
             `;
         }).join('');
     }
     
     renderIssueToMinistryConnections() {
-        return this.issueToMinistry.map(([issueIdx, ministryIdx, strength]) => {
+        return this.issueToMinistry.map(([issueIdx, ministryIdx, strength, count]) => {
             const issue = this.issues[issueIdx];
             const ministry = this.ministries[ministryIdx];
-            const color = strength >= 3 ? '#ef4444' : '#8b5cf6';
-            const opacity = strength >= 3 ? 0.6 : 0.4;
-            const width = strength >= 3 ? 2 : 1.5;
+            const color = strength >= 3 ? '#ef4444' : (strength >= 2 ? '#8b5cf6' : '#64748b');
+            const opacity = strength >= 3 ? 0.7 : (strength >= 2 ? 0.5 : 0.3);
+            const width = strength >= 3 ? 3 : (strength >= 2 ? 2 : 1);
             
             return `
-                <path d="M ${issue.x + 85} ${issue.y + 25}
-                         C ${issue.x + 150} ${issue.y + 25},
-                           ${ministry.x - 120} ${ministry.y + 20},
-                           ${ministry.x - 55} ${ministry.y + 20}"
+                <path d="M ${issue.x + 90} ${issue.y + 20}
+                         C ${issue.x + 180} ${issue.y + 20},
+                           ${ministry.x - 150} ${ministry.y + 25},
+                           ${ministry.x - 60} ${ministry.y + 25}"
                       stroke="${color}" stroke-width="${width}" fill="none" opacity="${opacity}"
-                      class="connection" data-from="issue_${issueIdx}" data-to="ministry_${ministryIdx}"/>
+                      class="connection" data-from="issue_${issueIdx}" data-to="ministry_${ministryIdx}" data-count="${count}"/>
             `;
         }).join('');
     }
@@ -257,6 +331,7 @@ class SpiderwebDiagram {
         
         clickableNodes.forEach(node => {
             node.addEventListener('click', (e) => {
+                e.stopPropagation();
                 const type = node.dataset.type;
                 const idx = parseInt(node.dataset.idx);
                 this.highlightConnections(type, idx);
@@ -267,7 +342,7 @@ class SpiderwebDiagram {
         
         // Click on background to reset
         this.container.querySelector('svg').addEventListener('click', (e) => {
-            if (e.target.tagName === 'svg' || e.target.tagName === 'rect' && e.target.classList.length === 0) {
+            if (e.target.tagName === 'svg' || (e.target.tagName === 'rect' && !e.target.classList.contains('node-rect'))) {
                 this.resetHighlight();
             }
         });
@@ -278,42 +353,34 @@ class SpiderwebDiagram {
         const nodes = this.container.querySelectorAll('.node');
         
         // Dim all first
-        connections.forEach(c => c.style.opacity = '0.1');
-        nodes.forEach(n => n.style.opacity = '0.3');
+        connections.forEach(c => c.style.opacity = '0.05');
+        nodes.forEach(n => n.style.opacity = '0.2');
         
-        // Highlight connected
         if (type === 'document') {
-            // Highlight this doc
             this.container.querySelector(`[data-type="document"][data-idx="${idx}"]`).style.opacity = '1';
             
-            // Find connected issues
             this.docToIssue.filter(([d]) => d === idx).forEach(([_, issueIdx]) => {
                 this.container.querySelector(`[data-type="issue"][data-idx="${issueIdx}"]`).style.opacity = '1';
-                this.container.querySelectorAll(`[data-from="doc_${idx}"][data-to="issue_${issueIdx}"]`).forEach(c => c.style.opacity = '0.8');
+                this.container.querySelectorAll(`[data-from="doc_${idx}"][data-to="issue_${issueIdx}"]`).forEach(c => c.style.opacity = '0.9');
             });
         } else if (type === 'issue') {
-            // Highlight this issue
             this.container.querySelector(`[data-type="issue"][data-idx="${idx}"]`).style.opacity = '1';
             
-            // Find connected docs
             this.docToIssue.filter(([_, i]) => i === idx).forEach(([docIdx]) => {
                 this.container.querySelector(`[data-type="document"][data-idx="${docIdx}"]`).style.opacity = '1';
-                this.container.querySelectorAll(`[data-from="doc_${docIdx}"][data-to="issue_${idx}"]`).forEach(c => c.style.opacity = '0.8');
+                this.container.querySelectorAll(`[data-from="doc_${docIdx}"][data-to="issue_${idx}"]`).forEach(c => c.style.opacity = '0.9');
             });
             
-            // Find connected ministries
             this.issueToMinistry.filter(([i]) => i === idx).forEach(([_, ministryIdx]) => {
                 this.container.querySelector(`[data-type="ministry"][data-idx="${ministryIdx}"]`).style.opacity = '1';
-                this.container.querySelectorAll(`[data-from="issue_${idx}"][data-to="ministry_${ministryIdx}"]`).forEach(c => c.style.opacity = '0.8');
+                this.container.querySelectorAll(`[data-from="issue_${idx}"][data-to="ministry_${ministryIdx}"]`).forEach(c => c.style.opacity = '0.9');
             });
         } else if (type === 'ministry') {
-            // Highlight this ministry
             this.container.querySelector(`[data-type="ministry"][data-idx="${idx}"]`).style.opacity = '1';
             
-            // Find connected issues
             this.issueToMinistry.filter(([_, m]) => m === idx).forEach(([issueIdx]) => {
                 this.container.querySelector(`[data-type="issue"][data-idx="${issueIdx}"]`).style.opacity = '1';
-                this.container.querySelectorAll(`[data-from="issue_${issueIdx}"][data-to="ministry_${idx}"]`).forEach(c => c.style.opacity = '0.8');
+                this.container.querySelectorAll(`[data-from="issue_${issueIdx}"][data-to="ministry_${idx}"]`).forEach(c => c.style.opacity = '0.9');
             });
         }
     }
@@ -328,7 +395,7 @@ class SpiderwebDiagram {
 }
 
 // Initialize
-let spiderwebDiagram = null;
+let dynamicSpiderweb = null;
 
 function initSpiderweb() {
     const canvas = document.getElementById('spiderwebCanvas');
@@ -337,28 +404,17 @@ function initSpiderweb() {
         return;
     }
     
-    // Clear any existing content
     canvas.innerHTML = '';
     
     try {
-        spiderwebDiagram = new SpiderwebDiagram('spiderwebCanvas');
-        spiderwebDiagram.init();
-        console.log('Spiderweb initialized successfully');
-        
-        // Force a re-render after a short delay to ensure visibility
-        setTimeout(() => {
-            const svg = canvas.querySelector('svg');
-            if (svg) {
-                svg.style.display = 'block';
-                svg.style.width = '100%';
-                svg.style.height = '750px';
-            }
-        }, 50);
+        dynamicSpiderweb = new DynamicSpiderweb('spiderwebCanvas');
+        dynamicSpiderweb.init();
+        console.log('Dynamic Spiderweb initialized with', FULL_RECOMMENDATIONS.length, 'recommendations');
     } catch (e) {
         console.error('Spiderweb initialization error:', e);
-        canvas.innerHTML = '<p style="color: white; padding: 2rem;">Error loading visualization. Please refresh the page.</p>';
+        canvas.innerHTML = '<p style="color: white; padding: 2rem;">Napaka pri nalaganju vizualizacije.</p>';
     }
 }
 
-window.SpiderwebDiagram = SpiderwebDiagram;
+window.DynamicSpiderweb = DynamicSpiderweb;
 window.initSpiderweb = initSpiderweb;

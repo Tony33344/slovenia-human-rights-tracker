@@ -12,10 +12,10 @@ const UPR_DATA = {
             year: 2010,
             session: 7,
             date: "February 2010",
-            totalRecommendations: 129,
-            accepted: 105,
-            noted: 24,
-            acceptanceRate: 81.4,
+            totalRecommendations: 98,  // From A/HRC/14/15 Working Group Report
+            accepted: 91,
+            noted: 7,
+            acceptanceRate: 92.9,
             documentRef: "A/HRC/14/15",
             status: "completed"
         },
@@ -24,10 +24,10 @@ const UPR_DATA = {
             year: 2014,
             session: 20,
             date: "October 2014",
-            totalRecommendations: 155,
-            accepted: 126,
-            noted: 29,
-            acceptanceRate: 81.3,
+            totalRecommendations: 163,  // From Thematic List
+            accepted: 140,
+            noted: 23,
+            acceptanceRate: 85.9,
             documentRef: "A/HRC/28/15",
             status: "completed"
         },
@@ -36,10 +36,10 @@ const UPR_DATA = {
             year: 2019,
             session: 34,
             date: "November 2019",
-            totalRecommendations: 183,
-            accepted: 165,
+            totalRecommendations: 215,  // From Thematic List
+            accepted: 197,
             noted: 18,
-            acceptanceRate: 90.2,
+            acceptanceRate: 91.6,
             documentRef: "A/HRC/43/15",
             status: "completed"
         },
