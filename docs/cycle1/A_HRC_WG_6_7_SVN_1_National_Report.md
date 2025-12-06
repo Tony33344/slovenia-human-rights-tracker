@@ -1,0 +1,1197 @@
+# A/HRC/WG.6/7/SVN/1 - National Report: Slovenia (1st Cycle)
+
+**Document:** A/HRC/WG.6/7/SVN/1
+**Session:** 7th UPR Working Group
+**Date:** 2010
+**Source:** Government of Slovenia
+
+---
+
+## Full Document Text
+
+
+UNITED
+NATIONS                                                                                                 A
+                          General Assembly                                       Distr.
+                                                                                 GENERAL
+
+                                                                                 A/HRC/WG.6/7/SVN/1
+                                                                                 3 November 2009
+
+
+                                                                                 Original: ENGLISH
+
+
+HUMAN RIGHTS COUNCIL
+Working Group on the Universal Periodic Review
+Seventh session
+Geneva, 8-19 February 2010
+
+
+
+
+    NATIONAL REPORT SUBMITTED IN ACCORDANCE WITH PARAGRAPH 15 (A)
+         OF THE ANNEX TO HUMAN RIGHTS COUNCIL RESOLUTION 5/1*
+
+                                                       Slovenia
+
+
+
+
+*
+    The present document was not edited before being sent to the United Nations translation services.
+
+
+GE.09-16919
+A/HRC/WG.6/7/SVN/1
+Page 2
+
+
+
+                                 LIST OF ABBREVIATIONS
+
+ 1.   CEPOL       European Police College
+ 2.   CoE         Council of Europe
+ 3.   ESD         Education for Sustainable Development
+ 4.   EU          European Union
+ 5.   HIV         Human immunodeficiency virus
+ 6.   ILO         International Labour Organization
+ 7.   NGOs        Non-governmental organisations
+ 8.   RS          Republic of Slovenia
+ 9.   SFRY        Socialist Federal Republic of Yugoslavia
+10.   Ur. l. RS   Official Gazette of the Republic of Slovenia
+                                                                         A/HRC/WG.6/7/SVN/1
+                                                                         Page 3
+
+
+                         I. REPORT DRAFTING METHODOLOGY
+
+1.    The Republic of Slovenia (hereinafter Slovenia) launched the preparations for the first
+Universal Periodic Review in the beginning of 2009. The Ministry of Foreign Affairs, Human
+Rights Section, was tasked with the coordination of drafting the national report; the preparations
+also involved the Interministerial Commission on Human Rights1, relevant ministries and
+government offices. Non-governmental organisations were informed of the drafting of the report
+in March, and they had the possibility to provide comments on the draft in June. The draft report
+was submitted for consideration to the Human Rights Ombudsman of the Republic of Slovenia
+in August 2009, and was dealt with by the Interministerial Commission on Human Rights in
+September.
+
+                 II. NORMATIVE AND INSTITUTIONAL FRAMEWORK
+
+                         A. Organisation of the state and the judiciary
+
+2.    Slovenia is a parliamentary democratic republic, consistent with the principle of the
+separation of legislative, executive and judicial powers. The legislative power is exercised by
+the bicameral parliament (National Assembly, National Council), the executive power by the
+Government and the judicial power by the judiciary. The Republic of Slovenia is represented by
+the President of the Republic, who is also the commander-in-chief of the Slovenian defence
+forces. The administrative division of the state comprises 210 municipalities.
+
+3.    The judiciary is independent and separated from the executive and legislative powers. It is
+bound by the Constitution and laws. The office of a judge is permanent. Judges are elected by the
+National Assembly on the proposal of the expert and independent Judicial Council. Judges are
+independent in the performance of the judicial function. The Constitutional Court is the highest
+judicial body protecting the constitutionality, legality and human rights.
+
+                 B. Constitutional and statutory provisions on human rights
+
+4.    A third of provisions of the Slovenian Constitution2 (hereinafter the Constitution) is
+focused on human rights and fundamental freedoms, which may be implemented directly on the
+basis of the Constitution. In order to effectively provide for and implement human rights, the
+general principle of equality and specific constitutional provisions are defined in greater detail in
+individual laws, particularly the Human Rights Ombudsman Act3, Implementation of the
+Principle of Equal Treatment Act4, Equal Opportunities for Women and Men Act5, Family
+Violence Act6, and Personal Data Protection Act7. Human rights are also guaranteed by or
+implemented through certain statutory provisions in different areas of legal regulation,
+particularly in criminal and procedural legislation, labour legislation and electoral legislation, in
+laws guaranteeing the protection of human rights of individuals with particular needs or of
+members of vulnerable social groups, as well as in a number of other laws. Motivated by the
+guaranteeing of true equality, the Constitution, the general act prohibiting discrimination and the
+special act on gender equality explicitly define the basis for implementing special measures or
+positive differentiation in cases when deviations from the equal treatment principle are justified
+by the lawful ends and when the means to attain this goal are both adequate and necessary.
+A/HRC/WG.6/7/SVN/1
+Page 4
+
+                                  C. Human rights institutions
+
+5.    As regards human rights, the relevant authorities in Slovenia include judicial bodies, state
+administration bodies and other bearers of public authority. In addition to ordinary and
+extraordinary legal remedies available to an individual at the national level in cases of violations
+of human rights and fundamental freedoms, the European Court of Human Rights guarantees the
+control over the implementation of the European Convention on Human Rights at the regional
+level. In cases of violations of the rights under the Convention, Slovenian citizens also have
+access to this Court. Institutions specialized in the protection and promotion of human rights
+include: Human Rights Ombudsman, Office for Equal Opportunities, Advocate of the Principle
+of Equality, coordinators for equal opportunities for women and men, Office for Religious
+Communities, Office for Nationalities, as well as many working bodies established by the
+Government or operating within ministries.
+
+6.     The establishment of the office of the ombudsman for the rights of citizens is provided for
+in the Constitution in order to protect human rights and fundamental freedoms in relation to state
+bodies, local self-governing bodies, and bearers of public authority. The Ombudsman has the
+authority to obtain from state and other bodies that he/she can monitor all data regardless of the
+level of classification to perform investigations; within this framework, the Ombudsman can also
+call witnesses for questioning. The Ombudsman may at any time inspect any state body or
+institution that restricts personal freedom, such as psychiatric institutions. The Ombudsman does
+not have the authority to monitor the work of judges and courts except in cases of unjustified
+delay of procedures or clear abuse of power. In compliance with the Constitutional Court Act8,
+the Ombudsman may file a constitutional complaint by consent of the injured party and a request
+for a constitutional review of regulations if he/she believes that a regulation inadmissibly
+encroaches on fundamental human rights and freedoms.
+
+7.    The Office for Equal Opportunities is striving for true equality of women and men in all
+spheres of life. The Advocate of the Principle of Equality, who operates within the Office, is
+responsible for dealing with initiatives on alleged violations of the prohibition of discrimination
+on the grounds of all personal circumstances. Coordinators for equal opportunities for women and
+men appointed by all ministries, and also set up in certain municipalities, closely cooperate with
+the Office. The Office for Religious Communities monitors the position of religious
+communities and keeps the register of religious communities.9 The Office for Nationalities
+monitors the implementation of constitutional and statutory provisions relating to the special
+rights of members of the Italian and Hungarian national communities, and monitors and ensures
+the protection of the special rights of the Roma community living in Slovenia, unless these fall
+within the competence of other state or local community bodies.
+
+                                  D. International obligations
+
+8.    Article 8 of the Constitution stipulates that laws and regulations must comply with
+generally accepted principles of international law and with treaties that are binding on Slovenia.
+Ratified and published treaties shall be applied directly. Slovenia respects the objectives and
+principles of the UN Charter, Universal Declaration of Human Rights and other international
+obligations assumed with succession or conclusion of major international universal and regional
+instruments in the field of human rights. Within the adopted international contractual obligations
+for the protection of human rights, Slovenia is subject to control by relevant bodies established
+                                                                           A/HRC/WG.6/7/SVN/1
+                                                                           Page 5
+
+under the treaties, to which it reports regularly on the status of human rights, conducts open
+dialogue and implements their recommendations in good faith. As a member of the Council of
+Europe and the European Union, Slovenia is also bound by the adopted conventions of the
+Council of Europe, the EU acquis and the practice of the European Court of Human Rights and
+the Court of Justice of the European Communities.
+
+9.   By ratifying the Third Additional Protocol to the Geneva Conventions, the United Nations
+Convention on the Rights of Persons with Disabilities and its Optional Protocol and by signing
+the United Nations Convention for the Protection of all Persons from Enforced Disappearance,
+Slovenia fulfilled the obligations as assumed upon announcing its candidature for the
+membership of the Human Rights Council. Slovenia extended an open invitation to all bodies
+mandated for special procedures. Slovenia was among the first countries to sign the Optional
+Protocol to the International Covenant on Economic, Social and Cultural Rights in September
+2009 and ratified the Council of Europe Convention on Action against Trafficking in Human
+Beings. Moreover ratification of Protocol No. 12 to the Convention for the Protection of Human
+Rights and Fundamental Freedoms has been included in the government programme.
+
+10. At the international level, Slovenia is a supporter of progressive human rights policy by
+advocating the development of new standards and by applying and implementing the existing
+international human rights standards.
+
+    III. PROMOTION AND PROTECTION OF HUMAN RIGHTS POLITICAL AND
+                            CIVIL RIGHTS
+
+ A. State governed by the rule of law: implementing Constitutional Court decisions, court
+                           backlogs, trial without undue delay
+
+11. The Constitution is the highest legal act of every state, and the Constitutional Court
+decisions the highest authority for clarifying the provisions contained in the Constitution, which
+must be respected and implemented by all state bodies and all natural persons and legal entities.
+At the end of 2008, nine decisions of the Constitutional Court on the review of constitutionality
+of laws were not implemented. Some of these decisions are being implemented now.
+
+12. Article 23 of the Constitution stipulates that everyone has the right to have any decision
+regarding his rights, duties and any charges brought against him made without undue delay by an
+independent, impartial court constituted by law. The latest judgment of the European Court of
+Human Rights in the case of Lukenda v. Slovenia10 as well as the decision of the Constitutional
+Court of the Republic of Slovenia No. U-I-65/05 (2005) obligates the state to establish the
+conditions in which the right to trial without undue delay shall be provided. For this purpose, the
+Ministry of Justice drafted the “Lukenda Project” in 2005, which envisages the elimination of
+court backlogs in courts and prosecutor’s offices by 31 December 2010. The measures include
+the provision of workplace conditions, additional provision and organisation of human resources,
+reorganisation and better management of courts, a stimulating remuneration of the court staff,
+additional training of judges and prosecutors, and accelerated informatisation of courts (»e-
+justice« project). The adoption of the Act Regulating the Protection of Right to Trial without
+Undue Delay11 brings significant progress, in respect of which the European Court of Human
+Rights ruled in 2007 that it contains effective legal remedies for the protection of the right to trial
+A/HRC/WG.6/7/SVN/1
+Page 6
+
+without undue delay in compliance with Article 6, paragraph 1, with reference to Article 13 of
+the European Convention on Human Rights12.
+
+13. As at 31 December 2008, court backlogs in courts of general jurisdiction of first and
+second instance totalled 274,071 cases.
+
+           Table 1
+           Court backlogs in courts of general jurisdiction of first and second instance
+
+Courts              31 Dec     31 Dec     31 Dec     31 Dec     31 Dec      31 Dec     Reduction rate
+                      2000       2004       2005       2006       2007        2008       (2004-2008)
+Higher               5.139      6.242      4.744      3.032      1.898         667    -89,3 (per cent)
+District            22.439     13.924     14.204     12.606     12.037      10.748    -22,8 (per cent)
+Local              196.866    290.156    285.953    276.303    273.240     262.656     -9,5 (per cent)
+ Total             224.444    310.322    304.901    291.941    287.175     274.071    -11,7 (per cent)
+
+
+
+                                   B. Prohibition of discrimination
+
+14. Article 14 of the Constitution stipulates that everyone shall be guaranteed equal human
+rights and fundamental freedoms irrespective of national origin, race, sex, language, religion,
+political or other conviction, material standing, birth, education, social status, disability or any
+other personal circumstance. Article 14, paragraph 2, stipulates that all are equal before the law.
+Equal protection of rights regulated in Article 22 also falls within the scope of the general
+principle of equality (equal protection of rights in any proceeding before a court and before other
+state bodies).Gender equality is also provided by certain laws such as the Implementation of the
+Principle of Equal Treatment Act, including individual provisions of different laws (e.g. the
+provision of the Penal Code13 incriminating the violation of equality as a criminal offence; the
+provision of the Employment Relationship Act14 prohibiting discrimination; provisions of
+procedural laws guaranteeing the equality of parties to criminal, civil, administrative and tax
+procedures).
+
+15. The constitutional principle of equality is specified by the provisions of laws regulating
+employment and work, education, social protection, electoral law, etc. The application of the
+principle of equality is defined in greater detail by the Implementation of the Principle of Equal
+Treatment Act, which provides for equal treatment regardless of different personal
+circumstances. The Act prohibits direct and indirect discrimination, instructions that might result
+in discrimination, retaliatory measures, and harassment. It also contains the legal basis for the
+introduction of temporary special measures aimed at ensuring the true equality of persons that
+are in a less favourable situation due to one or more personal circumstances. The cases of alleged
+violations of the prohibition of discrimination are dealt with by the Advocate of the Principle of
+Equality. Everyone who thinks they are being discriminated against may contact the Advocate
+either in writing or orally. The Advocate provides explanations whether a specific act or
+omission thereof would constitute a violation of the principle of equality on the grounds of
+personal circumstances. He/she provides assistance to those interested with regard to the
+application of the right to equal treatment also in other procedures. In case an alleged offender
+fails to respond to the request for explanation, fails to carry out the Advocate’s recommendations
+                                                                         A/HRC/WG.6/7/SVN/1
+                                                                         Page 7
+
+or fails to notify the Advocate on time on measures adopted, the Advocate refers the case to the
+relevant inspection service.
+
+16. Alleged victims may also contact relevant inspection services and other administrative
+bodies and judicial bodies for the protection against discrimination; they can also exercise their
+right to damages. In case there is suspicion in respect of violations, the burden of proof lies on
+the offender.
+
+17. In Slovenia, gender equality is a right, a goal and a horizontal principle permeating all
+spheres of life of women and men in all life periods. The Equal Opportunities for Women and
+Men Act provided for the fundamentals in improving the situation of women and creating equal
+opportunities for women and men by removing obstacles to establishing gender equality, by
+preventing and eliminating unequal treatment of persons on the basis of their gender as a form of
+discrimination and by creating the conditions for establishing equal representation of women and
+men in all spheres of social life. The Act envisages measures and strategies to enhance the role
+and situation of women and guarantee gender equality; Slovenia is bound by treaties and
+political commitments to meet these objectives. The year 2005 saw the adoption of the National
+Programme for Equal Opportunities for Women and Men 2005–2013, which is being
+implemented by ministries and government offices through two-year periodic plans; on the basis
+of a reporting system, the government regularly examines the adequacy and effectiveness of
+activities performed and, if required, changes, adapts or upgrades them. Every two years, the
+government reports to the National Assembly on the implementation of the National Programme.
+
+18. The Office for Equal Opportunities is the Government’s central mechanism for dealing
+with gender equality. Its competences and tasks are in compliance with the established
+international standards regulating national mechanisms for the strengthening of the role and
+situation of women and guaranteeing gender equality. The Office plays a significant role in the
+promotion of an effective use of specialized policies and measures for gender equality and for
+integrating gender equality into all public policies. The Office carries out its work in cooperation
+with the National Assembly Commission for Petitions, Human Rights and Equal Opportunities.
+
+19. Notable progress in the government policy for the strengthening of the role and the
+situation of women and guaranteeing gender equality was achieved in education, employment,
+equal pay for equal work, violence against women and trafficking in women and girls. The
+progress was facilitated by the new legislation, the national programme and action plans for
+equal opportunities for women and men as well as by the implementation of specialized action
+plans and programmes: action plans on the fight against trafficking in human beings, 2009-2014
+National Programme on Prevention of Family Violence; providing regular information for
+women and relevant stakeholders; systematic awareness-raising of the public and target groups;
+education, training and cooperation with non-governmental organizations, trade unions, research
+and educational institutions; encouraging media to assume positive role in ensuring gender
+equality and the inclusion of men in endeavours towards gender equality.
+
+                                       1. Same-sex partnership
+
+20. Decision U-I-425/06-10 of July 2009 of the Constitutional Court established the
+inconsistency of Article 22 of the Registration of a Same-Sex Civil Partnership Act15 regulating
+inheritance with Article 14, paragraph 1, of the Constitution. The Court establishes that the
+A/HRC/WG.6/7/SVN/1
+Page 8
+
+position of partners in registered same-sex partnerships is in its essential factual and legal aspects
+comparable with the position of spouses as regards the right to inheritance from a deceased
+partner. The differences in the regulation of inheritance between spouses and between partners in
+registered same-sex partnerships are therefore not based on any objective, non-personal
+circumstance, but on sexual orientation. Until the established inconsistency is remedied, the
+same rules apply for inheritance between partners in registered same-sex partnerships as apply
+for inheritance between spouses in accordance with the Inheritance Act.16 The National
+Assembly is obliged to remedy the established inconsistency within six months from the
+publication of this decision17.
+
+21. In its endeavours to eliminate stigmatization and discrimination against HIV-positive
+people, the Ministry of Health is co-financing NGOs fighting stigma and providing counselling
+and training in this area.
+
+                                       2. Children’s rights
+
+22. The first Programme for Children and Youth 2006-2016 was drafted in 2006 in
+compliance with the recommendation of the UN Committee on the Rights of the Child. The
+Programme includes all important areas of the life of children, particularly those where
+unresolved or new problems are perceived, with which children and youth are faced in the
+modern society. It also includes complementary qualitative and quantitative objectives, as well
+as development guidelines and activities essential to the implementation of the goals set.
+Individual chapters touch upon normative, administrative-systemic and programme levels as well
+as upon specific implementation of children’s rights in practice. A priority task was
+concentrating on guidelines and activities introducing changes, amendments or new solutions
+within the established activities implemented by national or other services in the field of child
+care. The Programme for Children and Youth will be implemented in compliance with funds
+earmarked for the financial realisation for each activity or task. The Government will devote
+particular attention to improving the situation of children. A special action plan on the
+Programme for Children and Youth 2006-2016 will be adopted for this purpose.
+
+23. A pilot project “Child Advocate – Voice of the Child” was launched in 2006. The project
+is aimed at elaborating a model programme of the child advocate; its substantive and
+organisational basis would allow for its inclusion in the formal system and thus ensure its
+implementation at the national level. In compliance with the Convention on the Rights of the
+Child, the model would enable children to actively participate in decision-making processes.
+
+24. A new Family Code that is currently under public debate regulates comprehensively the
+entire family law, strengthening the influence of the state on relations within the family for the
+child’s benefit. The novelties include the prohibition of corporal punishment of children, the
+system of children’s advocacy, the extension of the definition of “family protected under the
+constitution” (with a view to enhancing the protection of children) and introduction of equal
+status to same-sex partnerships and heterosexual partnerships.
+
+                              3. Rights of persons with disabilities
+
+25. To ensure the enjoyment of human rights and fundamental freedoms of persons with
+disabilities on an equal footing, a number of regulations in the field of education, employment,
+                                                                         A/HRC/WG.6/7/SVN/1
+                                                                         Page 9
+
+health care, removing communication obstacles and environmental barriers, self-organizing of
+persons with disabilities and providing financial assistance for their personal needs was adopted.
+Major programmes, regulations and measures adopted in recent years include:
+
+           Government Action Programme for Persons with Disabilities 2007–2013: based on
+            the principles of ensuring equal opportunities, prohibiting discrimination on the basis
+            of disability and ensure accessibility as a precondition for the implementation of
+            rights and social inclusion of persons with disabilities. The Programme includes
+            twelve basic goals with specific implementing measures. Relevant ministries are
+            obliged to report to the Government every year on the implementation. One of the
+            key objectives of the Programme is indiscriminatory provision of access to work and
+            employment for persons with disabilities in an open, inclusive and accessible work
+            environment;
+
+           The Vocational Rehabilitation and Employment of Disabled Persons Act18 regulates
+            the right to rehabilitation, supported employment, incentives for employment in the
+            open labour market, employment in sheltered workshops and job centres, quota
+            system, etc. The Act significantly improved the situation of persons with disabilities
+            in the labour market. Gaming proceeds were earmarked for the work of
+            organisations specialising in disability issues and humanitarian organisations;
+
+           Certain rights of persons with disabilities have been included in a number of
+            regulations applicable to health care, disability insurance, parental benefit, education
+            and training and taxation;
+
+           In April 2008, Slovenia ratified the UN Convention on the Rights of Persons with
+            Disabilities and its Optional Protocol;
+
+           During its Presidency of the EU Council, Slovenia drafted the Resolution on the
+            Situation of Persons with Disabilities in the European Union and organised a
+            presidential conference with an informal ministerial meeting on the implementation
+            of the Convention on the Rights of Persons with Disabilities in the Member States;
+
+           Organisations specialising in disability issues play a significant role in the
+            development of disability policy in Slovenia.
+
+            C. Protection of the rights of national and other ethnic communities
+
+26. The national territory of the Republic of Slovenia is traditionally and historically also
+settled by (autochthonous) Italian and Hungarian national communities and the Roma ethnic
+community. The situation and special rights of the Italian and Hungarian national
+communities are defined in Articles 64 and 11 of the Constitution and guaranteed regardless of
+the number of members of these communities. The organisation and fundamental rights of the
+two national communities are specified in the Self-Governing Ethnic Communities Act19, and
+their situation is also defined by approx. 90 laws and other regulations, ordinances and statutes of
+municipalities in ethnically mixed areas and by bilateral and multilateral treaties. All regulations
+requiring the implementation of rights and the situation of the Italian and Hungarian national
+communities are adopted in consensus with their representatives. The two national communities
+A/HRC/WG.6/7/SVN/1
+Page 10
+
+are directly represented in representative bodies of local self-government and in the Slovenian
+National Assembly, with one representative, respectively.
+
+27. The national territory of the Republic of Slovenia is traditionally and historically also
+settled by (autochthonous) Italian and Hungarian national communities and the Roma ethnic
+community. The situation and special rights of the Italian and Hungarian national
+communities are defined in Articles 64 and 11 of the Constitution and guaranteed regardless of
+the number of members of these communities. The organisation and fundamental rights of the
+two national communities are specified in the Self-Governing Ethnic Communities Act20, and
+their situation is also defined by approx. 90 laws and other regulations, ordinances and statutes of
+municipalities in ethnically mixed areas and by bilateral and multilateral treaties. All regulations
+requiring the implementation of rights and the situation of the Italian and Hungarian national
+communities are adopted in consensus with their representatives. The two national communities
+are directly represented in representative bodies of local self-government and in the Slovenian
+National Assembly, with one representative, respectively.
+
+28. The situation and rights of members of the Roma community are regulated by Article 65
+of the Constitution, the Roma Community Act21 and certain provisions of 14 other laws. The
+situation of the Roma community is regulated comprehensively by a special act, which stipulates
+that state bodies and self-governing local community bodies must ensure the implementation of
+the special rights of the Roma community; it regulates the organization of the Roma community
+at the national and local levels, including financing. A national programme of measures is being
+drafted for the operationalization of the act, which will be implemented through sector specific
+programmes and measures by relevant state bodies and self-governing local community bodies;
+the implementation of the programme will be monitored by the Government Commission for the
+Protection of the Roma Ethnic Community. All ministries and government offices must devote
+special concern to Roma issues within their competence and include them in national
+programmes in their fields of work. The 1995 Programme of Measures for Assisting the Roma is
+still being implemented and includes measures for improving the status of the Roma community
+in key areas such as housing, education, employment, family welfare, social and health care,
+cultural development of the Roma community, as well as providing information to Roma and
+their organisation. In Slovenia, acts relating to the Roma community are being adopted after
+consulting with the community. On the basis of the statute, the Roma community is represented
+in municipal councils of 19 local communities.
+
+29. The Constitution of the Republic of Slovenia does not contain any provisions relating
+directly to the special protection of members of other ethnic groups. These communities can
+exercise their rights in accordance with Article 14 (Equality before the Law), Article 61
+(Expression of National Affiliation) and Article 62 (Right to Use One’s Language and Script) of
+the Constitution.
+
+             1. Education of members of national and other ethnic communities
+
+30. Slovenia has developed two different models of education for members of the Italian
+and Hungarian national communities, which share the same objectives – bilingualism and co-
+existence of the two nations and cultures. For the implementation of rights of members of the
+Italian national community in the field of pre-school, elementary, general secondary and
+secondary vocational education, in accordance with the legislation, in the areas defined as
+                                                                        A/HRC/WG.6/7/SVN/1
+                                                                        Page 11
+
+ethnically mixed, pre-school institutions and schools with Italian as the language of instruction
+are established. The Slovenian language is a compulsory subject in these schools. In educational
+institutions in ethnically mixed areas providing education in the Slovenian language, the
+learning of the language of a national community is compulsory. In ethnically mixed areas
+where members of the Hungarian national community reside, education is provided
+bilingually, in the Slovenian and Hungarian languages. These pre-school institutions and schools
+are attended by children of Slovenian and Hungarian nationalities. This enables pupils to learn a
+second language in addition to their mother tongue and become familiar with the culture of the
+other nation. Educational activities are carried out in both languages. When learning the mother
+tongue and the second language, pupils are divided into groups, which enable them to learn their
+mother tongue at an advanced level.
+
+31. The Strategy of Education of Roma in the Republic of Slovenia (2004) includes a number
+of measures: inclusion of Roma children in pre-school institutions at least two years prior to their
+enrolment in elementary school; inclusion of a Roma assistant in the work of educational
+institutions as a bridge between the pre-school institution or school on the one hand and the
+Roma community on the other; introduction of the Romani language as an optional subject;
+teaching the Slovenian language; introduction of content taken from Roma culture, history and
+identity into lessons; prohibition of homogenous classes (segregation) of Roma children;
+introduction of individualisation, internal and flexible differentiation and different forms of
+learning assistance; building confidence in school and the elimination of prejudices; further
+education and training of educational professionals. The Union of Roma of Slovenia was
+involved throughout the drafting of the document and its president is the president of the
+working group which drafts annual action plans for the implementation of the strategy. The
+strategy is aimed at training Roma to contribute themselves to effective integration of the Roma
+population into various forms of education. The following activities have already been carried
+out in the area of education: a network of schools with Roma pupils has been formed within
+which teachers exchange experience and good practices, and additional teacher training is
+provided; schools implemented projects and other activities of intercultural dialogue; the
+standardisation of the Romani language was carried out as a basis for its teaching; occupational
+standards for Roma assistants were developed; a project to develop the method (and materials)
+for teaching Slovenian as a foreign language is being implemented; the syllabus for a course in
+Roma culture was drafted and adopted; programmes for vocational training of educational
+professionals are being implemented for successful work with the Roma pupils; Roma assistants
+are being trained; the Ministry of Education and Sport has been co-financing education of adult
+Roma; the project introducing and educating Roma assistants is being implemented with the
+support of the European Social Fund; young Roma intellectuals endeavour for the awareness
+raising of members of the Roma community about the significance of knowledge and education
+through the Roma Academic Club.
+
+               2. Cultural rights of the national and other ethnic communities
+
+32. In cooperation with the members of the Italian and Hungarian national communities, the
+Roma community and other ethnic communities, the Ministry of Culture identifies their needs
+for the protection of cultural specificities and develops measures aimed at their quality
+integration. The Ministry endeavours for the preservation of cultural rights of these communities
+through financial measures (financing projects), organisational measures (expert assistance,
+counselling, workshops, mediation in resolving interethnic tensions) and normative measures
+A/HRC/WG.6/7/SVN/1
+Page 12
+
+(special provisions included in the general cultural act; active participation of these communities
+in shaping the regulations).
+
+                                       3. Domestic violence
+
+33. In March 2008, the Family Violence Prevention Act entered into force which defines
+physical, sexual, psychological and economic violence and disregard to provide due care to
+family members. Children, elderly and disabled persons enjoy special protection against
+violence. If the victim of violence is a child, anyone is obliged to inform a social work centre, the
+police or the state prosecutor’s office accordingly. Another novelty lies in the possibility for the
+victim to choose an assistant who accompanies him/her in all proceedings related to family
+violence and can help in settling problems. In addition, the victim has the right to a legal
+representative who defends his/her interest in the proceedings. A multidisciplinary team lead by
+the social work centre draws up an aid plan for a victim in collaboration with other authorities.
+The Act stipulates free legal assistance to the victims of violence in court proceedings. The court
+can impose certain restrictions in case of acts of violence, prohibiting to the perpetrator the
+following: entering to the accommodation premises where the victim lives; coming at a specified
+distance within the proximity of the accommodation where the victim lives; coming near the
+places that the victim regularly frequents; establishing contact with the victim in any way. On the
+victim’s request, the court can require the perpetrator to transfer the common residence into
+exclusive use by the victim. In case of a divorce, the spouse victim can demand that the other
+spouse (the perpetrator of violence against the victim or his/her children) leave him/her in
+exclusive use of the accommodation in which both of them live. In order to protect the children,
+the court assigns the residence to the spouse with whom the children live. All the above
+restrictions and measures apply for a maximum of six months with the ability of extension for
+additional six months. Based on this Act, all competent authorities (the police, education, health
+and social institutions) should adopt their own rules for acting in the event of domestic
+violence.22
+
+34. The new Penal Code sanctions, in a separate article, domestic violence that may be
+committed as various acts or practices against the person with whom the perpetrator lives or has
+lived in a family or other permanent community. In the previous Penal Code, the forms and
+consequences of domestic violence were defined in different articles.
+
+35. The National Assembly adopted the Resolution on the National Programme of Family
+Violence Prevention for the Period 2009-2014. It is a strategic document defining the objectives,
+measures and key players with regard to reduction and prevention of family violence. Specific
+tasks and activities will be defined in two-year action plans.
+
+        D. Torture and other cruel, inhuman or degrading treatment or punishment
+
+36. Slovenia ratified the UN Convention against Torture and Other Cruel, Inhuman or
+Degrading Treatment or Punishment in 1993. Upon ratification it made a declaration based on
+Articles 21 and 22 of the Convention.
+
+37. The Constitution stipulates as follows: human life is inviolable and there is no capital
+punishment in Slovenia (Article 17); no one may be subjected to torture or to inhuman or
+degrading punishment or treatment (Article 18); respect for human personality and dignity shall
+                                                                         A/HRC/WG.6/7/SVN/1
+                                                                         Page 13
+
+be guaranteed in criminal and in all other legal proceedings, as well as during the deprivation of
+liberty and enforcement of punitive sanctions (Article 21, paragraph 1); and violence of any form
+against any person whose liberty has been restricted in any way is prohibited, as is the use of any
+form of coercion in obtaining confessions and statements (Article 21, paragraph 2).
+
+38. Based on the recommendations of the UN Committee against Torture, the new Penal
+Code23 adopted in 2008 stipulated an independent criminal offence of torture (Article 265) in
+addition to the existing criminalisation of torture in the framework of crimes against humanity
+(Article 101, item 6) and war crimes (Article 102, paragraph 1, item 2). In doing so, the
+legislator took into account the definition of torture in Article 1 of the Convention against
+Torture.
+
+39. The Act ratifying the Optional Protocol to the Convention against Torture and Other Cruel,
+Inhuman or Degrading Treatment or Punishment24 stipulates that the national preventive
+mechanism be the Slovenian Human Rights Ombudsman, exercising tasks and powers of the
+national preventive mechanism together with the selected NGOs that gained the humanitarian
+organisation status in Slovenia.
+
+40. A specialised department was established within the group of state prosecutors assigned to
+prosecute organised crime, functioning under the Office of the State Prosecutor General, in order
+to pursue independent investigation of criminal offences of which police officers are suspected.
+Since 1 November 2007, the department is exclusively in charge of prosecuting criminal
+offences committed by officials employed by the Police.
+
+                                 1. Trafficking in human beings
+
+41. Measures in the area of trafficking in human beings in Slovenia are defined by action plans
+for the fight against trafficking in human beings which are drawn up every two years since 2004
+by the Interdepartmental working group for the fight against trafficking in human beings,
+composed of representatives of the competent ministries, government offices, the National
+Assembly and NGOs. These action plans are aimed at defining fundamental activities for
+suppressing trafficking in human beings in Slovenia in the field of legislation on investigation
+and prosecution of criminal offences related to trafficking in human beings, prevention in the
+form of providing information, awareness raising and research activity, assistance to and care for
+victims of trafficking in human beings, training, education and international cooperation. On the
+basis of these action plans, amendments to the Penal Code were adopted in 2004 in the field of
+prostitution and trafficking in human beings; particularly a new criminal offence of trafficking in
+human beings (Article 387(a)) was introduced; while Articles 185 (pimping) and 186 (brokering
+prostitution) were replaced by a new Article 175 (exploitation through prostitution). In 2005, the
+Witness Protection Act25 was adopted, the application of which concerns the protection of the
+victims of trafficking in human beings. The Act amending the Criminal Procedure Act was
+adopted, which stipulates that minors who are victims of trafficking in human beings shall also
+be entitled to an authorised person responsible to care for their rights (Article 387(a) of the Penal
+Code). The Aliens Act was amended, which in a special article stipulates the procedures with
+aliens victims of trafficking in human beings based on EU directives. By ratifying the Council of
+Europe Convention on Action against Trafficking in Human Beings26 Slovenia assumed the
+obligations under this regional instrument. Preventive awareness-raising measures addressed to
+the public comprise: the Government’s webpage, making videos, reprinting and distributing
+A/HRC/WG.6/7/SVN/1
+Page 14
+
+materials, addressing target population within NGO projects co-financed by individual
+ministries, educating expert public, especially the Police, in cooperation with NGOs, and training
+and educating NGOs by internal experts. There are not many final judgments from the area of
+trafficking in human beings, therefore particular attention is also devoted to providing
+information for and training of judiciary personnel.
+
+42. The project aimed at the victims of trafficking in human beings has been implemented
+since 2008 on the basis of public tenders and financed by the Ministry of the Interior (safe
+accommodation, carried out by the Ključ Association) and the Ministry of Labour, Family and
+Social Affairs (crisis accommodation, carried out by the Slovenian Karitas).
+
+43. In 2008, the Ministry of Foreign Affairs financed, for the fifth consecutive year, the project
+titled “Implementing the mechanism for reconnaissance, assistance and protection of the victims
+of trafficking and/or sexual abuse in asylum proceedings in Slovenia” (PATS). There is a
+regional component to the project, which is implemented also in Croatia and Bosnia-
+Herzegovina.
+
+                            2. Rights of aliens and asylum seekers
+
+44. Article 61 of the Constitution guarantees the right to everyone to express affiliation with
+their nation and culture as well to use their language and script. Entry into and residence in
+Slovenia are governed by the Aliens Act27, which, in accordance with the European legislation,
+ensures fair treatment of aliens who lawfully reside in the country. The rights of aliens are
+comparable to those enjoyed by the Slovenian citizens. By adopting the Decree on the
+Integration of Aliens, Slovenia introduced active measures of integration policy and in autumn
+2009 it will begin to implement basic integration measures aimed at shaping a comprehensive
+and effective integration policy based on intercultural dialogue.
+
+45. With regard to asylum policy, Article 48 of the Constitution stipulates that within the limits
+of the law, the right of asylum shall be recognised to foreign nationals and stateless persons who
+are subject to persecution for their commitment to human rights and fundamental freedoms. In
+2007, the International Protection Act28 replaced the previous Asylum Act as an umbrella act.
+The Act systematically regulates the entire area of international protection in Slovenia. It fully
+transposed EU Council directives into Slovenian legislation, which together with two EU
+Council decisions provide the legal basis for the Common European Asylum System. The Act
+facilitates the introduction of efficient and fast asylum procedures, providing citizens of third
+countries with necessary protection and facilitating their integration into Slovenian society; in
+case of a negative decision the Act stipulates immediate expulsion of applicants into the country
+of origin. Particular attention is devoted to vulnerable groups (applicants, refugees, persons
+granted subsidiary protection) as it provides for a positive distinction with regard to material
+conditions of acceptance, health care, psychological counselling and care. The principle of
+family reunification is taken into consideration for persons enjoying international protection in
+accordance with Article 8 of the European Convention on Human Rights. International
+protection is granted to each applicant who fulfils conditions under International Protection Act.
+If the applicant leaves Slovenia, the procedure is stopped. 50 (per cent) of procedures were
+stopped in 2008.
+                                                                        A/HRC/WG.6/7/SVN/1
+                                                                        Page 15
+
+46. Official persons conducting international protection procedures are regularly trained and
+acquainted with international case law in this area. NGOs take an active part in implementing the
+International Protection Act. They play an important role in providing psychosocial and learning
+assistance, performing activities for creative leisure pursuits as well as rendering assistance in
+integration into the environment. Their role is also significant in preventing and taking
+appropriate action in cases of sexual violence and in the area of the fight against trafficking in
+human beings. An agreement was signed between the Government and NGOs in June 2008
+allowing for a more rapid detection and prevention of sexual violence as well as taking action in
+this regard with asylum seekers and refugees.
+
+   3. Persons who were transferred from the register of permanent residence following
+                Slovenia’s gaining independence to the register of aliens
+
+47. The Aliens Act29, which was one of the independence laws of Slovenia, defined an alien
+and regulated, in respect of the citizens of other republics of the former SFRY who did not apply
+for Slovenian citizenship that its provisions began to apply to them on 26 February 1992. They
+became aliens on that day and a residence permit was required for their further residence in
+Slovenia. On 26 February 1992, permanent residence of those citizens of other republics of the
+former SFRY who did not have Slovenian citizenship was discontinued in the register of
+permanent residence. In order to regulate their status, the Act Regulating the Legal Status of
+Citizens of the Former SFRY Living in the Republic of Slovenia (hereinafter: ZUSDDD)30 was
+adopted in 1999 which provided for the acquisition of permanent residence permits under more
+favourable conditions than those stipulated in the Aliens Act. The only condition for persons to
+obtain permanent residence permits was a de facto residence in Slovenia since 23 December
+1990 or since 25 June 1991.
+
+48. In its decision No. U-I-246/02-28 of 3 April 2003, the Constitutional Court decided that the
+provisions of the ZUSDDD Act, determining a time limit of three months for filing an
+application for the issuance of a permanent residence permit, had to be annulled, and that the
+ZUSDDD Act was inconsistent with the Constitution, since 1) it did not recognize permanent
+residence to citizens of other republics of the former SFRY, who on 26 February 1992 were
+removed from the register of permanent residence, from that date onwards, 2) it did not regulate
+the acquisition of a permanent residence permit by citizens of states successors to the former
+SFRY for whom the measure of the forcible removal of a foreigner was pronounced, and 3) it
+did not prescribe the criteria for establishing the legal concept of “actual presence”. Paragraph 8
+of the Decision of the Constitutional Court stipulated that permanent residence of citizens of
+other republics of the former SFRY was established from 26 February 1992 onwards if on that
+day they were removed from the register of permanent residence, on the basis of a permit for
+permanent residence issued in accordance with the ZUSDDD Act or the 1991 Aliens Act, as
+amended in 1999. It imposed on the Ministry of the Interior the obligation to issue, as an official
+duty, supplementary decisions on the establishment of permanent residence in Slovenia from 26
+February 1992 onwards. In item 23 of the Reasoning of its Conclusion No. U-II-3/03-15 of 22
+December 2003, the Constitutional Court explained the manner of implementation of paragraph
+8 of the Decision No. U-I-246/02-28, namely that the Decision of the Constitutional Court was
+the legal basis for issuing supplementary decisions by the Ministry of the Interior. Item 24 of the
+Reasoning clarified that the Ministry of the Interior was obliged to follow that part of the
+Decision that governs the manner of implementation, until the legislator prescribed otherwise or
+regulated the area in a different manner in accordance with the Constitution. With regard to the
+A/HRC/WG.6/7/SVN/1
+Page 16
+
+above, the Ministry of the Interior began to issue supplementary decisions on 23 February 2009.
+Persons entitled to be issued with a supplementary decision are those whose permanent residence
+registration in Slovenia had terminated and those who have already obtained a permanent
+residence permit in Slovenia. The Ministry of the Interior is drafting a law which will remedy
+other established inconsistencies of the ZUSDDD Act with the Constitution.
+
+                                    4. Freedom of expression
+
+49. Media activities in Slovenia are based on the freedom of expression, the inviolability and
+protection of human personality and dignity, the free flow of information, media openness to
+different opinions and beliefs and to diverse content, the autonomy of editorial personnel,
+journalists and other authors in creating programming in accordance with programme concepts
+and professional codes, and the personal responsibility of journalists, other authors of pieces and
+editorial personnel for the consequences of their work. The dissemination of programming that
+encourages ethnic, racial, religious, sexual or any other inequality, or violence and war, or incites
+ethnic, racial, religious, sexual or any other hatred and intolerance is prohibited. Certain articles
+of the Media Act31 also refer to the human rights protection. The Act stipulates that advertising
+may not prejudice respect for human dignity, incite discrimination on the grounds of race, sex or
+ethnicity, or political or religious intolerance, encourage behaviour damaging to public health or
+safety or to the protection of the environment and the cultural heritage, give offence on the
+grounds of religious or political beliefs, or damage consumers' interests. A special right under the
+Act is the right to correction or reply based on which any person has the right to demand that the
+responsible editor publish free-of-charge a correction by such person to any report published that
+infringed upon the person’s rights or interests. In advertising, special provisions refer to children.
+Advertisements that are targeted at children or in which children appear may not contain scenes
+of violence, pornography or any other content that could damage their health or mental and
+physical development or otherwise have a negative effect on them. Advertising may not be
+morally or mentally prejudicial to children, may not encourage children to purchase products or
+services by exploiting their inexperience or credulity, may not encourage children to convince
+their parents or any other person to purchase products or services, and may not unjustifiably
+show children in dangerous situations.
+
+                                    5. Freedom of conscience
+
+50. Freedom of conscience is provided for by Article 41 of the Constitution, referring to
+religious belief as well as moral, philosophical and other convictions. Any individual may be of
+any religious or other conviction and may freely profess his/her religious belief, or may not be of
+religious conviction, may not declare his/her religious beliefs and in this regard is not obliged to
+declare him-/herself. Any forcing to such declaration would mean infringement of such
+individual’s integrity and denial of his/her free declaration. As a result of this freedom, everyone
+has the right to be or not to be a member of any religious community, as well as he/she should
+not be limited in becoming a member of or leaving a religious community. The Religious
+Freedom Act32 governs and ensures the exercise of religious freedom as well as stipulates the
+register of churches and other religious communities, criteria, conditions and the procedure for
+the registration of churches and other religious communities, and the rights of registered
+churches and other religious communities and their members. The Commission of the
+Government of the Republic of Slovenia for the resolution of outstanding issues of religious
+communities was established by the Government to discuss open issues related to the
+                                                                         A/HRC/WG.6/7/SVN/1
+                                                                         Page 17
+
+relationship between the state and religious communities. The Slovenian Government Office for
+Religious Communities holds consultations of representatives of churches and other religious
+communities on the topics of interest for religious communities, providing them with
+information about legislation, their rights and the method of their exercising. In recent years, the
+Office organised several one-day and two-day meetings of representatives of churches and other
+religious communities, which are an important part of cooperation between the state, churches
+and other religious communities, and among different churches and other religious communities.
+
+                            E. Economic, social and cultural rights
+
+                                            1. Poverty
+
+51. Slovenia combats poverty with various statutory and programme measures. According to
+the Parental Protection and Family Benefits Act33, families with three or more children are
+entitled to a large family allowance, paid once a year as a lump sum. In single-parent families,
+child benefit is increased by 10 per cent, and financial social assistance by 30 per cent pursuant
+to the Social Security Act34. Other measures to combat poverty include subsidised rents;
+subsidised pre-school care; subsidised transport for students, textbook funds and scholarships;
+active employment policy programmes and experimental programmes under the EQUAL
+initiative for the employment of vulnerable groups (disabled persons, migrants, Roma); free legal
+assistance; personal income tax relief and relief from certain other taxes; and exemption from
+payment for compulsory health insurance. The National Social Protection and Social Inclusion
+Strategy for the 2008–2010 Period aims to increase social inclusion of individuals and contribute
+to social cohesion, improve access to and the quality of social services of general interest, and
+improve the efficiency and adequacy of social transfers by modernising social protection systems
+and institutions. In order to fight inflation, the Government, by amending the Act on Regulating
+Adjustments of Transfers to Individuals and Households35 decided in 2008 that transfers would
+be adjusted twice a year In the area of employment, in 2009 the Ministry of Labour, Family and
+Social Affairs revised the Catalogue of Active Employment Policy Measures to help the
+unemployed who will be looking for new opportunities in the crisis; introduced co-financing of
+education and training for the employed and unemployed as well as for young people entering
+the labour market; encouraged self-employment and transfer of workers to more promising
+posts; and provided support for development projects, such as social economy. The Ministry is
+planning a comprehensive review of the current employment and unemployment insurance
+legislation, with a view to expanding the range of beneficiaries of unemployment compensation,
+especially to young people. The new act will aim at extending the right to compensation under
+more favourable conditions also to fixed-term employees, who are primarily young people.
+
+                                           2. Education
+
+52. The Constitution guarantees fundamental rights pertaining to education. According to the
+Constitution, physically or mentally handicapped children and other severely disabled persons
+have the right to education and training for an active life in society. Under the Organisation and
+Financing of Education Act,36 education shall aim at guaranteeing optimum development to
+individuals regardless of their sex, social and cultural background, religion, racial, ethnic or
+national origin, and physical and mental handicaps; educating for mutual tolerance, developing
+the awareness of the equality of rights for men and women, respect for human diversity and
+mutual cooperation, respect for children’s and human rights and fundamental freedoms, and
+A/HRC/WG.6/7/SVN/1
+Page 18
+
+fostering equal opportunities for both sexes in education. The Elementary School Act37 also
+deals with the rights of the national communities, rights of the Roma community, foreign
+nationals and children with special needs. Education Guidelines for Sustainable Development
+from Pre-school to University Education, adopted in 2007, promote intercultural dialogue,
+quality interpersonal relations and development of social skills (non-violence, tolerance,
+cooperation, respect). The Ministry of Education and Sport publishes calls for applications for
+research projects on the prevention of violence and intercultural dialogue, for projects carried out
+by educational institutions (recognition and prevention of violence, education for gender
+equality), and for training of educational professionals (for tolerance and acceptance of diversity,
+intercultural cooperation and learning, promotion of intercultural dialogue, equal opportunities,
+and the recognition and prevention of violence). Several projects are underway, teaching respect
+for human rights.
+
+53. Mutual understanding between different linguistic groups is promoted within the
+syllabuses of Slovenian language, geography, history, social studies, civic education, ethics and
+civic culture.
+
+                                          3. Health care
+
+54. Health legislation provides for health care that is equal, appropriate, of high quality and
+safe. The Patients Rights Act38 stipulates the rights of patients as users of health care services in
+their relations with health care providers and the procedures for the exercise of these rights. The
+Ministry of Health identified the protection of rights of vulnerable population groups as a
+priority in the area of health protection and human rights, with a special emphasis on people with
+mental disorders, people with serious chronic illnesses and elderly people, on the rights related to
+advances in biomedicine, activities focusing on health promotion and the prevention of addiction
+and other illnesses, as well as comprehensive health care and combating exclusion. The Mental
+Health Act39 provides for the protection of rights of persons with a mental disorder in all kinds of
+treatment on closely supervised wards of psychiatric hospitals, closed wards of social welfare
+institutions and under supervised treatment, and determines involuntary hospitalisation
+procedures. Owing to an ever increasing need for geriatric services, the Ministry of Health is - in
+collaboration with other relevant ministries - drafting the legal bases for prolonged health care
+and comprehensive care for the elderly, especially those with cognitive disorders. The entire
+population enjoys equal rights arising from compulsory health insurance and voluntary health
+insurance.
+
+     4. Right to adequate housing (housing for young families, the elderly and socially
+                                     disadvantaged)
+
+55. Since 2005, non-profit rents have been subsidized. Households are eligible to a subsidy
+amounting to 80 per cent of a non-profit rent. The 2008 amendment to the Housing Act extends
+eligibility to tenants of profit apartments who fulfil the criteria for a non-profit apartment but
+cannot rent one for reasons of unavailability.
+
+56. Under housing legislation, municipalities are responsible for providing housing units. The
+term does not refer to apartments, but to units in special purpose buildings, intended as
+temporary housing solutions. No call for applications or similar procedure is needed for the
+allocation of a housing unit, since future social status cannot be envisaged and the list of
+                                                                       A/HRC/WG.6/7/SVN/1
+                                                                       Page 19
+
+beneficiaries should be kept open to help the needy, homeless and victims of violence. In this
+way, quick response to social and housing distress of individual families is possible.
+
+57. The Government has been resolving the housing issue of young families pursuant to the
+National Housing Saving Scheme Act40 by subsidising young families when buying, building,
+reconstructing or converting their first apartment. The Housing Fund of the Republic of Slovenia
+publishes an annual call for applications for subsidies to young families; about 2,000 families
+have already benefited from this scheme. Non-profit rental apartments are allocated also through
+municipal calls for applications,41 in which priority is given to vulnerable groups, such as young
+people and families, large families, disabled persons and their families, citizens with long work
+experience who lack appropriate housing, and individuals engaging in activities of special
+importance for the local community. With a view to providing housing for the retired, a real-
+estate fund of the pension and disability insurance has been set up, having at its disposal more
+than 3,000 rental apartments intended to resolve housing issues of retired persons.
+
+                                        5. Right to work
+
+58. Article 49 of the Constitution guarantees freedom of work and stipulates that everyone
+shall have access under equal conditions to any position of employment. Forced labour is
+prohibited. The Employment Relationship Act includes the provision of concluding an
+employment contract for an indefinite period of time. Concluding fixed-term employment
+contracts is envisaged in exceptional cases only. International documents adopted within the
+ILO, Council of Europe and the EU, similarly, treat fixed-term employment as a special type of
+work which is not equal to employment for an indefinite period of time. In the Framework
+Agreement on Fixed-term Work,42 European social partners recognise that short-term
+employment contracts respond, in certain circumstances, to the needs of both employers and
+workers; however, contracts of an indefinite duration are the general form of employment
+relationship.
+
+59. For flexibility reasons, the Employment Relationship Act stipulates fixed-term
+employment contracts as one of the bases defining an employment relationship, subject to certain
+limitations and special features. During fixed-term employment, the contracting parties have the
+same rights and obligations as in the case of employment for an indefinite period of time. Special
+features relate to the method and reasons for terminating an employment relationship: expiry of
+the time for which it was concluded, completion of the agreed work or cessation of the reason for
+which the contract was concluded. Since fixed-term employees are not afforded protection
+against termination of employment, the Act emphasises the importance of form: the intention of
+the contracting parties to conclude an employment contract for a definite period of time must be
+laid down in writing; otherwise, the employment contract is assumed to be concluded for an
+indefinite period of time. The Act limits the conclusion of fixed-term contracts to cases
+stipulated by law and collective agreements, sets a time limit for concluding such contracts and
+limits the conclusion of successive contracts. If a fixed-term employment contract is concluded
+illegally, it is assumed that the worker had concluded an employment contract for an indefinite
+period of time.
+
+60. More than any other age group, young people in Slovenia are subjected to temporary and
+short-term employment, which reduces their level of social security. Of all young people in the
+labour market in 2007, 68.3 per cent were temporarily employed (including student jobs), while
+A/HRC/WG.6/7/SVN/1
+Page 20
+
+among the entire working population the ratio was 17.2 per cent. With a view to improving
+employability of young people, the relevant Ministry intends to publish in September 2009 a call
+for applications for training and employment of university graduates, and is planning to reform
+the scholarship system, the employment of long-term unemployed (only in the non-market
+sector) and to publish call for applications for public work (for the non-market and non-profit
+sectors). Education and training programmes focus on increasing competitiveness and
+employability, as well.
+
+                                      6. Migrant workers
+
+61. Economic and labour migration in Slovenia is governed by the Employment and Work of
+Aliens Act43 and the Aliens Act. Sector-specific laws are also important, regulating the socio-
+economic status and other rights of foreign nationals in Slovenia. The latest amendments to the
+Employment and Work of Aliens Act of 2007 (Ur. l. RS No. 52/07) alleviated the conditions for
+employment of third country nationals (elimination of certain administrative barriers to obtaining
+work permits) and transposed EU legislation on legal migration to the Slovenian legal order.
+
+                     IV. ACHIEVEMENTS AND GOOD PRACTICES
+
+                   A. Rights of the national and other ethnic communities
+
+62. Slovenia guarantees a high level of protection of rights to members of the Italian and
+Hungarian national communities, including their collective rights. Members of both national
+communities have the right to education in their mother tongue and consistent bilingualism,
+including bilingual topographic signs.
+
+63. In recent years, the rights of Roma have improved significantly. In 2007 an umbrella act
+on the Roma community has been adopted, based on Article 65 of the Constitution. Progress has
+also been achieved in the areas of information activities, education, housing, health and
+combating discrimination. Local radio and television stations have for several years prepared
+programmes for Roma; since 2007 these have also been broadcast by the national radio station
+and since 2008 by the national television. In 2008, the Roma information centre within the Union
+of Roma of Slovenia was assigned a local radio frequency for the wider Murska Sobota area and
+has been broadcasting its own programme. The “Tackling Health Inequalities” scheme, focusing
+on Roma as a vulnerable group, has been successfully underway. In 2008 Slovenia joined the
+campaign to eliminate prejudice against Roma “Dosta! Go beyond prejudice, discover the
+Roma” launched by the Council of Europe and the European Commission and intended to raise
+awareness among the majority population of the presence of Roma, their culture and lifestyle and
+to overcome stereotypes and prejudice.
+                                                                         A/HRC/WG.6/7/SVN/1
+                                                                         Page 21
+
+                                       1. Children’s rights
+
+64. Prior to the ratification of the Optional Protocol to the Convention on the Rights of the
+Child on the Involvement of Children in Armed Conflicts, the Service in the Slovenian Armed
+Forces Act44 was amended; its Article 7 now stipulates that military service or other jobs in the
+army cannot be performed by persons under 18 years of age.
+
+65. In its Resolution on the National Social Assistance Programme 2006–2010,45 the Ministry
+of Labour, Family and Social Affairs defined a network of maternity homes and shelters for
+women and children, with current capacity for about 330 persons. Safe houses and maternity
+homes only receive co-financing from the Ministry. The initiative for launching such
+programmes has to stem from the local communities or individual organisations within them.
+The majority of programmes in the network operate in the form of public social institutions.
+
+                                        2. Migrant rights
+
+66. In 2007, the Minister of Education and Sport adopted the Strategy for the Integration of
+Migrant Children and Primary and Secondary School Students in the Education System in the
+Republic of Slovenia. Its most important measures include: adapted curriculum to enable fast
+and successful integration into the education process; drafting of strategies for cooperation with
+parents and their involvement in school life; encouraging intercultural learning and a positive
+attitude towards understanding and accepting diversity; Slovenian as a second language; teaching
+of migrant children’s mother tongues; education and training of teaching professionals. The
+Ministry published a call for applications based on the strategy with a view to providing
+conditions for the implementation of measures defined therein and developing mechanisms that
+would contribute to a more effective integration of migrant students into the school system and
+their better integration into society, and improve their status in the labour market. Training
+programmes for teaching professionals are being carried out, aimed at ensuring successful work
+with migrant children and adolescents.
+
+                              3. Rights of persons with disabilities
+
+67. In 2003, the Federation of Disabled Workers of Slovenia prepared the project of “a
+disabled-friendly municipality”, encouraging municipalities to actively respond to needs of
+citizens with disabilities. By the end of 2008 this title was awarded to 9 municipalities, which
+had to analyse the situation, together with local organisations of persons with disabilities, and
+adopt programmes of action. The awarded municipalities must submit annual reports on the
+implementation of the action programme to the Federation.
+
+                          4. Human rights education of police officers
+
+68. In collaboration with external experts, the Police have been carrying out permanent
+training of police officers on domestic violence prevention. This year they will start
+implementing the CEPOL common curriculum. In cooperation with the Slovenian and the
+Swedish human rights ombudsman, the Police organised a training programme for identifying
+and dealing with stereotypes in a multiethnic society. The training was aimed at increasing
+familiarity with the relevant international legal instruments and their importance for police work,
+and learning about cultural and ethnic diversity.
+A/HRC/WG.6/7/SVN/1
+Page 22
+
+                                  5. Economic and social rights
+
+69. In view of the current financial and economic crisis, Slovenia in 2009 included two
+employment acts for the recovery of the economy, and successfully curbed employment decline
+and dismissals. The Partially Subsidizing of Full-time Work Act46 was adopted to help the
+companies in which orders and operations decreased up to 30 per cent owing to the global
+financial and economic crisis. The Partial Reimbursement of Payment Compensation Act47
+allows companies to temporarily lay off workers. In such cases, workers are entitled to wage
+compensation amounting to 85 per cent of their salary, of which 50 per cent is paid from the state
+budget and 35 per cent by the employer. Pursuant to the EU regulation increasing the threshold
+for state aid to companies that entered in difficulty after 1 July 2008, the Ministry of Labour,
+Family and Social Affairs together with the Ministry of the Economy published a public tender
+encouraging transfer of workers and self-employment in the years 2009 and 2010.
+
+                                        6. Cultural rights
+
+70. The Division for Minority Cultural Rights at the Ministry of Culture has been
+systematically creating conditions for the protection of cultural rights of national and other ethnic
+communities and immigrants. In 2005, the Ministry established an internal working group on
+human rights which deliberates on the exercising of cultural rights as a category of human rights.
+The Association of Museums of Slovenia is preparing a handbook entitled “Designing an
+accessible museum”, which will encourage better accessibility of disabled and elderly persons to
+museum collections.
+
+              V. NATIONAL PRIORITIES REGARDING HUMAN RIGHTS
+
+71. The Slovenian authorities are endeavouring to grant all people living on Slovenian territory
+all human rights and freedoms guaranteed by the Constitution and international agreements that
+are binding on the Republic of Slovenia. Special attention is devoted to children’s and women’s
+rights, rights of persons with disabilities and members of national and other ethnic communities.
+The Government is giving priority to the outstanding issues of trial within a reasonable time
+(reduction in court backlogs), persons who were transferred from the register of permanent
+residence following Slovenia’s gaining independence to the register of aliens, and improving the
+rights of same-sex partnerships. Particular attention is dedicated to regular dialogue with bodies
+established by human rights treaties and other human rights mechanisms at the regional and
+universal levels.
+
+72. Priority objectives in the field of gender equality in Slovenia include equal power,
+influence and responsibilities of women and men, economic independence, equal sharing of
+unpaid work, including caring for children, the elderly and other family members in need of
+help, and the elimination of all forms of violence against women.
+
+73. Slovenia endeavours to consistently respect and implement the rights of the Italian and
+Hungarian national communities and the Roma community under the Constitution and other
+laws. In the future, it will especially strive to overcome prejudices and stereotypes towards
+Roma, and implement their economic, social and civil rights. As regards the rights of members
+of the nations of the former Yugoslavia, the Government will encourage endeavours to preserve
+their languages and cultures.
+                                                                                    A/HRC/WG.6/7/SVN/1
+                                                                                    Page 23
+
+                                             VI. CONCLUSION
+
+74. In eighteen years of independence, Slovenia has done great work in shaping all segments
+of the new state, establishing and building its institutions, and ensuring their efficiency. Great
+advances have been made in the process of the democratisation of society, as well as in the
+promotion and protection of human rights. We are proud of our achievements; however, we are
+well aware of our shortcomings. Therefore, we are willing to accept criticism and pursue an open
+dialogue with all stakeholders within the framework of the Universal Periodic Review, which we
+perceive as an ongoing process. Our final aim is to improve the human rights situation in the
+country, and to reduce the number of human rights violations, of their victims and seriousness to
+the greatest possible extent.
+
+
+Notes
+
+1
+  Members of the Interministerial Commission on Human Rights include, apart from representatives of ministries
+and government offices, also external experts on human rights (from universities and institutes), representatives of
+non-governmental organisations and the Human Rights Ombudsman.
+2
+  Constitution of the Republic of Slovenia (Ur. l. RS Nos. 33/91-I, 42/97, 66/2000, 24/03, 69/04).
+3
+  Ur. l. RS Nos. 71/93, 15/94.
+4
+  Ur. l. RS No. 93/2007 (official consolidated text 1).
+5
+  Ur. l. RS No. 59/2002.
+6
+  Ur. l. RS No. 16/2008.
+7
+  Ur. l. RS No. 94/2007 (official consolidated text 1).
+8
+  Ur. l. RS No. 64/2007 (official consolidated text 1).
+9
+  There are 43 registered religious communities in Slovenia.
+10
+   Judgement No. 23032/02, 2005.
+11
+   Ur. l. RS No. 49/2006.
+12
+   This was the Court’s assessment in the case of Grzinčič v. Slovenia (judgement, application No. 26867/02, 3 May
+2007) and the case of Korenjak v. Slovenia (decision, application No. 463/03, 15 May 2007).
+13
+   Ur. l. RS No. 95/2004 (official consolidated text 1), 55/2008.
+14
+   Ur. l. RS Nos. 42/2002, 79/2006, 103/2007, 45/2008.
+15
+   Ur. l. RS No. 65/2005.
+16
+   Ur. l. SRS Nos. 15/1976 and 23/1978 and Ur. l. RS No. 67/2001.
+17
+   http://www.us-rs.si/
+18
+   Ur. l. RS No. 16/2007 (official consolidated text 2).
+19
+   Ur. l. RS No. 65/1994.
+20
+   Ur. l. RS No. 65/1994.
+21
+   Ur. l. RS No. 33/2007.
+22
+    The Rules on the organisation and work of multidisciplinary teams and regional services and on actions of the
+social work centres in dealing with domestic violence entered into force on 20 April 2009. The Rules on the
+Treatment of Domestic Violence for Educational Institutions will enter into force at the end of 2009. The Ministry
+of Health drafted the Rules and procedures in dealing with family violence when performing health services and
+established a working group which will, by the end of 2009, draw up clinical guidelines and an educational
+programme of medical personnel for dealing with family violence when performing health services.
+23
+   Ur. l. RS Nos. 55/2008, 39/2009.
+24
+   Ur. l. RS, Mednarodne pogodbe, No. 20/2006.
+25
+   Ur. l. RS Nos. 113/2005, 81/2006 (official consolidated text 1), 110/2007.
+26
+   Ur. l. RS No. 62/2009.
+27
+   Ur. l. RS No. 64/2009 (official consolidated text 6).
+28
+   Ur. l. RS Nos. 111/2007, 58/2009.
+29
+   Ur. l. RS Nos. 1/1991-1, 44/1997.
+30
+   Ur. l. RS Nos. 61/1999, 54/2000.
+A/HRC/WG.6/7/SVN/1
+Page 24
+
+31
+   Ur. l. RS No. 110/2006 (official consolidated text 1)
+32
+   Ur. l. RS No. 14/2007
+33
+   Ur. l. RS, Nos. 110/2006 (official consolidated text 2), 10/2008.
+34
+   Ur. l. RS No. 3/2007 (official consolidated text 2).
+35
+   Ur. l. RS Nos. 114/2006, 71/2007.
+36
+   Ur. l. RS No. 16/2007 (official consolidated text 5), 36/2008, 58/2009.
+37
+   Ur. l. RS No. 81/2006 (official consolidated text 3), 102/2007.
+38
+   Ur. l. RS No. 15/2008.
+39
+   Ur. l. RS No. 77/2008.
+40
+   Ur. l. RS No. 96/2007 (official consolidated text 2).
+41
+   Ur. l. RS Nos. 42/2002 and 103/2007.
+42
+   Directive 1999/70/EC – concerning the framework agreement on fixed-term work concluded by ETUC, UNICE
+   and CEEP.
+43
+   Ur. l. RS No. 76/2007 (official consolidated text 2).
+44
+   Ur. l. RS No. 68/2007.
+45
+   Ur. l. RS No. 39/2006.
+46
+   Ur. l. RS No. 5/2009.
+47
+   Ur. l. RS No. 42/2009
+
+
+                                                  ------
+

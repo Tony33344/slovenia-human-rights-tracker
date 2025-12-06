@@ -1,0 +1,859 @@
+# A/HRC/WG.6/34/SVN/3 - Summary of Stakeholder Information: Slovenia (3rd Cycle)
+
+**Document:** A/HRC/WG.6/34/SVN/3
+**Session:** 34th UPR Working Group
+**Date:** 2019
+**Source:** Civil Society, NHRIs, NGOs
+
+---
+
+## Full Document Text
+
+
+             United Nations                                                                 A/HRC/WG.6/34/SVN/2
+             General Assembly                                                      Distr.: General
+                                                                                   30 August 2019
+
+                                                                                   Original: English
+
+
+
+
+Human Rights Council
+Working Group on the Universal Periodic Review
+Thirty-fourth session
+4–15 November 2019
+
+
+            Compilation on Slovenia
+
+            Report of the Office of the United Nations High Commissioner for
+            Human Rights
+
+       I. Background
+            1.     The present report was prepared pursuant to Human Rights Council resolutions 5/1
+            and 16/21, taking into consideration the periodicity of the universal periodic review. It is a
+            compilation of information contained in reports of treaty bodies and special procedures and
+            other relevant United Nations documents, presented in a summarized manner owing to
+            word-limit constraints.
+
+
+      II. Scope of international obligations and cooperation with
+          international human rights mechanisms and bodies1, 2
+            2.     It was recommended that Slovenia ratify the International Convention on the
+            Protection of the Rights of All Migrant Workers and Members of Their Families, the
+            International Convention for the Protection of All Persons from Enforced Disappearance, 3
+            the Optional Protocol to the International Covenant on Economic, Social and Cultural
+            Rights 4 and the Convention on the Reduction of Statelessness. 5 The Committee on
+            Economic, Social and Cultural Rights recommended that Slovenia ratify the Equality of
+            Treatment (Social Security) Convention, 1962 (No. 118) of the International Labour
+            Organization (ILO).6
+            3.   In 2017, Slovenia submitted its midterm report regarding the implementation of the
+            recommendations made during its second universal periodic review. 7
+            4.  Slovenia contributed financially to the Office of the United Nations High
+            Commissioner for Human Rights (OHCHR) in 2017 and 2018.8
+
+
+    III. National human rights framework9
+            5.     In 2016, the Human Rights Committee recommended that Slovenia establish a fully
+            functioning and independent national human rights institution with a broad-based human
+            rights mandate and provide it with adequate resources, in line with the principles relating to
+            the status of national institutions for the promotion and protection of human rights (the
+            Paris Principles).10 The Special Rapporteur on minority issues noted the adoption in 2017 of
+
+GE.19-14870(E)
+
+
+A/HRC/WG.6/34/SVN/2
+
+
+            amendments to the Human Rights Ombudsman Act, setting out a new legal basis for the
+            Office of the Ombudsman to apply for A status under the Paris Principles. 11
+            6.     The Special Rapporteur on minority issues noted the adoption of the Protection from
+            Discrimination Act of 2016, which resulted in the office of the Advocate of the Principle of
+            Equality becoming an independent State body. The mandate included investigative and
+            decisional powers to order the end of discriminatory practices, although no direct punitive
+            powers.12
+            7.     The Special Rapporteur recommended that Slovenia adopt multi-year funding
+            formulas for both the Office of the Ombudsman and the Advocate of the Principle of
+            Equality that properly reflected their current or expanded mandates. 13
+
+
+    IV. Implementation of international human rights obligations,
+        taking into account applicable international humanitarian
+        law
+
+      A.    Cross-cutting issues
+
+       1.   Equality and non-discrimination14
+            8.      The ILO Committee of Experts on the Application of Conventions and
+            Recommendations noted the lack of a comprehensive strategy for non-discrimination,
+            including the absence of a policy against racism. 15 The Human Rights Committee and the
+            Committee on Economic, Social and Cultural Rights recommended that Slovenia adopt a
+            comprehensive anti-discrimination strategy, in consultation with civil society
+            representatives.16 The Committee on the Rights of Persons with Disabilities recommended
+            that Slovenia explicitly incorporate into its anti-discrimination legislation, policies and
+            strategies the recognition of multiple and intersectional discrimination based on sex, age,
+            ethnic background or sexual orientation or on migrant, asylum-seeking, refugee, disability
+            or any other status.17
+            9.     The Human Rights Committee expressed concern that hate speech on the Internet,
+            including in online forums, was on the rise, particularly against migrants, Roma, lesbian,
+            gay, bisexual and transgender persons and Muslims. 18 The Committee was also concerned
+            about the use of racist and xenophobic rhetoric by politicians towards persons belonging to
+            minority groups, including migrants and refugees. 19 The Committee on the Elimination of
+            Racial Discrimination expressed concern about reports of a lack of action in response to the
+            use of racist and xenophobic rhetoric by political figures and the existence of organizations
+            promoting racial hatred and violence.20
+            10.     The Special Rapporteur on minority issues noted that while article 297 of the Penal
+            Code addressed hate speech, its provisions had traditionally been interpreted in a narrow,
+            restrictive way. Consequently, very few cases had led to prosecution and conviction. 21
+            11.   The Committee on the Elimination of Racial Discrimination recommended that
+            Slovenia strengthen the response of its criminal justice system in cases of racist hate speech
+            and racially motivated violence by ensuring effective investigation and appropriate
+            prosecution and punishment of perpetrators. The Committee also recommended that
+            Slovenia amend its criminal code to specifically recognize racist motives as an aggravating
+            circumstance for all crimes and offences. 22
+            12.    The Special Rapporteur on minority issues stated that, in order to counter hate
+            speech and incitement to violence against minorities more effectively, a clearer picture of
+            which minorities were targeted, by whom and how was necessary. He recommended that
+            disaggregated data on those matters be collated and published by the responsible
+            authorities.23
+            13.    The Human Rights Committee regretted that the amendments to the Law on
+            Marriage and Family Relations granting, on an equal basis, the rights of same-sex couples
+            to inherit, to access reproductive treatments and to adopt children were made subject to a
+
+
+2
+                                                                                         A/HRC/WG.6/34/SVN/2
+
+
+     referendum in December 2015 notwithstanding the provisions of the Constitution to the
+     contrary, and that they were rejected.24
+     14.     The same Committee recommended that Slovenia ensure that all lesbian, gay,
+     bisexual and transgender persons were guaranteed equal rights and that it intensify its
+     efforts to combat stereotypes and prejudice against such persons, including by launching a
+     nationwide awareness-raising campaign in cooperation with civil society organizations. 25
+     Likewise, the Committee on Economic, Social and Cultural Rights recommended that
+     Slovenia explicitly prohibit discrimination on the basis of sexual orientation.26
+
+2.   Development, the environment, and business and human rights
+     15.    The Committee on Economic, Social and Cultural Rights encouraged Slovenia to
+     gradually increase its official development assistance with a view to achieving the
+     international commitment of 0.7 per cent of its gross national product and to pursue a
+     human rights-based approach in its development cooperation policy. 27 In 2015, Slovenia
+     noted that it had been supporting a human rights-based approach to development
+     internationally.28
+     16.    The same Committee recommended that Slovenia address the root causes of
+     corruption and adopt all necessary policy and legislative measures to combat corruption and
+     related impunity effectively and to ensure that public affairs were conducted, in law and in
+     practice, in a transparent manner. It also recommended that Slovenia guarantee protection
+     of the human rights of those engaged in anti-corruption activities, in particular victims,
+     whistle-blowers, witnesses and their lawyers. 29
+
+
+B.   Civil and political rights
+
+1.   Right to life, liberty and security of person30
+     17.    The Committee on the Rights of Persons with Disabilities was concerned at the
+     reported cases of excessive use of force against persons in psychiatric institutions by
+     judicial police officers and medical staff and about the use of electroconvulsive therapy on
+     persons with disabilities.31
+     18.    The Human Rights Committee and the Committee on Economic, Social and Cultural
+     Rights were concerned about the high prevalence of domestic violence in Slovenia and the
+     limited effectiveness of mechanisms to protect victims of domestic violence, including the
+     non-enforcement of restraining orders issued against alleged perpetrators. 32
+     19.     The Independent Expert on the enjoyment of all human rights by older persons
+     stated that elder abuse was a recognized problem in Slovenia and that the most common
+     forms of violence were neglect and physical and psychological abuse. 33 She called on the
+     Government to devise a comprehensive strategy for the protection of older persons from
+     violence and all forms of abuse, and encouraged it to ensure that elder abuse was prevented,
+     detected and reported at all levels and in all settings and that cases of elder abuse were
+     investigated and prosecuted.34
+
+2.   Administration of justice, including impunity, and the rule of law35
+     20.    The Human Rights Committee remained concerned at reports of a large backlog of
+     cases in the labour and social courts. It expressed concern at the lengthy duration of court
+     proceedings and the lack of timely and effective access to free legal aid in criminal
+     proceedings where the interests of justice so required. The Committee recommended that
+     Slovenia adopt a comprehensive strategy to address the backlog of cases throughout the
+     judiciary and ensure the right to a fair trial without undue delay. It also recommended that
+     Slovenia ensure that free legal aid was available in criminal proceedings without undue
+     delay to all those who did not have sufficient means to pay for it.36
+     21.     The same Committee recommended that Slovenia expedite efforts to improve the
+     living conditions in detention facilities in line with the International Covenant on Civil and
+     Political Rights and the United Nations Standard Minimum Rules for the Treatment of
+
+
+                                                                                                           3
+A/HRC/WG.6/34/SVN/2
+
+
+            Prisoners (the Nelson Mandela Rules). It recommended that Slovenia consider not only the
+            construction of new prison facilities, but also the wider application of alternative non-
+            custodial sentences, such as electronic monitoring, parole and community service. 37
+
+       3.   Fundamental freedoms38
+            22.    The United Nations Educational, Scientific and Cultural Organization (UNESCO)
+            noted that defamation continued to be a criminal offence under the Penal Code. 39 The
+            Human Rights Committee recommended that Slovenia reconsider decriminalizing
+            defamation and restrict the application of criminal law to the most serious cases.40
+
+       4.   Prohibition of all forms of slavery41
+            23.    The Committee on the Elimination of Racial Discrimination expressed concern
+            about the low rates of investigation and conviction in cases of human trafficking and the
+            lack of adequate mechanisms to identify, protect and rehabilitate victims of trafficking. 42
+            The Committee on the Elimination of Discrimination against Women recommended that
+            Slovenia investigate, prosecute and punish all cases of trafficking in persons and ensure that
+            the sentences imposed on perpetrators were commensurate with the gravity of the crime.
+            The Committee recommended that Slovenia strengthen measures to identify and provide
+            support to women at risk of trafficking, in particular Roma, migrant, refugee and asylum-
+            seeking women, and measures aimed at addressing the root causes of trafficking. 43
+            24.    The Committee on the Elimination of Discrimination against Women recommended
+            that Slovenia provide victims of trafficking with adequate access to health care and
+            counselling and ensure that all victims of trafficking obtained effective protection and
+            redress, including rehabilitation and compensation. 44 The Human Rights Committee
+            recommended that Slovenia ensure that victims of trafficking were provided with adequate
+            assistance regardless of whether they cooperated with law enforcement authorities in
+            investigations and criminal proceedings. 45
+
+
+      C.    Economic, social and cultural rights
+
+       1.   Right to work and to just and favourable conditions of work
+            25.     The Committee on Economic, Social and Cultural Rights reiterated its concern about
+            the high levels of unemployment in Slovenia, particularly affecting youth, persons with
+            disabilities and persons belonging to ethnic minorities, and expressed concern about the
+            continuous job insecurity faced by short-term contract workers.46 The Committee on the
+            Elimination of Discrimination against Women was concerned about the disproportionately
+            high unemployment rate among women. 47
+
+       2.   Right to social security
+            26.    The Committee on Economic, Social and Cultural Rights recommended that
+            Slovenia revise the eligibility conditions and rates for social security benefits, while taking
+            into account the actual cost of living in Slovenia and paying particular attention to
+            unemployed persons, persons with disabilities and older persons. 48
+
+       3.   Right to an adequate standard of living49
+            27.     The Committee on Economic, Social and Cultural Rights was concerned about the
+            increasing risk of poverty faced by especially disadvantaged and marginalized groups such
+            as older persons. The Committee was also concerned at regional disparities in poverty
+            levels, with the eastern and south-eastern regions being most affected by poverty. 50
+            28.     The Independent Expert on older persons stated that institutional care for older
+            people remained predominant. Institutional care was understaffed and those taking care of
+            older persons had inadequate training. 51 The Independent Expert encouraged Slovenia to
+            pursue the process of deinstitutionalization of care and to prepare an action plan for
+            deinstitutionalization, including the parallel development of community-based services in
+            consultation with civil society, local communities and older persons themselves.
+
+
+4
+                                                                                           A/HRC/WG.6/34/SVN/2
+
+
+     Community-based services had to be tailored to the needs of older persons in full respect of
+     their physical, psychological, social and cultural condition.52
+     29.    The Committee on Economic, Social and Cultural Rights was concerned that
+     citizens of non-European countries were not eligible for social housing in Slovenia, that in
+     practice refugees did not enjoy access to social housing, and that, owing to insufficient
+     availability of accessible housing, persons with disabilities were often placed in institutions.
+     The Committee urged Slovenia to repeal any discriminatory provisions from the Housing
+     Act, and to expedite the process of adopting a housing policy that addressed, inter alia,
+     access to social housing by all residents without discrimination and the special housing
+     needs of persons with disabilities.53 The Independent Expert on older persons recommended
+     that Slovenia adopt a housing policy that took into account the special needs of older
+     persons to enable them to live independently. 54
+
+4.   Right to health55
+     30.    The Committee on Economic, Social and Cultural Rights recommended that
+     Slovenia reform its health insurance system with a view to increasing the proportion of
+     essential rights and services covered by the basic health insurance, and ensure that all
+     residents had access to basic health insurance without discrimination.56
+     31.    The same Committee was concerned that regional disparities in access to health-care
+     services persisted, particularly the inadequate numbers of primary health-care experts in
+     some of the remote rural areas, and that measures taken to that end were not
+     comprehensive. The Committee recommended that Slovenia step up its efforts to provide
+     equal access to quality health-care services to all persons in the country. 57
+     32.    The Independent Expert on older persons called on Slovenia to ensure the
+     availability and accessibility of palliative care for all older persons in need, particularly
+     those who suffered from a life-threatening or life-limiting illness.58
+
+5.   Right to education
+     33.    The Committee on Economic, Social and Cultural Rights noted with concern the
+     regional disparities in access to education, including tertiary education, with the eastern
+     region of Slovenia being most affected by limited access to education. The Committee
+     recommended that Slovenia ensure equal access to quality education for all students.59
+     34.    UNESCO recommended that Slovenia allocate sufficient funding to education, in
+     line with benchmarks endorsed under Sustainable Development Goal 4. 60
+
+
+D.   Rights of specific persons or groups
+
+1.   Women61
+     35.    The Committee on the Elimination of Discrimination against Women recommended
+     that Slovenia ensure the effective implementation of the national programme for equal
+     opportunities for women and men for the period 2015–2020.62 Furthermore, the Committee
+     called for the realization of substantive gender equality throughout the process of
+     implementation of the 2030 Agenda for Sustainable Development. 63
+     36.    The same Committee noted with concern the failure to comprehensively prohibit all
+     forms of violence against women in both the public and private spheres and the lenient
+     sentences imposed by courts on perpetrators of acts of domestic violence. It also noted with
+     concern that the network of shelters and crisis centres did not cover the entire territory of
+     Slovenia and that free counselling and assistance were not accessible to all women who
+     were victims of violence.64
+     37.     The same Committee recommended that Slovenia amend its legislation to include all
+     forms of violence against women in both the public and private spheres. 65 The Human
+     Rights Committee recommended that Slovenia strengthen measures aimed at preventing
+     and combating violence against women, including domestic violence and sexual abuse, by,
+     inter alia, ensuring that victims had access to effective remedies and means of protection,
+
+
+                                                                                                             5
+A/HRC/WG.6/34/SVN/2
+
+
+            including police protection, adequate emergency shelters, rehabilitative services, legal
+            assistance and other support services and that all cases of violence against women,
+            including domestic violence, were thoroughly investigated and that perpetrators were
+            prosecuted and were punished with appropriate sanctions. 66
+            38.     The Committee on the Elimination of Discrimination against Women was concerned
+            about the occupational segregation in the labour market, the wage gap in traditionally
+            female-dominated sectors and the limited access by women to skilled and better-paid jobs.67
+            The Committee recommended that Slovenia adopt and implement policies that reversed
+            cultural patterns and transformed traditional gender stereotypes and norms of sex-
+            appropriate roles in society transmitted through schooling and parenting, in order to
+            eliminate occupational segregation and achieve substantive equality of women and men in
+            the labour market. It recommended that Slovenia address the gender pay gap and improve
+            access by women to skilled and better-paid jobs, including through the diversification of
+            fields of study and vocational training for women and men and boys and girls. 68
+            39.    The Committee recommended that Slovenia strengthen awareness-raising and
+            education initiatives for both women and men on the sharing of domestic and family
+            responsibilities and provide incentives for active participation by men in such tasks, and
+            increase the use of paternity leave by fathers and ensure that employers fulfilled the legal
+            obligation to make such leave available by introducing compulsory paternity leave. 69
+            40.    The Committee also recommended that Slovenia expedite the preparation and
+            adoption of temporary special measures to increase the representation of women in
+            management and on supervisory boards of companies.70
+            41.    The Committee further recommended that Slovenia develop a strategy for the
+            protection and promotion of the sexual and reproductive health and rights of women and
+            provide high-quality and accessible public sexual and reproductive health-care services
+            covered by the compulsory health insurance, in particular for adolescent girls and women
+            belonging to disadvantaged and marginalized groups, such as women living in poverty,
+            women asylum seekers and refugees, Roma women and women who were victims of
+            violence.71
+
+       2.   Children72
+            42.    In 2018, the Committee on the Rights of Persons with Disabilities expressed concern
+            about the lack of an explicit and comprehensive prohibition of corporal punishment of
+            children in all settings. 73 In 2016, the Human Rights Committee recommended that
+            Slovenia take practical steps to put an end to corporal punishment in all settings. It
+            recommended that Slovenia encourage non-violent forms of discipline as alternatives to
+            corporal punishment and conduct public information campaigns to raise awareness about its
+            harmful effects.74
+
+       3.   Persons with disabilities75
+            43.     The Committee on the Rights of Persons with Disabilities was concerned about the
+            persistence of a paternalistic approach to persons with disabilities underpinned by the
+            medical and charity models of disability and about a number of disability definitions that
+            were not in compliance with the human rights model of disability, in particular definitions
+            that were derogatory or described the “unfitness” of persons to participate in regular
+            education, independent life and work on the grounds of their impairment. The Committee
+            recommended that Slovenia conduct a review of its national legislation, policies and
+            programmes, bring them into line with the provisions of the Convention on the Rights of
+            Persons with Disabilities, including the various definitions of disability in legislation, and
+            align them with the human rights model of disability. 76
+            44.    The same Committee recommended that Slovenia adopt a strategy to prevent all
+            forms of violence against, and abuse and ill-treatment of, persons with disabilities, in
+            particular women with disabilities, and conduct an investigation into all allegations of
+            violence and abuse of persons with disabilities in institutions, expedite the investigation of
+            suspicious causes of deaths of residents of institutions, provide redress to victims and
+            sanction perpetrators. It also recommended that Slovenia adopt a strategy to monitor the
+
+6
+                                                                                            A/HRC/WG.6/34/SVN/2
+
+
+     situation of children with disabilities in alternative care, with a view to identifying all
+     instances of violence against children with disabilities. 77
+     45.     The same Committee was concerned at the large number of persons with disabilities
+     residing in institutions because of the lack of an explicit policy, national and municipal
+     capacity and measures for deinstitutionalization of persons with disabilities, and the
+     insufficient provision of independent living services in the community. It recommended
+     that Slovenia adopt and implement a strategy and action plan aimed at
+     deinstitutionalization, provide sufficient funding for developing community-based
+     independent living schemes and allocate sufficient resources to ensure that services in the
+     community were available, accessible, affordable, acceptable and accommodating for
+     persons with disabilities.78
+     46.     The same Committee recommended that Slovenia ensure the efficiency and
+     effectiveness of social protection and poverty reduction programmes for persons with
+     disabilities, the accessibility of public housing and the accessibility and availability of
+     health services for persons with disabilities, and adopt measures aimed at promoting an
+     inclusive, open and accessible labour market in all sectors for all persons with disabilities. 79
+     47.    The same Committee was concerned that numerous public buildings and services,
+     including public transport, remained inaccessible, especially outside the capital. The
+     Committee recommended that Slovenia adopt clear accessibility standards and measures
+     providing for sanctions for failure to comply with accessibility standards, develop
+     operational measures to ensure the accessibility of transport services and of all buildings
+     open to the public and increase budget allocations for such measures, especially in areas
+     outside the capital.80
+     48.     The Committee recommended that Slovenia adopt a national strategy, with
+     benchmarks and with resources, aimed at ensuring the full inclusion of children with
+     disabilities in society, paying attention to the development of inclusive settings in early
+     assistance, education, housing, health and all community services. 81
+     49.     The same Committee recommended that Slovenia adopt a strategy and action plan
+     for the implementation of inclusive education at all levels for all children with disabilities,
+     establish a comprehensive monitoring system to assess the progress of inclusive education,
+     and strengthen the capacity of inclusive schools to train teachers in inclusive education,
+     curriculum accommodation and teaching methods. 82
+     50.     The Special Rapporteur on minority issues stated that Slovenia had generally a
+     positive and constructive approach to the use of sign language. He nonetheless urged the
+     Government to strengthen and effectively protect the human rights of members of the
+     Slovenian deaf community, including by amending or adopting relevant legislation making
+     it an official language.83
+
+4.   Minorities84
+     51.   The Special Rapporteur on minority issues noted the constitutional distinction
+     between autochthonous Italian and Hungarian national communities and other minorities,
+     and the special rights of the Roma community. He explained that the Constitution
+     recognized two “autochthonous national communities” – Hungarians and Italians – and that
+     they were afforded a widely recognized, high level of protection. The “autochthonous”
+     Roma were granted special rights under the Constitution and under the 2007 Roma
+     Community Act, but those rights were not as extensive as those recognized for the
+     Hungarian and Italian communities.85
+     52.     The Special Rapporteur stated that although much had been achieved for the
+     protection of the rights of minorities, in particular of Hungarians and Italians, too many
+     Slovenian citizens belonging to minority groups were left out. He urged Slovenia to
+     formulate and adopt comprehensive legislation to better protect the rights of all minorities
+     in Slovenia and to ensure that legislation on the rights of minorities included additional
+     provisions on education in the minority mother tongue where there was a sufficient demand
+     in a locality, to the degree appropriate according to the principle of proportionality, or at
+     least provide for teaching of a minority language where possible. 86
+
+
+                                                                                                              7
+A/HRC/WG.6/34/SVN/2
+
+
+           53.    The Committee on the Elimination of Racial Discrimination remained concerned
+           about the lack of representation of minorities, other than the Italian and Hungarian
+           minorities, in Parliament and in regional elected bodies. 87 The Committee recommended
+           that Slovenia ensure that all minority ethnic groups were adequately represented in
+           Parliament and in regional elected bodies, ensure the effective functioning of the Roma
+           Community Council, including by revising the rules on its composition and its functions,
+           and ensure the actual inclusion and representation of all Roma in municipal councils. 88
+           54.     The Special Rapporteur on minority issues stated that the Roma and Sinti
+           communities continued to be the most marginalized and vulnerable. 89 The Human Rights
+           Committee was concerned that limited progress had been achieved in improving the
+           situation of Roma, who continued to suffer from prejudice, discrimination and social
+           exclusion. The Committee was concerned about the distinction made by Slovenia between
+           “autochthonous” and “non-autochthonous” Roma communities and that only the former
+           was granted special rights and opportunities.90
+           55.    The Committee on the Elimination of Racial Discrimination recommended that
+           Slovenia ensure the effective implementation, monitoring and evaluation of the National
+           Programme of Measures for Roma for the period 2016–2021.91 The Special Rapporteur on
+           minority issues recommended that Slovenia remove the unhelpful, probably harmful and
+           possibly discriminatory distinction in legislation and other measures made between
+           “autochthonous” and “non-autochthonous” Roma communities.92
+           56.      The Independent Expert on older persons stated that most Roma people in Slovenia
+           still lived apart from the majority of the population, in isolated settlements, which were
+           generally below the minimum living standards.93 The Special Rapporteur on minority issues
+           noted that the main obstacle faced by Roma communities was the informal nature of their
+           settlements, and consequently their lack of security of tenure with regard to their homes and
+           property, which led to restrictions on their rights to adequate housing and to water and
+           sanitation.94 The Committee on Economic, Social and Cultural Rights was concerned that
+           the majority of Roma who lived in informal settlements were vulnerable to forced
+           eviction.95 The Committee on the Elimination of Racial Discrimination was concerned that
+           Roma were disproportionally affected by the absence of provisions prohibiting forced
+           eviction.96
+           57.     The Committee on the Elimination of Racial Discrimination recommended that
+           Slovenia ensure security of tenure for people living in informal settlements, take all
+           measures necessary to guarantee that evictions were carried out in accordance with
+           international standards, and provide remedies and adequate alternative housing to those
+           affected in cases of eviction. 97 The Special Rapporteur on minority issues and the
+           Committee on Economic, Social and Cultural Rights made similar recommendations. 98 The
+           Committee on Economic, Social and Cultural Rights recommended that Slovenia take
+           effective measures to end segregation of Roma communities, prevent acts of discrimination
+           against Roma attempting to buy or rent housing outside their segregated areas and facilitate
+           access to social housing for Roma. 99
+           58.     The Committee on the Elimination of Racial Discrimination was concerned that
+           access by Roma to employment and health services remained limited. A disproportionately
+           large number of Roma had poor access to clean drinking water and adequate sanitation,
+           exposing them to grave health risks.100 The Committee recommended that Slovenia
+           guarantee effective access for Roma to public services, such as electricity and health
+           services, and to the formal labour market, and step up efforts to provide access to adequate
+           sanitation and safe drinking water for the Roma population.101
+           59.     The Committee on Economic, Social and Cultural Rights expressed its concern that
+           the majority of Roma children in primary and secondary school were enrolled in classes for
+           children with special needs, that they achieved low school performance and that their
+           dropout rate remained high. 102 The Committee recommended that Slovenia adopt effective
+           and adequately resourced measures aimed at integrating Roma children into preschool
+           institutions, ending school segregation and reducing school dropout.103 The Committee on
+           the Elimination of Racial Discrimination recommended that Slovenia continue to adopt
+           measures to provide all Roma with effective access to high quality education at all levels. 104
+
+
+8
+                                                                                         A/HRC/WG.6/34/SVN/2
+
+
+     The Committee on Economic, Social and Cultural Rights, UNESCO and the ILO
+     Committee of Experts made similar recommendations. 105
+     60.    The Human Rights Committee was concerned about instances of child and forced
+     marriage among members of the Roma community. 106 While welcoming the criminalization
+     of child and/or forced marriage, the Committee on the Elimination of Discrimination
+     against Women was concerned about the inadequate response by Slovenia with respect to
+     the prevention, prosecution and punishment of such offences, especially among the Roma
+     population.107 The Human Rights Committee recommended that Slovenia ensure that the
+     prohibition of child and forced marriage was implemented in practice. 108
+
+5.   Migrants, refugees and asylum seekers109
+     61.    The Committee on Economic, Social and Cultural Rights was concerned about the
+     working conditions of migrant workers, which were characterized by low income and
+     unlawful deductions, wage arrears, extra working hours without compensation, short-term
+     contracts and subcontracting, lack of social benefits for workers in the informal economy
+     and limited access to justice.110
+     62.     The Human Rights Committee regretted the measures taken by Slovenia to respond
+     to the influx of asylum seekers and migrants, including the adoption, on 18 February 2016,
+     of a joint statement of the heads of police services of five European countries, including
+     Slovenia, placing limits to entry solely on the basis of nationality and the possession of
+     identification documents, rather than on an individual assessment of whether or not
+     individuals concerned were in need of protection against non-refoulement.111 The United
+     Nations High Commissioner for Human Rights expressed similar concerns. He stated that
+     the agreement by the police chiefs established a policy that included measures that seemed
+     to be incompatible with the human rights obligations of the countries concerned.112
+     63.    The High Commissioner stated that he was particularly troubled that the agreement
+     appeared to enable the collective expulsion of non-nationals, acts explicitly prohibited
+     under international law. The agreement established extremely narrow criteria for allowing
+     entry – “fleeing war” – with no mention of “persecution”, which was the key criteria for
+     recognizing refugees under the Convention relating to the Status of Refugees and its
+     Protocol and related international law. The agreement contained no measures aimed at
+     protecting extremely vulnerable women, children and men on the move. 113
+     64.    The Office of the United Nations High Commissioner for Refugees (UNHCR) was
+     concerned that the amendments to the Act on foreigners that had come into force in 2017
+     might undermine the right to seek asylum and protection from refoulement. A new article
+     of the Act introduced a possibility for the National Assembly to limit access to the territory
+     and asylum procedures in cases of mass influxes of refugees and migrants.114 Moreover, the
+     Committee on the Elimination of Racial Discrimination expressed concern about the
+     absence of specific provisions prohibiting refoulement in the international protection act of
+     2007.115
+     65.     The Human Rights Committee recommended that Slovenia take effective steps to
+     allow persons in need of international protection access to the relevant procedures for
+     international protection, and ensure that any measures taken by Slovenia, including in
+     relation to bilateral and regional agreements, did not discriminate on the basis of country of
+     origin, arrival or transit. It also recommended that Slovenia ensure that the procedure for
+     international protection allowed for an individual assessment based on the circumstances of
+     each case by trained professionals with legal expertise, and that legal representation of
+     adequate quality was systematically made accessible throughout the entire procedure for
+     requesting international protection. 116 Furthermore, the Committee recommended that
+     Slovenia ensure full respect of the principle of non-refoulement.117
+     66.     The same Committee recommended that Slovenia ensure adequate living conditions
+     in full respect of the right to be protected against inhuman or degrading treatment in all
+     refugee camps and shelters, and guarantee access to basic needs, including food, health-care
+     services, psychological support and legal counselling. 118
+
+
+
+
+                                                                                                           9
+A/HRC/WG.6/34/SVN/2
+
+
+            67.    UNHCR stated that Slovenia did not provide comprehensive protection to children,
+            in particular unaccompanied and separated children, because there was no formal
+            mechanism in place to consider the best interests of the child in decisions that affected
+            them. The guardianship system for unaccompanied children was not effective; in most
+            cases the guardians were not trained and had little experience working with foreign
+            children.119
+            68.   The Committee on the Elimination of Racial Discrimination recommended that
+            Slovenia protect the rights of separated and unaccompanied children seeking asylum in full
+            compliance with international standards, including through the introduction of best-interests
+            determination procedures and the adoption of the benefit-of-the-doubt standard in the event
+            of remaining uncertainty in age assessment. 120
+            69.    The same Committee expressed concern about the abrogation in 2013 of the right to
+            family reunification in the relevant provisions of the international protection act. 121 The
+            Human Rights Committee recommended that Slovenia consider steps to facilitate the
+            process of family reunification for beneficiaries of international protection.122
+            70.     The Committee on the Elimination of Racial Discrimination expressed concern
+            about the lack of free access to adequate secondary and tertiary medical health care and of
+            social housing for asylum seekers and refugees. 123 UNHCR noted that asylum seekers had
+            access only to basic medical services, and only in exceptional circumstances, following the
+            approval of an interdepartmental committee, were they granted specialized treatment.
+            Refugees were entitled to rental subsidies for up to three years. Under the national
+            legislation, the possibility to apply for social housing was restricted to Slovenian citizens. 124
+            71.    The Committee on the Elimination of Racial Discrimination recommended that
+            Slovenia adopt all measures to ensure effective and equal access for asylum seekers and
+            refugees to social housing and free public health services and ensure that all migrants,
+            asylum seekers and refugees were provided with adequate basic services, shelter and
+            humanitarian assistance while in transit in the territory of Slovenia.125
+
+       6.   Stateless persons126
+            72.   UNHCR recommended that Slovenia put in place a statelessness determination
+            procedure to ensure the protection of stateless persons. 127
+            73.     UNHCR stated that the act on citizenship granted citizenship to children born in the
+            country when the child’s parents were unknown, their nationality was unknown or when the
+            parents were stateless. That safeguard did not prevent children from being born stateless in
+            the territory to parents who could not transfer their nationality to their child, as envisaged
+            under article 1 of the Convention on the Reduction of Statelessness. It recommended that
+            Slovenia amend the act on citizenship to ensure that all children born in the territory of
+            Slovenia acquired Slovenian nationality if they were otherwise stateless.128
+            74.    UNHCR stated that after Slovenia had declared independence, nationals of the
+            former Yugoslavia who had permanent residence in Slovenia had been “erased”, as their
+            names had been removed from the population registers in 1992. Despite the steps already
+            taken to tackle the issue, the status of the “erased” persons still had not been resolved.129
+            75.     The Committee on the Elimination of Racial Discrimination noted that under the Act
+            of 2010 regulating the status of “erased” persons, applications for the restoration of
+            residency status could be lodged only within three years from the date of entry into effect of
+            the Act. Consequently, only a limited number of persons who had been subjected to the
+            erasure had applied for the restoration of their residency status. 130 The Human Rights
+            Committee expressed concern that there were no avenues for restoring the legal status of a
+            significant number of “erased” persons since the expiry in 2013 of the 2010 Act to re-
+            establish their permanent residency status. 131 The Special Rapporteur on minority issues, 132
+            the Independent Expert on older persons, 133 the Committee on Economic, Social and
+            Cultural Rights, 134 and the Committee on the Elimination of Discrimination against
+            Women135 expressed similar concerns.
+            76.   The Committee on Economic, Social and Cultural Rights was concerned that the Act
+            Regulating Compensation for Damage to Persons Erased from the Permanent Population
+
+10
+                                                                                                  A/HRC/WG.6/34/SVN/2
+
+
+            Register (Compensation Act) excluded those who had not obtained legal status in Slovenia,
+            and provided for inadequate financial compensation. 136 The Committee on the Elimination
+            of Racial Discrimination was concerned that erased persons continued to face difficulties in
+            accessing education, training and employment. 137
+            77.     The Human Rights Committee recommended that Slovenia ensure that all remaining
+            “erased” persons could restore their legal status without undue administrative constraints
+            and that all “erased” persons were provided with full and effective reparation, including
+            restitution and compensation. 138 UNHCR, 139 the Committee on the Elimination of
+            Discrimination against Women, 140 the Committee on Economic, Social and Cultural
+            Rights, 141 the Committee on the Elimination of Racial Discrimination 142 and the Special
+            Rapporteur on minority issues143 made similar recommendations.
+            78.    The Committee on the Elimination of Racial Discrimination recommended that
+            Slovenia ensure the full enjoyment by erased persons of their rights with respect to access
+            to education, training and employment, paying special attention to Roma who had been
+            subjected to erasure.144
+
+
+Notes
+        1  Tables containing information on the scope of international obligations and cooperation with
+           international human rights mechanisms and bodies for Slovenia will be available at
+           www.ohchr.org/EN/HRBodies/UPR/Pages/SIindex.aspx.
+         2 For relevant recommendations, see A/HRC/28/15, paras. 115.1, 115.4–115.17 and 115.133.
+         3 CERD/C/SVN/CO/8-11, para. 18, E/C.12/SVN/CO/2, para. 31 and CEDAW/C/SVN/CO/5-6, para. 46.
+         4 E/C.12/SVN/CO/2, para. 29 and A/HRC/30/43/Add.1, para. 67.
+         5 UNHCR submission for the universal periodic review of Slovenia, p. 3, CERD/C/SVN/CO/8-11,
+
+           para. 18, CEDAW/C/SVN/CO/5-6, para. 38 and CEDAW/C/SVN/CO/5-6/Add.1, para. 26. See also
+           letter dated 28 November 2017 from the Committee on the Elimination of Discrimination against
+           Women addressed to the Permanent Representative of Slovenia to the United Nations Office and
+           other international organizations in Geneva. Available from https://tbinternet.ohchr.org/Treaties/
+           CEDAW/Shared%20Documents/SVN/INT_CEDAW_FUL_SVN_29558_E.pdf.
+         6 E/C.12/SVN/CO/2, para. 18.
+         7 See www.ohchr.org/EN/HRBodies/UPR/Pages/UPRImplementation.aspx.
+         8 OHCHR, OHCHR Report 2017, pp. 79, 83 and 88 and OHCHR Report 2018, pp. 77 and 92.
+         9 For relevant recommendations, see A/HRC/28/15, paras. 115.22 and 115.31–115.39.
+        10 CCPR/C/SVN/CO/3, para. 6. See also CERD/C/SVN/CO/8-11, para. 17 and E/C.12/SVN/CO/2, para. 9.
+        11 A/HRC/40/64/Add.1, para. 19. See also CCPR/C/SVN/CO/3/Add.1, paras. 24–28.
+        12 A/HRC/40/64/Add.1, para. 18. See also CCPR/C/SVN/CO/3/Add.1, para. 2 and UNHCR submission,
+
+           p. 2.
+        13 A/HRC/40/64/Add.1, para. 61. See also E/C.12/SVN/CO/2, para. 10.
+        14 For relevant recommendations, see A/HRC/28/15, paras. 115.44–115.47, 115.49–115.58, 115.62–
+
+           115.70, 115.74, 115.76–115.78, 115.81, 115.85, 115.87, 115.92, 115.93, 115.98 and 115.103.
+        15 See www.ilo.org/dyn/normlex/en/f?p=1000:13100:0::NO:13100:P13100_
+
+           COMMENT_ID:3339086:NO.
+        16 CCPR/C/SVN/CO/3, para. 8 and E/C.12/SVN/CO/2, para. 10. See also A/HRC/30/43/Add.1, para. 74.
+        17 CRPD/C/SVN/CO/1, para. 7.
+        18 CCPR/C/SVN/CO/3, para. 7. See also A/HRC/40/64/Add.1, para. 49.
+        19 CCPR/C/SVN/CO/3, para. 7.
+        20 CERD/C/SVN/CO/8-11, para. 8.
+        21 A/HRC/40/64/Add.1, para. 48. See also CERD/C/SVN/CO/8-11, para. 8.
+        22 CERD/C/SVN/CO/8-11, para. 9. See also E/C.12/SVN/CO/2, para. 10, CCPR/C/SVN/CO/3, para. 8
+
+           and CCPR/C/SVN/CO/3/Add.1, paras. 6–9.
+        23 A/HRC/40/64/Add.1, para. 70. See also E/C.12/SVN/CO/2, para. 6 and CERD/C/SVN/CO/8-11,
+
+           para. 5.
+        24 CCPR/C/SVN/CO/3, para. 9.
+        25 Ibid., para. 10.
+        26 E/C.12/SVN/CO/2, para. 12.
+        27 Ibid., para. 30.
+        28 A/70/358, p. 5.
+        29 E/C.12/SVN/CO/2, para. 7.
+        30 For relevant recommendations, see A/HRC/28/15, paras. 115.106–115.109 and 115.21.
+
+
+
+
+                                                                                                                   11
+A/HRC/WG.6/34/SVN/2
+
+
+         31 CRPD/C/SVN/CO/1, para. 25.
+         32 CCPR/C/SVN/CO/3, para. 13 and E/C.12/SVN/CO/2, para. 19.
+         33 A/HRC/30/43/Add.1, para. 21.
+         34 Ibid., paras. 78–79.
+         35 For the relevant recommendation, see A/HRC/28/15, para. 115.128.
+         36 CCPR/C/SVN/CO/3, paras. 27–28.
+         37 Ibid., para. 26.
+         38 For relevant the recommendation, see A/HRC/28/15, para. 115.132.
+         39 UNESCO submission for the universal periodic review of Slovenia, para. 6. See also
+
+            CCPR/C/SVN/CO/3, para. 31.
+         40 CCPR/C/SVN/CO/3, para. 32.
+         41 For relevant recommendations, see A/HRC/28/15, paras. 151.119–115.127.
+         42 CERD/C/SVN/CO/8-11, para. 14. See also CEDAW/C/SVN/CO/5-6, para. 21.
+         43
+            CEDAW/C/SVN/CO/5-6, para. 22. See also CERD/C/SVN/CO/8-11, para. 15.
+         44 CEDAW/C/SVN/CO/5-6, para. 22. See also CERD/C/SVN/CO/8-11, para. 15.
+         45 CCPR/C/SVN/CO/3, para. 20. See also CCPR/C/SVN/CO/3/Add.1, para. 23.
+         46 E/C.12/SVN/CO/2, para. 16.
+         47 CEDAW/C/SVN/CO/5-6, para. 29.
+         48 E/C.12/SVN/CO/2, para. 18.
+         49 For relevant recommendations, see A/HRC/28/15, paras. 115.135–115.138.
+         50 E/C.12/SVN/CO/2, para. 20. See also A/HRC/30/43/Add.1, para. 80.
+         51 A/HRC/30/43/Add.1, paras. 43 and 49.
+         52 Ibid., paras. 87 and 89.
+         53 E/C.12/SVN/CO/2, para. 22.
+         54 A/HRC/30/43/Add.1, para. 81.
+         55 For relevant recommendations, see A/HRC/28/15, paras. 115.141–115.143.
+         56 E/C.12/SVN/CO/2, para. 23.
+         57 Ibid., para. 24.
+         58 A/HRC/30/43/Add.1, para. 91.
+         59 E/C.12/SVN/CO/2, para. 26.
+         60 UNESCO submission, para. 11.
+         61 For relevant recommendations, see A/HRC/28/15, paras. 115.105–115.111, 115. 23 and 115.59–
+
+            115.61.
+         62 CEDAW/C/SVN/CO/5-6, para. 14.
+         63 Ibid., para. 44.
+         64 Ibid., para. 19.
+         65 Ibid., para. 20.
+         66 CCPR/C/SVN/CO/3, para. 14. See also CEDAW/C/SVN/CO/5-6, para. 20 and E/C.12/SVN/CO/2,
+
+            para. 19.
+         67 CEDAW/C/SVN/CO/5-6, para. 29.
+         68 Ibid., para. 30.
+         69 Ibid.
+         70 Ibid., para. 24. See also CCPR/C/SVN/CO/3, para. 12.
+         71 CEDAW/C/SVN/CO/5-6, para. 32.
+         72 For relevant recommendations, see A/HRC/28/15, paras. 115.113–115.116, 115.21 and 115.23.
+         73 CRPD/C/SVN/CO/1, para. 10. See also CCPR/C/SVN/CO/3, para. 29.
+         74 CCPR/C/SVN/CO/3, para. 30. See also CRPD/C/SVN/CO/1, para. 11.
+         75 For relevant recommendations, see A/HRC/28/15, paras. 115.21 and 115.145–115.148.
+         76 CRPD/C/SVN/CO/1, paras. 4–5.
+         77 Ibid., para. 11; see also para. 27.
+         78 Ibid., paras. 31–32.
+         79 Ibid., paras. 42, 46 and 48. See also E/C.12/SVN/CO/2, paras. 16, 20 and 22.
+         80 CRPD/C/SVN/CO/1, paras. 14–15.
+         81 Ibid., para. 11.
+         82 Ibid., para. 40.
+         83 A/HRC/40/64/Add.1, para. 71. See also CRPD/C/SVN/CO/1, para. 36.
+         84 For relevant recommendations, see A/HRC/28/15, paras. 115.25, 115.71–115.73, 115.75, 115.79,
+
+            115.80–115.86, 115.88–115.91, 115.102, 115.138–115.140, 115.144 and 115.150–115.162.
+         85 A/HRC/40/64/Add.1, paras. 6 and 11–13.
+         86 Ibid., para. 66.
+         87 CERD/C/SVN/CO/8-11, para. 10.
+         88 Ibid., para. 11. See also A/HRC/40/64/Add.1, para. 62.
+         89 A/HRC/40/64/Add.1, para. 33.
+
+
+
+
+12
+                                                                                      A/HRC/WG.6/34/SVN/2
+
+
+90  CCPR/C/SVN/CO/3, para. 23. See also CERD/C/SVN/CO/8-11, para. 6, E/C.12/SVN/CO/2, para. 11,
+    A/HRC/30/43/Add.1, para. 75 and A/HRC/40/64/Add.1, para. 33.
+ 91 CERD/C/SVN/CO/8-11, para. 7.
+ 92 A/HRC/40/64/Add.1, para. 62. See also CCPR/C/SVN/CO/3, para. 24 and CERD/C/SVN/CO/8-11,
+
+    para. 7.
+ 93 A/HRC/30/43/Add.1, para. 13. See also CERD/C/SVN/CO/8-11, para. 6 and E/C.12/SVN/CO/2,
+
+    para. 21.
+ 94 A/HRC/40/64/Add.1, para. 35.
+ 95 E/C.12/SVN/CO/2, para. 21.
+ 96 CERD/C/SVN/CO/8-11, para. 6. See also E/C.12/SVN/CO/2, para. 21.
+ 97 CERD/C/SVN/CO/8-11, para. 7.
+ 98 A/HRC/40/64/Add.1, para. 63 and E/C.12/SVN/CO/2, para. 21.
+ 99 E/C.12/SVN/CO/2, para. 21. See also CERD/C/SVN/CO/8-11, para. 7.
+100
+    CERD/C/SVN/CO/8-11, para. 6. See also A/HRC/40/64/Add.1, paras. 35–36 and
+    A/HRC/30/43/Add.1, para. 13.
+101 CERD/C/SVN/CO/8-11, para. 7. See also A/HRC/40/64/Add.1, para. 64, A/HRC/30/43/Add.1, para.
+
+    75 and E/C.12/SVN/CO/2, para. 21.
+102 E/C.12/SVN/CO/2, para. 27. See also CERD/C/SVN/CO/8-11, para. 6, A/HRC/40/64/Add.1, para. 39
+
+    and UNESCO submission, p. 3.
+103 E/C.12/SVN/CO/2, para. 27.
+104 CERD/C/SVN/CO/8-11, para. 7.
+105 E/C.12/SVN/CO/2, para. 27, UNESCO submission, para. 11 and
+
+    www.ilo.org/dyn/normlex/en/f?p=1000:13100:0::NO:13100:P13100_COMMENT_ID:3339495:NO.
+106 CCPR/C/SVN/CO/3, para. 23.
+107 CEDAW/C/SVN/CO/5-6, para. 39.
+108 CCPR/C/SVN/CO/3, para. 24. See also CERD/C/SVN/CO/8-11, para. 7 and CEDAW/C/SVN/CO/5-
+
+    6, para. 40.
+109 For relevant recommendations, see A/HRC/28/15, paras. 115.55 and 115.163.
+110 E/C.12/SVN/CO/2, para. 17.
+111 CCPR/C/SVN/CO/3, para. 15.
+112 See www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=17091&LangID=E.
+113 Ibid.
+114 UNHCR submission, p. 4.
+115 CERD/C/SVN/CO/8-11, para. 14. See also UNHCR submission, p. 4.
+116 CCPR/C/SVN/CO/3, para. 16. See also UNHCR submission, p. 5, CERD/C/SVN/CO/8-11, para. 15
+
+    and CCPR/C/SVN/CO/3/Add.1, paras. 11–15.
+117 CCPR/C/SVN/CO/3, para. 16. See also CEDAW/C/SVN/CO/5-6, para. 38, UNHCR submission, p. 5
+
+    and CCPR/C/SVN/CO/3/Add.1, para. 16.
+118 CCPR/C/SVN/CO/3, para. 18. See also CEDAW/C/SVN/CO/5-6, para. 38.
+119 UNHCR submission, p. 4. See also CERD/C/SVN/CO/8-11, para. 14.
+120 CERD/C/SVN/CO/8-11, para. 15. See also UNHCR submission, p. 5.
+121 CERD/C/SVN/CO/8-11, para. 14.
+122 CCPR/C/SVN/CO/3, para. 16. See also CCPR/C/SVN/CO/3/Add.1, paras. 18–20.
+123 CERD/C/SVN/CO/8-11, para. 14.
+124 UNHCR submission, pp. 4–5.
+125 CERD/C/SVN/CO/8-11, para. 15. See also UNHCR submission, p. 5.
+126 For relevant recommendations, see A/HRC/28/15, paras. 115.66, 115.96–115.97, 115.99–115.100,
+
+    115.102, 115.149 and 115.161.
+127 UNHCR submission, p. 3.
+128 Ibid.
+129 Ibid. See also CERD/C/SVN/CO/8-11, para. 12 and E/C.12/SVN/CO/2, para. 13.
+130 CERD/C/SVN/CO/8-11, para. 12.
+131 CCPR/C/SVN/CO/3, para. 21.
+132 A/HRC/40/64/Add.1, para. 53.
+133 A/HRC/30/43/Add.1, paras. 15–18.
+134 E/C.12/SVN/CO/2, para. 13.
+135 CEDAW/C/SVN/CO/5-6, para. 25. See also CEDAW/C/SVN/CO/5-6/Add.1, paras. 2–3.
+136 E/C.12/SVN/CO/2, para. 13. See also CERD/C/SVN/CO/8-11, para. 12.
+137 CERD/C/SVN/CO/8-11, para. 12.
+138 CCPR/C/SVN/CO/3, para. 22.
+139 UNHCR submission, p. 3.
+140 CEDAW/C/SVN/CO/5-6, para. 26.
+141 E/C.12/SVN/CO/2, para. 13.
+
+
+
+
+                                                                                                       13
+A/HRC/WG.6/34/SVN/2
+
+
+        142 CERD/C/SVN/CO/8-11, para. 13.
+        143 A/HRC/40/64/Add.1, para. 73.
+        144 CERD/C/SVN/CO/8-11, para. 13.
+
+
+
+
+14
+

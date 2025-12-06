@@ -1365,3 +1365,33 @@ body {
         min-height: 500px;
     }
 }
+
+/* Spiderweb Styles */
+.spiderweb-container {
+    background: #0f172a;
+    border-radius: 16px;
+    padding: 1rem;
+    box-shadow: var(--card-shadow);
+    overflow: hidden;
+}
+
+.spiderweb-canvas {
+    width: 100%;
+    min-height: 750px;
+}
+
+.spiderweb-svg {
+    display: block;
+}
+
+.spiderweb-svg .node {
+    transition: opacity 0.3s ease;
+}
+
+.spiderweb-svg .connection {
+    transition: opacity 0.3s ease;
+}
+
+.spiderweb-svg .clickable:hover .node-rect {
+    filter: brightness(1.2);
+}

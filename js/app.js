@@ -58,6 +58,16 @@ function initNavigation() {
                     }
                 }, 100);
             }
+            
+            // Initialize spiderweb on first view
+            if (tabId === 'spiderweb' && !window.spiderwebInitialized) {
+                setTimeout(() => {
+                    if (typeof initSpiderweb === 'function') {
+                        initSpiderweb();
+                        window.spiderwebInitialized = true;
+                    }
+                }, 100);
+            }
         });
     });
 }

@@ -1,0 +1,914 @@
+# A/HRC/WG.6/20/SVN/3 - Summary of Stakeholder Information: Slovenia (2nd Cycle)
+
+**Document:** A/HRC/WG.6/20/SVN/3
+**Session:** 20th UPR Working Group
+**Date:** 2014
+**Source:** Civil Society, NHRIs, NGOs
+
+---
+
+## Full Document Text
+
+
+             United Nations                                                                 A/HRC/WG.6/20/SVN/2
+             General Assembly                                                      Distr.: General
+                                                                                   18 August 2014
+
+                                                                                   Original: English
+
+
+
+
+Human Rights Council
+Working Group on the Universal Periodic Review
+Twentieth session
+27 October–7 November 2014
+
+
+            Compilation prepared by the Office of the United Nations
+            High Commissioner for Human Rights in accordance with
+            paragraph 15 (b) of the annex to Human Rights Council
+            resolution 5/1 and paragraph 5 of the annex to Council
+            resolution 16/21
+
+            Slovenia
+
+                   The present report is a compilation of the information contained in reports of the
+            treaty bodies and special procedures, including observations and comments by the State
+            concerned, in reports of the United Nations High Commissioner for Human Rights, and in
+            other relevant official United Nations documents. It is presented in a summarized manner
+            owing to word-limit constraints. For the full texts, please refer to the documents referenced.
+            The report does not contain any opinions, views or suggestions on the part of the Office of
+            the United Nations High Commissioner for Human Rights other than those contained in
+            public reports and statements issued by the Office. It follows the general guidelines adopted
+            by the Human Rights Council in its decision 17/119. Information included herein has been
+            systematically referenced in endnotes. The report has been prepared taking into
+            consideration the periodicity of the review, and developments during that period.
+
+
+
+
+GE.14-14064 (E)
+
+*1414064*
+A/HRC/WG.6/20/SVN/2
+
+
+
+
+      I.    Background and framework
+
+      A.    Scope of international obligations1
+
+       1.   International human rights treaties2
+
+                             Status during previous cycle        Action after review   Not ratified/not accepted
+
+            Ratification,    ICERD (1992)                                              ICRMW
+            accession or
+            succession       ICESCR (1992)                                             CPED (signature 2007)
+                             ICCPR (1992)
+                             ICCPR-OP 2 (1994)
+                             CEDAW (1992)
+                             CAT (1993)
+                             OP-CAT (2007)
+                             CRC (1992)
+                             OP-CRC-AC (2004)
+                             OP-CRC-SC (2004)
+                             CRPD (2008)
+            Reservations     ICCPR-OP 1
+            and/or           (Declaration, art. 1/Reservation,
+            declarations     art. 5 (2)(a), 1993)
+                             OP-CAT
+                             (Declaration, art. 17, 2007)
+                             OP-CRC-AC
+                             (Declaration, art. 3(2), age of
+                             recruitment at 18 years, 2004)
+            Complaints       ICERD, art. 14 (2001)               OP-CRC-IC             OP-ICESCR
+            procedures,                                          (signature, 2012)     (signature, 2009)
+                             OP-ICESCR
+            inquiries and
+                             (signature, 2009)                                         OP-CRC-IC
+            urgent action3
+                                                                                       (signature, 2012)
+                             ICCPR, art. 41 (1992)
+                                                                                       ICRMW
+                             ICCPR-OP 1 (1993)
+                                                                                       CPED
+                             OP-CEDAW, art. 8 (2004)
+                                                                                       (signature, 2007)
+                             CAT, arts. 20, 21 and 22 (1993)
+                             OP-CRPD, art. 6 (2008)
+                             CPED (signature, 2007)
+
+
+
+
+2
+                                                                                                        A/HRC/WG.6/20/SVN/2
+
+
+2.   Other main relevant international instruments
+
+                            Status during previous cycle           Action after review   Not ratified
+
+     Ratification,          Palermo Protocol4                                            ILO Conventions Nos. 169
+     accession or                                                                        and 1898
+     succession             Conventions on refugees and
+                            stateless persons except the
+                            1961 Convention on the
+                            Reduction of Statelessness5
+                            Geneva Conventions of 12
+                            August 1949 and Additional
+                            Protocols I and II6
+                            ILO fundamental
+                            conventions7
+                            UNESCO Convention against
+                            Discrimination in Education
+                            Rome Statute of the
+                            International Criminal Court
+                            Convention on the Prevention
+                            and Punishment of the Crime
+                            of Genocide
+
+     1.     In 2010, the Committee on the Elimination of Racial Discrimination (CERD)
+     encouraged Slovenia to ratify ICRMW.9 In 2011, the Committee against Torture (CAT)
+     invited the country to also ratify CPED and OP-ICESCR.10 In 2013, the Committee on the
+     Rights of the Child (CRC) recommended also the ratification of OP-CRC-IC.11
+     2.    CRC recommended the ratification of ILO Convention No. 189 (2011) concerning
+     decent work for domestic workers12 and the accession to the 1961 Convention on the
+     Reduction of Statelessness.13
+     3.     The United Nations Educational, Scientific and Cultural Organization (UNESCO)
+     stated that Slovenia did not report on the measures taken for the implementation of a
+     number of UNESCO Conventions.14
+
+
+B.   Constitutional and legislative framework
+
+     4.      CRC noted the adoption of various legislative measures, including the Act
+     Amending the Provision of Foster Care in 2012.15 CRC however, regretted the continued
+     absence of a consolidated child law that incorporated all the provisions of the Convention
+     into the State’s national legislation16 and recommended the introduction of a comprehensive
+     law on children.17
+
+
+C.   Institutional and human rights infrastructure and policy measures
+
+     Status of national human rights institutions18
+
+     National human rights institution                Status during previous cycle         Status during present cycle19
+
+     Republic of Slovenia Human Rights                B (2000)                             B (2010)
+     Ombudsman
+
+
+
+                                                                                                                           3
+A/HRC/WG.6/20/SVN/2
+
+
+            5.      CRC recommended that Slovenia bring the Ombudsman’s Office into compliance
+            with the Paris Principles.20 CAT urged Slovenia to provide this Office with adequate
+            resources21 and to broaden its mandate to carry out investigations into allegations of torture
+            and ill-treatment.22
+            6.     CRC welcomed the creation of a Child Observatory.23 It recommended that Slovenia
+            strengthen the mandate of the Ministry of Labour, Family, Social Affairs and Equal
+            Opportunities to enable it to effectively coordinate the implementation of the Convention.24
+            7.     In 2011, the Committee on the Elimination of Discrimination against Women
+            (CEDAW) noted the establishment, in 2010, of an inter-ministerial working group to
+            prepare a comprehensive institutional arrangement for ensuring equality and protection
+            from discrimination.25
+            8.    CERD welcomed the National Programme of Measures for Roma People (2010–
+            2015) aimed at combating discrimination against Roma in education, housing, health care,
+            employment and living conditions.26
+            9.    CRC welcomed a number of policy measures on social protection, children and
+            youth, family violence protection, trafficking in human beings and Roma.27 It
+            recommended the implementation of the 2006-2016 Programme for Children and Youth.28
+            CRC urged Slovenia to repeal provisions of the Marriage and Family Relations Act that
+            were not compliant with the Convention.29
+
+
+     II. Cooperation with human rights mechanisms
+
+      A.    Cooperation with treaty bodies30
+
+       1.   Reporting status
+
+                                                           Latest report
+                             Concluding observations       submitted since   Latest concluding
+            Treaty body      included in previous review   previous review   observations        Reporting status
+
+            CERD             March 2003                    2008/2014         August 2010         Eighth to eleventh reports
+                                                                                                 pending consideration
+            CESCR            November 2005                 2011              –                   Second report pending
+                                                                                                 consideration in November
+                                                                                                 2014
+            HR Committee July 2005                         –                 –                   Third report overdue since 2010
+            CEDAW            October 2008                  2014              –                   Fifth and sixth reports pending
+                                                                                                 consideration
+            CAT              May 2003                      2009              May 2011            Fourth report due in 2015
+            CRC              January 2004                  2010              June 2013           Fifth and sixth reports due in
+                             (CRC)/June 2009                                                     2018
+                             (OP-CRC-AC and
+                             OP-CRC-SC)
+            CRPD             –                             –                 –                   Initial report overdue since
+                                                                                                 2010
+
+
+
+
+4
+                                                                                               A/HRC/WG.6/20/SVN/2
+
+
+ 2.   Responses to specific follow-up requests by treaty bodies
+
+      Concluding observations
+
+      Treaty body               Due in         Subject matter                            Submitted in
+
+      CERD                      2011           Discrimination against Roma; and          201332
+                                               legal status of the “erased” people31     Further information
+                                                                                         requested33
+      HR Committee                             Trafficking in women and children;        –
+                                               and discrimination against Roma34
+      CEDAW                     2010           National machinery for the                201036
+                                               advancement of women; and women           Dialogue ongoing37
+                                               political participation35
+      CAT                       2012           Computerized system for registration 201239
+                                               of detainees; investigation of torture;
+                                               asylum and non-refoulement; and
+                                               Roma minority38
+
+
+ B.   Cooperation with special procedures40
+
+                                         Status during previous cycle         Current status
+
+      Standing invitation                Yes                                  Yes
+      Visits undertaken                  –                                    Water and sanitation (2010)
+      Visits agreed to in principle      –                                    –
+      Visits requested                   –                                    –
+      Responses to letters of allegation In the period under review no communications were sent.
+      and urgent appeals
+
+
+ C.   Cooperation with the Office of the High Commissioner
+      for Human Rights
+
+      10.   Slovenia contributed financially to the Office of the United Nations High
+      Commissioner for Human Rights between 2009 and 2013, including to the United Nations
+      Voluntary Fund for Victims of Torture in 2009.41
+
+
+III. Implementation of international human rights obligations,
+     taking into account applicable international
+     humanitarian law
+
+ A.   Equality and non-discrimination
+
+      11.    CERD was concerned that very few acts of racial discrimination had been
+      prosecuted and requested to Slovenia that appropriate provisions be made available in
+      national legislation.42 CAT recommended that Slovenia take measures aimed at preventing
+      ethnically motivated crimes.43
+
+
+                                                                                                                 5
+A/HRC/WG.6/20/SVN/2
+
+
+           12.     CERD remained concerned about marginalization and discrimination of Roma, and
+           urged Slovenia to combat discrimination against them and implement special measures in
+           education, housing, health and employment.44 CRC remained seriously concerned about
+           persistent discrimination against Roma children.45 CRC recommended that Slovenia
+           investigate and prosecute any discriminatory act directed at Roma children.46
+           13.     In 2011, the independent expert on water and sanitation recommended that Slovenia
+           eliminate all forms of discrimination which deprived certain segments of the population of
+           access to safe drinking water and sanitation, and ensure that any instances of discrimination
+           be fully investigated and prosecuted, and that redress be provided to the victims.47
+           14.    CRC was seriously concerned that the rights of former permanent residents of
+           Slovenia originating from former Yugoslavian republics (the so-called “erased”), whose
+           legal status was unlawfully revoked in 1992, had not been guaranteed.48 CAT was
+           concerned about persistent discrimination against the “erased” persons and encouraged
+           Slovenia to facilitate their full integration.49 CERD remained concerned about difficulties
+           they were facing in securing access to social and economic rights,50 and recommended that
+           Slovenia ensure the full enjoyment of the economic and social rights of “erased” people,
+           including health, social security, education and employment.51
+           15.    Concerning the “erased”, CRC noted with appreciation the Act Regulating the Legal
+           Status of Citizens of Former Yugoslavia Living in the Republic of Slovenia in 2010
+           (8 March 2010) (Legal Status Act).52
+           16.    In 2013, CAT remained concerned that Slovenia had failed to enforce the Legal
+           Status Act.53 CRC was particularly concerned that a large number of persons were excluded
+           from this Act, and that applications of “erased” people were rejected.54
+           17.    CRC recommended that Slovenia simplify the proceedings for obtaining permanent
+           residence permits by “erased” people.55 CAT recommended the restoration of the
+           permanent resident status of these persons, and encouraged Slovenia to guarantee fair
+           procedures in applying for citizenship.56 CERD recommended that Slovenia grant full
+           reparation to all individuals affected by the “erasure”.57
+           18.     In 2013, as part of the reply to CERD recommendations issued in 2010, Slovenia
+           stated, inter alia, that in 2010 the Government had set up a Working Group on
+           Comprehensive Resolving of the Issue of the Erased, with a view to elaborating measures
+           for the reintegration of such persons into society.58
+           19.    CRC was concerned that children of same-sex couples faced discrimination in
+           school based on their family’s sexual orientation. It urged Slovenia to regularize the status
+           of such children.59
+
+
+      B.   Right to life, liberty and security of the person
+
+           20.     CAT urged Slovenia to ensure prompt, impartial and effective investigation into all
+           allegations of torture and ill-treatment, and to prosecute perpetrators of such acts,60 and
+           recommended measures concerning the audio and video recording of all interrogations of
+           detainees as means to prevent torture and ill-treatment.61 It also urged the country to
+           provide redress and compensation for victims,62 and to abolish the statute of limitations for
+           the crime of torture.63
+           21.     In 2012, in a follow-up to CAT concluding observations, Slovenia reported, inter
+           alia, that the powers of the Department for Investigation and Prosecution of Official
+           Persons with Special Authorizations had been expanded and that it was competent to
+           investigate and prosecute abuses of all kinds of official persons with official authorization.64
+
+
+
+6
+                                                                                   A/HRC/WG.6/20/SVN/2
+
+
+22.    While welcoming measures aimed at improving detention conditions, CAT
+remained concerned about overcrowding in a number of prisons. It urged Slovenia to bring
+detention conditions into line with international standards.65
+23.    CAT recommended close monitoring by the judicial organs of any placements in
+psychiatric institutions, regular visits by independent monitoring bodies and guaranteeing
+the implementation of safeguards.66
+24.   CAT remained concerned about violence against women and girls and
+recommended, inter alia, that Slovenia prevent and prosecute all forms of violence against
+women and children, including domestic violence, and implement the National Programme
+of Family Violence Prevention (2009–2014).67
+25.    CRC expressed concern about the narrow definition of violence provided within the
+Domestic Violence Prevention Act,68 and the limited definition of violence against children
+in national legislation.69 It recommended (a) a comprehensive definition of violence to
+include all forms of violence, including sexual exploitation and abuse of children;70 (b) a
+comprehensive national strategy to prevent and address all forms of violence against
+children;71 and (c) the establishment of an investigation and prosecution mechanism.72 It
+urged Slovenia to ban all forms of abuse and neglect of children in all settings, ensure
+follow-up to cases of abuse or neglect and establish community protection mechanisms.73
+CRC noted with concern that Roma girls were often subject to sexual violence and
+exploitation by family members.74
+26.     CRC was concerned that corporal punishment in educational day-care centres,
+residential school institutions and penal institutions was not explicitly prohibited.75 CRC
+recommended that Slovenia explicitly prohibit in national legislation corporal punishment
+in all settings, including at home, and amend the Criminal Code as well as the Foster Care
+Act.76 It recommended that Slovenia strengthen its efforts to address corporal punishment
+by, inter alia, launching awareness-raising campaigns.
+27.     CAT welcomed the designation of human trafficking as a crime but remained
+concerned about trafficking of women for prostitution in Slovenia.77 CRC was also
+concerned that Slovenia remained a country of origin, destination and transit for trafficking
+and sexual exploitation of children.78 CAT urged Slovenia to combat trafficking in persons,
+especially in women and children, by prosecuting perpetrators and ensuring redress,
+including compensation and rehabilitation, for victims.79 CRC welcomed the Action Plan of
+the Intergovernmental Working Group for Countering Trafficking in Human Beings (2012-
+2013)80 and recommended that this Working Group be empowered.81
+28.   CRC was concerned about increasing incidents of the sale of Roma girls. It
+recommended targeted measures to prevent the sale of children, child prostitution and child
+pornography.82
+29.    CRC recommended that Slovenia take measures to prevent forced labour of children
+and establish mechanisms to investigate and prosecute child forced labour.83 CRC also
+recommended the full harmonization of Slovenian national legislation with OP-CRC-SC,
+particularly by explicitly prohibiting the sale of children and forced adoptions.84
+30.     CRC recommended that Slovenia (a) put an end to forced and underage marriages of
+Roma children;85 (b) investigate such cases with a view to bringing perpetrators to justice;
+(c) increase awareness-raising within the Roma population on the harmful impact of early
+marriage on children; (d) provide victims with rehabilitation and counselling services;86 and
+(e) protect children who are victims of forced marriage.87
+
+
+
+
+                                                                                                     7
+A/HRC/WG.6/20/SVN/2
+
+
+      C.   Administration of justice and the rule of law
+
+           31.    Concerned about the high proportion of remand prisoners awaiting trial, CAT
+           recommended that Slovenia reduce the backlog of court cases, including by taking non-
+           custodial measures.88
+           32.     CRC also expressed concern about the lack of special provisions for children in its
+           Criminal Code and urged Slovenia to bring its juvenile justice system fully into line with
+           relevant standards. It recommended that deprivation of liberty of children be a measure of
+           last resort.89
+
+
+      D.   Freedom of expression, right to participate in public and political life
+
+           33.   UNESCO recommended that Slovenia decriminalize defamation in the Penal Code
+           and place it within the civil code,90 and that the insult provisions and their penalties be
+           reformed to be better aligned with international standards on freedom of expression.91
+           34.    CERD recommended that Slovenia protect minorities in their political rights without
+           discrimination, and ensure representation of all minorities in Parliament and in regional
+           elected bodies.92
+           35.   CEDAW expressed regret that Slovenia had not taken steps to increase the number
+           of women mayors in the country.93
+
+
+      E.   Right to work and to just and favourable conditions of work
+
+           36.     The ILO Committee of Experts on the Application of Conventions and
+           Recommendations (CEACR) took note of the adoption of the Act implementing the
+           principle of equal treatment explicitly applicable to cases of anti-union discrimination.94
+           CEACR requested the Government to take the necessary measures to ensure that national
+           legislation contain specific provisions prohibiting acts of interference by employers or their
+           organizations in the establishment, functioning and administration of workers’
+           organizations, and establishing effective and sufficiently dissuasive sanctions against such
+           acts.95
+           37.     CEACR asserted that it had previously noted the need for systematic measures
+           aimed at the integration of migrant workers and their families in society.96 CEACR also
+           stated that it had previously noted concerns raised by the Association of Free Trade Unions
+           regarding substandard housing conditions of migrant workers and the need to strengthen
+           supervision in this regard, and to establish minimum standards of living for them.97
+
+
+      F.   Right to social security and to an adequate standard of living
+
+           38.    The independent expert on water and sanitation recommended that Slovenia allocate
+           more funds for research into the issue of poverty in Slovenia, as the current statistics
+           possibly did not fully reflect the extent to which people were living in poverty in the
+           country.98
+           39.    CRC was highly concerned that the number of children living in poverty was
+           increasing and that children of minority groups, particularly Roma, were poorer than
+           children of the majority population. It recommended that Slovenia build a national system
+           of social protection.99
+
+
+
+
+8
+                                                                                      A/HRC/WG.6/20/SVN/2
+
+
+     40.     The independent expert on safe drinking water and sanitation recommended that
+     Slovenia explicitly recognize the rights to water and to sanitation in law, make them
+     justiciable and amend relevant laws to reflect these human rights obligations.100 She
+     recommended that Slovenia (a) urgently address the situation of people, especially Roma
+     communities, who did not have access to safe drinking water and sanitation; and (b)
+     implement measures to ensure that their rights to water and sanitation were fully
+     protected.101
+     41.    CERD remained concerned about the de facto segregation and discrimination related
+     to housing of the Roma minority. It recommended that Slovenia strengthen its measures
+     aimed at improving the housing conditions of the Roma and refrain from placing Roma in
+     isolated camps without access to health care and other basic facilities.102
+
+
+G.   Right to health
+
+     42.    CRC was concerned about the ethnic disparity in access to, and provision of, health
+     services. It recommended that all children have similar access to basic health services and
+     urged Slovenia to implement the "Strategy for enhancing health and action plan for
+     reducing inequalities in health in the Pomurje region".103
+     43.   Concerned that suicide was the second major cause of mortality among children
+     aged 10-14 in Slovenia, CRC urged Slovenia to finalize the National Programme for
+     Mental Health.104
+
+
+H.   Right to education
+
+     44.    CRC was concerned about the lack of holistic programmes for early childhood
+     development as well as the introduction of new education fees. It recommended that
+     Slovenia develop well-financed early childhood development programmes and refrain from
+     introducing more education-related fees.105
+     45.     UNESCO strongly encouraged Slovenia to pursue its positive efforts to integrate
+     human rights education into the educational system and training programs, and intensify its
+     efforts in ensuring the effectiveness of equal access to education.106
+     46.    CRC remained concerned that Roma children enjoyed limited access to education.107
+     Concerned about segregation of Roma children in schools, CERD recommended that Roma
+     children enjoy equal opportunities in access to quality education at all levels.108 CRC
+     recommended, inter alia, that Slovenia raise the enrolment of Roma children in preschool
+     educational institutions and integrate them in mainstream education.109
+
+
+I.   Persons with disabilities
+
+     47.     While noting with satisfaction the 2007–2013 Action Programme for Persons with
+     Disabilities, CRC encouraged Slovenia to allocate resources for its effective
+     implementation. It also recommended that Slovenia ensure that children with disabilities
+     fully enjoy their rights.110
+
+
+J.   Minorities
+
+     48.   CERD was concerned about public manifestations of hate speech and intolerance by
+     some politicians in the media towards minorities. It recommended that Slovenia combat
+
+
+
+                                                                                                        9
+A/HRC/WG.6/20/SVN/2
+
+
+           prejudices against ethnic minorities, and investigate and prosecute all acts of political
+           discourse against minorities.111
+           49.    CRC urged Slovenia to reduce disparities in the enjoyment of rights between
+           children of minority groups, particularly Roma children, and children of the majority
+           population.112
+           50.     The independent expert on sanitation and drinking water noted laws that introduced
+           a distinction between “autochthonous” and “non-autochthonous” Roma communities, and
+           recommended eliminating this distinction in order to ensure the equality of rights of all
+           Roma people.113
+           51.   She also recommended that Slovenia provide security of tenure to all Roma
+           communities by taking measures to regularize their settlements,114 and ensure that the
+           National Programme of Measures for Roma (2010–2015) be implemented in all
+           municipalities.115
+
+
+      K.   Migrants, refugees and asylum seekers
+
+           52.    CAT urged Slovenia to ensure that the principle of non-refoulement be established
+           and ensure procedural safeguards against refoulement.116 In the framework of follow-up,
+           Slovenia reported to CAT that the new Aliens Act enacted in 2011 included a non-
+           refoulement principle.117
+           53.     CRC expressed concern about Slovenia’s decision to decrease by 50 per cent the
+           financial assistance provided to asylum seekers staying outside the Asylum Home, and
+           recommended that it reconsider this decision.118 It also recommended that Slovenia, inter
+           alia, (a) refrain from regular conduct of age assessment tests and ensure that such
+           procedures be taken only as a measure of last resort;119 and (b) provide all unaccompanied
+           minors with legal assistance.120 CRC recommended that Slovenia provide all children
+           seeking refuge, and who had fled from war zones, with social reintegration programmes.121
+
+
+
+
+10
+                                                                                                      A/HRC/WG.6/20/SVN/2
+
+
+Notes
+
+        1
+          Unless indicated otherwise, the status of ratifications of instruments listed in the table may be found
+          on the official website of the United Nations Treaty Collection database, Office of Legal Affairs of
+          the United Nations Secretariat, http://treaties.un.org/. Please also refer to the United Nations
+          compilation on Slovenia from the previous cycle (A/HRC/WG.6/7/SVN/2).
+        2
+          The following abbreviations have been used in the present document:
+               ICERD                International Convention on the Elimination of All Forms of Racial
+                                   Discrimination
+               ICESCR               International Covenant on Economic, Social and Cultural Rights
+               OP-ICESCR           Optional Protocol to ICESCR
+               ICCPR                International Covenant on Civil and Political Rights
+               ICCPR-OP 1           Optional Protocol to ICCPR
+               ICCPR-OP 2          Second Optional Protocol to ICCPR, aiming at the abolition of the death
+                                   penalty
+               CEDAW                Convention on the Elimination of All Forms of Discrimination against
+                                   Women
+               OP-CEDAW             Optional Protocol to CEDAW
+               CAT                  Convention against Torture and Other Cruel, Inhuman or Degrading
+                                   Treatment or Punishment
+               OP-CAT              Optional Protocol to CAT
+               CRC                  Convention on the Rights of the Child
+               OP-CRC-AC            Optional Protocol to CRC on the involvement of children in armed conflict
+               OP-CRC-SC           Optional Protocol to CRC on the sale of children, child prostitution and child
+                                   pornography
+               OP-CRC-IC           Optional Protocol to CRC on a communications procedure
+               ICRMW                International Convention on the Protection of the Rights of All Migrant
+                                   Workers and Members of Their Families
+               CRPD                 Convention on the Rights of Persons with Disabilities
+               OP-CRPD             Optional Protocol to CRPD
+               CPED                 International Convention for the Protection of All Persons from Enforced
+                                   Disappearance
+        3
+          Individual complaints: ICCPR-OP 1, art. 1; OP-CEDAW, art. 1; OP-CRPD, art. 1; OP-ICESCR,
+          art. 1; OP-CRC-IC, art. 5; ICERD, art. 14; CAT, art. 22; ICRMW, art. 77; and CPED, art. 31. Inquiry
+          procedure: OP-CEDAW, art. 8; CAT, art. 20; CPED, art. 33; OP-CRPD, art. 6; OP-ICESCR, art. 11;
+          and OP-CRC-IC, art. 13. Inter-State complaints: ICCPR, art. 41; ICRMW, art. 76; CPED, art. 32;
+          CAT, art. 21; OP-ICESCR, art. 10; and OP-CRC-IC, art. 12. Urgent action: CPED, art. 30.
+        4
+          Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children,
+          supplementing the United Nations Convention against Transnational Organized Crime.
+        5
+          1951 Convention relating to the Status of Refugees and its 1967 Protocol, and the 1954 Convention
+          relating to the Status of Stateless Persons.
+        6
+          Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces
+          in the Field (First Convention); Geneva Convention for the Amelioration of the Condition of
+          Wounded, Sick and Shipwrecked Members of Armed Forces at Sea (Second Convention); Geneva
+          Convention relative to the Treatment of Prisoners of War (Third Convention); Geneva Convention
+          relative to the Protection of Civilian Persons in Time of War (Fourth Convention); Protocol
+          Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of
+          International Armed Conflicts (Protocol I); Protocol Additional to the Geneva Conventions of 12
+          August 1949, and relating to the Protection of Victims of Non-International Armed Conflicts
+          (Protocol II). For the official status of ratifications, see Federal Department of Foreign Affairs of
+          Switzerland, at www.eda.admin.ch/eda/fr/home/topics/intla/intrea/chdep/warvic.html.
+        7
+          International Labour Organization Convention No. 29 concerning Forced or Compulsory Labour;
+          Convention No. 105 concerning the Abolition of Forced Labour; Convention No. 87 concerning
+          Freedom of Association and Protection of the Right to Organise; Convention No. 98 concerning the
+          Application of the Principles of the Right to Organise and to Bargain Collectively; Convention
+          No. 100 concerning Equal Remuneration for Men and Women Workers for Work of Equal Value;
+
+
+
+                                                                                                                       11
+A/HRC/WG.6/20/SVN/2
+
+
+
+            Convention No. 111 concerning Discrimination in Respect of Employment and Occupation;
+            Convention No. 138 concerning Minimum Age for Admission to Employment; Convention No. 182
+            concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child
+            Labour.
+          8
+            International Labour Organization Convention No.169 concerning Indigenous and Tribal Peoples in
+            Independent Countries and Convention No.189 concerning Decent Work for Domestic Workers.
+          9
+            CERD/C/SVN/CO/6-7, para. 16. See also CAT/C/SVN/CO/3, para. 23; and CRC/C/SVN/CO/3-4,
+            para. 79.
+         10
+            CAT/C/SVN/CO/3, para. 23. See also CRC/C/SVN/CO/3-4, para. 79.
+         11
+            Ibid., para. 79.
+         12
+            Ibid., para. 70(e).
+         13
+            Ibid., para. 67(d).
+         14
+            UNESCO, paras. 19-21.
+         15
+            CRC/C/SVN/CO/3-4, paras 3 and. 8.
+         16
+            Ibid., para. 8.
+         17
+            Ibid., para. 9.
+         18
+            According to article 5 of the rules of procedure of the International Coordinating Committee of
+            National Institutions for the Promotion and Protection of Human Rights (ICC) Sub-Committee on
+            Accreditation, the classifications for accreditation used by the Sub-Committee are: A: Voting
+            Member (fully in compliance with each of the Paris Principles), B: Non-Voting Member (not fully in
+            compliance with each of the Paris Principles or insufficient information provided to make a
+            determination), C: No Status (not in compliance with the Paris Principles).
+         19
+            For the list of national human rights institutions with accreditation status granted by the International
+            Coordinating Committee of National Institutions for the Promotion and Protection of Human Rights
+            (ICC), see A/HRC/23/28, annex.
+         20
+            CRC/C/SVN/CO/3-4, para. 19. See also CAT/C/SVN/CO/3, para. 11.
+         21
+            Ibid., para. 11. See also CRC/C/SVN/CO/3-4, para. 19.
+         22
+            CAT/C/SVN/CO/3, para. 11.
+         23
+            CRC/C/SVN/CO/3-4, para. 16.
+         24
+            Ibid., para. 13.
+         25
+            Letter from CEDAW to the Permanent Mission of Slovenia to the United Nations Office and other
+            international organizations in Geneva, dated 8 February 2011, p. 2(b) available from
+            http://tbinternet.ohchr.org/Treaties/CEDAW/Shared%20Documents/SVN/INT_CEDAW_FUL_SVN
+            _11944_E.pdf. See also CEDAW/C/SVN/CO/4/Add.1, para. 12.
+         26
+            CERD/C/SVN/CO/6-7, para. 5 (a) and 8; and CERD/C/SVN/CO/6-7/Add.1, para. 6.
+         27
+            CRC/C/SVN/CO/3-4, para. 5. See also CAT/C/SVN/CO/3, para. 6 (c); and CERD/C/SVN/CO/6-7,
+            para. 5 (d).
+         28
+            CRC/C/SVN/CO/3-4, para. 11.
+         29
+            Ibid., para. 9.
+         30
+            The following abbreviations have been used in the present document:
+                CERD                  Committee on the Elimination of Racial Discrimination
+                CESCR                 Committee on Economic, Social and Cultural Rights
+                HR Committee          Human Rights Committee
+                CEDAW                 Committee on the Elimination of Discrimination against Women
+                CAT                   Committee against Torture
+                CRC                   Committee on the Rights of the Child
+                CMW                   Committee on the Protection of the Rights of All Migrant Workers and
+                                      Members of Their Families
+                CRPD                  Committee on the Rights of Persons with Disabilities
+                CED                   Committee on Enforced Disappearances
+                SPT                   Subcommittee on Prevention of Torture
+         31
+            CERD/C/SVN/CO/6-7, para. 22.
+         32
+            CERD/C/SVN/CO/6-7/Add.1.
+         33
+            Letter from CERD to the Permanent Mission of Slovenia to the United Nations Office and other
+            international organizations in Geneva, dated 30 August 2013, available from
+
+
+
+
+12
+                                                                                        A/HRC/WG.6/20/SVN/2
+
+
+
+   http://tbinternet.ohchr.org/Treaties/CERD/Shared%20Documents/SVN/INT_CERD_FUL_SVN_157
+   06_E.pdf.
+34
+   CCPR/CO/84/SVN, para. 19.
+35
+   CEDAW/C/SVN/CO/4, para. 43.
+36
+   CEDAW/C/SVN/CO/4/Add.1.
+37
+   Letter from CEDAW to the Permanent Mission of Slovenia to the United Nations Office and other
+   international organizations in Geneva, dated 8 February 2011, available from
+   http://tbinternet.ohchr.org/Treaties/CEDAW/Shared%20Documents/SVN/INT_CEDAW_FUL_SVN
+   _11944_E.pdf.
+38
+   CAT/C/SVN/CO/3, para. 25.
+39
+   CAT/C/SVN/CO/3/Add.1.
+40
+   For the titles of special procedures, see www.ohchr.org/EN/HRBodies/SP/Pages/Themes.aspx and
+   www.ohchr.org/EN/HRBodies/SP/Pages/Countries.aspx.
+41
+   OHCHR Report 2009, p. 214, OHCHR Report 2011, p. 177, OHCHR Report 2013, p. 184.
+42
+   CERD/C/SVN/CO/6-7, para. 14.
+43
+   CAT/C/SVN/CO/3, para. 20(d) and 21.
+44
+   CERD/C/SVN/CO/6-7, para. 8. See also CAT/C/SVN/CO/3, paras. 18 and 21; and
+   CRC/C/SVN/CO/3-4, paras. 25(a) and (b).
+45
+   Ibid., para. 24.
+46
+   Ibid., para. 25(c).
+47
+   A/HRC/18/33/Add.2, para. 58(c).
+48
+   CRC/C/SVN/CO/3-4, para. 34. See also CAT/C/SVN/CO/3, para. 18; and CERD/C/SVN/CO/6-7,
+   para. 13.
+49
+   CAT/C/SVN/CO/3, para. 18.
+50
+   CERD/C/SVN/CO/6-7, para. 13. See also A/HRC/18/33/Add.2, para. 24.
+51
+   CERD/C/SVN/CO/6-7, para. 13(b). See also A/HRC/18/33/Add.2, para. 24.
+52
+   CRC/C/SVN/CO/3-4, para. 3(e). See also CAT/C/SVN/CO/3, para. 18; CERD/C/SVN/CO/6-7, para.
+   13; and CERD/C/SVN/CO/6-7/Add.1, para. 22.
+53
+   CAT/C/SVN/CO/3, para. 18. See also CRC/C/SVN/CO/3-4, paras. 34 (b) and (c).
+54
+   Ibid., paras. 34(a) (b) (c) and (d).
+55
+   Ibid., para. 36 (a) and (b). See also CAT/C/SVN/CO/3, para. 18; and CERD/C/SVN/CO/6-7, para. 13
+   (a).
+56
+   CAT/C/SVN/CO/3, para. 18. See also CRC/C/SVN/CO/3-4, para. 36 (b); and CERD/C/SVN/CO/6-7,
+   para. 13(a).
+57
+   Ibid., para. 13(d). See also CRC/C/SVN/CO/3-4, para. 34(a)(b)(c) and (d).
+58
+   CERD/C/SVN/CO/6-7/Add.1, para. 26.
+59
+   CRC/C/SVN/CO/3-4, paras. 26-27.
+60
+   CAT/C/SVN/CO/3, para.12.
+61
+   Ibid., paras. 8 and 9.
+62
+   Ibid., para. 19.
+63
+   Ibid., para. 7.
+64
+   CAT/C/SVN/CO/3/Add.1, para. 5.
+65
+   CAT/C/SVN/CO/3, para. 13.
+66
+   Ibid., para. 14.
+67
+   Ibid., para. 15.
+68
+   CRC/C/SVN/CO/3-4, para. 39(a).
+69
+   Ibid., para. 41.
+70
+   Ibid., para. 42(a).
+71
+   Ibid., para. 45(a) and (c).
+72
+   Ibid., para. 42(d).
+73
+   Ibid., para. 40(a), (b) and (c).
+74
+   Ibid., para. 41.
+75
+   Ibid., para. 37. See also: CAT/C/SVN/CO/3, para. 15.
+76
+   CRC/C/SVN/CO/3-4, para. 38. See also CAT/C/SVN/CO/3, para. 15; and CRC/C/SVN/CO/3-4,
+   para. 37.
+77
+   CAT/C/SVN/CO/3, para. 16.
+
+
+
+                                                                                                         13
+A/HRC/WG.6/20/SVN/2
+
+
+
+         78
+            CRC/C/SVN/CO/3-4, para. 71.
+         79
+            CAT/C/SVN/CO/3, para. 16. See also CRC/C/SVN/CO/3-4, paras. 71-72 (b) (c) and (d).
+         80
+            Ibid., para. 5. See also CAT/C/SVN/CO/3, para. 6 (c); and CERD/C/SVN/CO/6-7, para. 5(d).
+         81
+            CRC/C/SVN/CO/3-4, para. 72(a), (b) and (d).
+         82
+            Ibid., paras. 73 and 74(a).
+         83
+            Ibid., paras. 69 and 70(b) and (c).
+         84
+            Ibid., para. 74(d).
+         85
+            Ibid., paras. 41, 42(c) and 43.
+         86
+            Ibid., paras. 44(b) (c) and (e), and 74 (c).
+         87
+            Ibid., para. 74(b).
+         88
+            CAT/C/SVN/CO/3para. 10.
+         89
+            CRC/C/SVN/CO/3-4, paras. 77-78.
+         90
+            UNESCO, para. 37.
+         91
+            Ibid., para. 38.
+         92
+            CERD/C/SVN/CO/6-7, para. 12.
+         93
+            Letter from CEDAW to the Permanent Mission of Slovenia to the United Nations Office and other
+            international organizations in Geneva, dated 8 February 2011, p. 2(d) available from
+            http://tbinternet.ohchr.org/Treaties/CEDAW/Shared%20Documents/SVN/INT_CEDAW_FUL_SVN
+            _11944_E.pdf.
+         94
+            Observation (CEACR) - adopted 2010, published 100th ILC session (2011), Right to Organise and
+            Collective Bargaining Convention, 1949 (No. 98), Observation on Article 1.
+         95
+            Right to Organise and Collective Bargaining Convention, 1949 (No. 98), Observation (CEACR) -
+            adopted 2012, published 102nd ILC session (2013).Observation on Articles 2 and 3.
+         96
+            Observation (CEACR) - adopted 2012, published 102nd ILC session (2013), Migrant Workers
+            (Supplementary Provisions) Convention, 1975 (No. 143) - Slovenia (Ratification: 1992) Articles 10,
+            12 (e) and 14 (a). Free choice of employment.
+         97
+            Observation (CEACR) - adopted 2012, published 102nd ILC session (2013), Migration for
+            Employment Convention (Revised), 1949 (No. 97) - Slovenia (Ratification: 1992) Article (6) (1)
+            (a) (i) of the Convention. Equality of treatment with respect to conditions of work.
+         98
+            A/HRC/18/33/Add.2, para. 58 (l).
+         99
+            CRC/C/SVN/CO/3-4, paras. 58 (a)-59 (a).
+        100
+            A/HRC/18/33/Add.2, para. 58 (a).
+        101
+            A/HRC/18/33/Add.2, paras. 57 and 58(b), (m) and (k).
+        102
+            CERD/C/SVN/CO/6-7, para. 10. See also CRC/C/SVN/CO/3-4, paras. 24 (b) and 58 (b).
+        103
+            Ibid., paras. 52-53.
+        104
+            Ibid., paras. 54-55.
+        105
+            Ibid., paras. 60-61 (a) and (b).
+        106
+            UNESCO, paras. 35 and 36.
+        107
+            CRC/C/SVN/CO/3-4, paras. 24 (c) and 60 (a).
+        108
+            CERD/C/SVN/CO/6-7, para. 9.
+        109
+            CRC/C/SVN/CO/3-4, para. 61 (c).
+        110
+            Ibid., paras. 50 and 51.
+        111
+            CERD/C/SVN/CO/6-7, para. 11.
+        112
+            CRC/C/SVN/CO/3-4, para. 68.
+        113
+            A/HRC/18/33/Add.2, para. 58 (h).
+        114
+            Ibid., para. 58 (e).
+        115
+            Ibid., para. 58 (f).
+        116
+            CAT/C/SVN/CO/3, para. 17.
+        117
+            CAT/C/SVN/CO/3/Add.1, paras. 7, 9 and 17. See also CRC/C/SVN/CO/3-4, paras. 3(a) and 3 (d).
+        118
+            Ibid., paras. 64 and 65 (c).
+        119
+            Ibid., para. 65 (b)
+        120
+            Ibid., paras. 67 (a) and (c) and 76.
+        121
+            Ibid., para. 76.
+
+
+
+
+14
+

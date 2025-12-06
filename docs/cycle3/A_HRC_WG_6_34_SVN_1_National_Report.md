@@ -1,0 +1,1178 @@
+# A/HRC/WG.6/34/SVN/1 - National Report: Slovenia (3rd Cycle)
+
+**Document:** A/HRC/WG.6/34/SVN/1
+**Session:** 34th UPR Working Group
+**Date:** 2019
+**Source:** Government of Slovenia
+
+---
+
+## Full Document Text
+
+
+             United Nations                                                                         A/HRC/WG.6/34/SVN/1
+             General Assembly                                                              Distr.: General
+                                                                                           6 August 2019
+
+                                                                                           Original: English
+
+
+
+
+Human Rights Council
+Working Group on the Universal Periodic Review
+Thirty-fourth session
+4–15 November 2019
+
+
+            National report submitted in accordance with paragraph 5 of
+            the annex to Human Rights Council resolution 16/21*
+
+            Slovenia
+
+
+
+
+         * The present document has been reproduced as received. Its content does not imply the expression of
+            any opinion whatsoever on the part of the Secretariat of the United Nations.
+
+
+GE.19-13424(E)
+
+
+A/HRC/WG.6/34/SVN/1
+
+
+
+      I. Introduction
+           1.     In June 2017, the Republic of Slovenia (hereinafter Slovenia) submitted to the
+           Office of the UN High Commissioner for Human Rights the Voluntary UPR Mid-term
+           Report of the Government of the Republic of Slovenia on the Implementation of the
+           Recommendations Accepted during the Second Cycle of the Universal Periodic Review.
+           Both the Inter-Ministerial Commission on Human Rights and non-governmental
+           organisations (NGOs) have been regularly informed about the implementation.
+           2.     Slovenia’s preparations for the third cycle of the Universal Periodic Review (UPR)
+           were launched in autumn 2018. The Third National Report was coordinated by the Ministry
+           of Foreign Affairs of the Republic of Slovenia and prepared in cooperation with the
+           competent ministries and government offices. The draft Report was endorsed by the Inter-
+           Ministerial Commission on Human Rights, and the Report was adopted by the Government
+           of the Republic of Slovenia (hereinafter “the Government”) on 20 June 2019.
+           3.   During the drafting of the Report, NGOs, the Human Rights Ombudsman and the
+           Advocate of the Principle of Equality were consulted, and they were informed about the
+           UPR Review Process and Slovenia’s preparations for the national review.
+
+
+     II. Implementation of recommendations from the previous
+         cycles
+           4.     This section presents information on the implementation of the recommendations
+           accepted by the Government, which are numbered as in paragraph 115 of the Report of the
+           Working Group on the Universal Periodic Review of Slovenia (document No.
+           A/HRC/28/15).
+
+
+      A.   International obligations
+
+           Recommendations 1–5, 14–16, 18, 43, 133
+           5.    After the second cycle, Slovenia ratified the Council of Europe Convention on
+           Preventing and Combating Violence against Women and Domestic Violence (19 December
+           2014) and the Optional Protocol to the Convention on the Rights of the Child on a
+           communications procedure (20 March 2018).
+           6.     The analysis and evaluation of the possible effects of the ratification of the
+           International Convention for the Protection of All Persons from Enforced Disappearance
+           are being conducted by the competent ministry (i.e. the Ministry of Justice). Preliminary
+           analysis shows that amendments to the substantive and procedural provisions of Slovenian
+           criminal legislation would probably be necessary for the ratification of the Convention.
+           7.     The protective provisions of ILO Convention No. 189 Concerning Decent Work for
+           Domestic Workers have been implemented in national legislation. Domestic workers are
+           treated equally as other workers. The relevant constitutional provisions, the labour law (the
+           Employment Relationships Act), the legislation on safety and health at work, social
+           security, the Minimum Wage Act, and other regulations apply to all workers.
+           8.   The ratification process for the Optional Protocol to the International Covenant on
+           Economic, Social and Cultural Rights and the amendments to Article 8 of the International
+           Convention on the Elimination of all Forms of Racial Discrimination is under way.
+           9.     Slovenia strives to regularly meet its reporting obligations to treaty bodies. Slovenia
+           submitted its Third Periodic Report to the UN Human Rights Committee on 6 July 2014,
+           and presented it on 15 and 16 March 2016, thus implementing recommendation 43.
+
+
+
+
+2
+                                                                                        A/HRC/WG.6/34/SVN/1
+
+
+B.   Institutional framework of human rights protection
+
+     Recommendations 22, 31–39
+     10.    Slovenia fulfilled its obligation of establishing a national human rights institution
+     under Group A of the Paris Principles at the legislative level. The National Assembly of
+     the Republic of Slovenia adopted the Act Amending the Human Rights Ombudsman Act,
+     which entered into force on 14 October 2017, providing a legal basis for broadening the
+     powers of the institute of the Human Rights Ombudsman so as to enable the Ombudsman
+     to implement all international principles and to obtain status A in accordance with the 1993
+     Paris Principles relating to the status of national human rights institutions. The Human
+     Rights Ombudsman has already applied for status A.
+     11.     The Act Amending the Human Rights Ombudsman Act stipulates additional
+     systemic tasks of the Ombudsman and provides funding for their implementation.
+     Additional seven people are planned to be employed in the Office of the Ombudsman by
+     2020. Furthermore, the Council of Human Rights and the Centre for Human Rights was
+     established. Since 2018, the Office of the Ombudsman also has children’s rights advocates.1
+     12.    In October 2016, the Advocate of the Principle of Equality, i.e. the national body
+     for equality, was established under the Protection against Discrimination Act. 2 The
+     Advocate addresses discrimination against persons based on their personal circumstances in
+     all spheres of social life. The Advocate implements its tasks and powers under the
+     Protection against Discrimination Act both at the systemic and individual levels. 3 In 2019
+     the Advocate received sufficient funds to enable its capacity-building for the
+     implementation of the wide range of its statutory tasks and powers.
+
+
+C.   Non-discrimination
+
+     Recommendations 44–58, 62, 63, 65, 66, 68, 69, 74, 76, 78–81, 85, 90, 92, 93, 98
+     13.    In Slovenia protection against discrimination is enshrined in the Constitution and
+     the Protection against Discrimination Act. 4 The Government strives to carry out measures
+     to eliminate discrimination and to raise awareness.
+     14.    By establishing the Advocate of the Principle of Equality as the national body for
+     equality, and by fulfilling the basic conditions for its work, Slovenia has made important
+     steps towards protection against discrimination and the promotion of equality. In the 2017
+     and 2018 annual reports, the Advocate drew attention to the key challenges concerning
+     non-discrimination. In 2017, the Advocate conducted the first comprehensive research on
+     the perception of discrimination by the Slovenian public. Since 2019, the Advocate has
+     visited the Slovenian regions to talk to the relevant stakeholders, thus indirectly raising
+     public awareness of non-discrimination nationwide. In 2018, the Advocate addressed 223
+     cases (130 cases from past years and 93 new ones), with 149 cases concluded and 74 cases
+     deferred to 2019. In 2018, the Ministry of Labour, Family, Social Affairs and Equal
+     Opportunities published a public call for proposals for awareness-raising and NGO
+     training concerning the importance of and strengthening equality, the understanding and
+     prevention of discrimination, and options for protection against discrimination for the most
+     exposed groups in Slovenia. Since February 2019, Slovenia has been implementing a
+     project of raising awareness of discrimination and a project concerning discrimination
+     against people with disabilities.
+     15.    Hate speech is criminalised in Slovenia in the framework of Article 297 of the
+     Criminal Code of the Republic of Slovenia. 5 Slovenia dedicates special attention to public
+     awareness-raising and responding to intolerance. 6 The Constitution of the Republic of
+     Slovenia guarantees freedom of expression. The Government strives for zero tolerance of
+     hate speech and demands from the national authorities to strictly respect the Constitution
+     and the law.
+     16.    In 2016, Slovenia adopted the Civil Union Act, granting equal status as marriage to
+     the civil union of heterosexual couples and of same-sex couples, except in the part relating
+     to medically assisted procreation and the joint adoption of children.
+
+
+                                                                                                          3
+A/HRC/WG.6/34/SVN/1
+
+
+           17.    Measures to eliminate discrimination against members of certain groups are
+           presented in sections II.F–II.K.
+
+
+      D.   Political and civil rights
+
+           Recommendations 64, 73, 97, 103, 128–130, 134, 149
+           18.     Political and civil rights are enshrined in the Constitution of the Republic of
+           Slovenia and further governed by the relevant legislation. Slovenia strives to implement the
+           political and civil rights of the people living in Slovenia through legislation and other
+           measures.
+           19.     Slovenia ensures protection against any interference with the work,
+           establishment and leadership of trade unions, and punishes any such interference.
+           Slovenia's regulation is based on relevant treaties' provisions governing trade unions and
+           protected by the Constitution. 7 Furthermore, the establishment and work of trade unions is
+           regulated under the Representativeness of Trade Unions Act. The concrete powers of trade
+           unions and the work and protection of trade union representatives are defined in the
+           Employment Relationships Act. The two acts also provide for judicial protection.
+           Collective labour disputes concerning trade union powers with regard to employment
+           relationships fall within the jurisdiction of the Labour Court. The Labour Court also has
+           jurisdiction over interference with trade union autonomy, with workers’ right to join trade
+           unions and with the powers of trade unions regarding their members. Violation of trade
+           union rights is a criminal offence against employment and social security in accordance
+           with Article 200 of the Criminal Code of the Republic of Slovenia.
+           20.    Slovenia ensures freedom of religion in accordance with treaties, the Constitution,
+           and the Freedom of Religion Act. 8 In 2015, Slovenia established the Council for Dialogue
+           on Freedom of Religion, operating within the Ministry of Culture’s Office for Religious
+           Communities. The Council enables open and transparent dialogue at the institutional level
+           between the highest executive authority and religious communities concerning freedom of
+           religion.
+           21.    Trial without undue delay is generally respected and is no longer a systemic issue
+           in Slovenia.9 In 2015, the Judicial Council and the State Prosecutors’ Council adopted their
+           respective codes of ethics and established ethics and integrity commissions. 10
+           22.  Measures to ensure respect for, and the exercise of, political and civil rights of
+           members of certain groups are presented in sections II.F–II.K.
+
+
+      E.   Economic, social and cultural rights
+
+           Recommendations 24, 25, 29, 30, 57, 67, 72, 75, 79, 81, 101, 135–143, 149
+           23.    Slovenia endeavours to ensure respect for, and the exercise of, all economic, social
+           and cultural rights nationwide.
+           24.     Since the last UPR cycle in 2014, Slovenia has adopted several measures to reduce
+           the level of poverty and social exclusion,11 and has abolished the austerity measures
+           adopted during the economic crisis. Slovenia also adopted measures to ensure greater social
+           inclusion of the most vulnerable groups. Since 2014, Slovenia has recorded an annual
+           decrease in the risk of poverty and social exclusion. The statistical data for 2017 show that
+           the at-risk-of-poverty rate was at 13.3%.12
+           25.    In 2018, Slovenia increased the basic amount of the minimum wage and the
+           number of people eligible for the two social transfers. The 2018 Act amending the
+           Minimum Wage Act stipulates a gradual increase in the minimum wage as of 1 January
+           2019. Slovenia expects that this measure will have a positive effect on the reduction of
+           poverty and raise the disposable income.
+
+
+
+
+4
+                                                                                      A/HRC/WG.6/34/SVN/1
+
+
+26.    Since 2014, Slovenia has implemented the Youth Guarantee Scheme, which
+includes measures facilitating the labour market integration of young people. Youth
+unemployment in Slovenia has been gradually decreasing since April 2015.
+27.      Slovenia also strives to improve the situation of older persons, since a high poverty
+rate is recorded in particular among the elderly living alone. Since 2016, pension indexation
+has no longer been subject to austerity measures. In 2018, Slovenian pensions were indexed
+twice, i.e. first regularly in January pursuant to the systemic law and then additionally in
+April. The systemic law also defines the minimum pension at full retirement age. It is
+planned that in 2019, the regular pension indexation in February, which resulted in a 2.7%
+increase in pensions, will be followed by an additional indexation based on the economic
+growth in 2018. Furthermore, in 2017 and 2018, all retired persons received the annual
+bonus. In 2019, retired persons will receive the annual bonus in five different amounts,
+which will be higher than the previous years.
+28.    As of February 2017, the Act Amending the Social Assistance Benefits Act
+abolished notices in the land register and the obligation of returning the guaranteed income
+pension supplement or financial social assistance for cases where the recipient or his/her
+family member owns an apartment or a house worth up to EUR 120,000. This amendment
+increased the number of persons eligible for the guaranteed income pension supplement by
+more than 6,000. The highest increases in the number of eligible persons have been
+recorded in older age groups, i.e. the age group 66–79 (a 60% increase) and the oldest age
+group – above 79 (a 77% increase).
+29.    Slovenia continues to improve access to health care for the entire population. In
+2018, Slovenia adopted the Resolution on the National Mental Health Programme
+2018−2028, dedicating special attention to the issue of suicide.13 Slovenia is also planning
+to amend the Mental Health Act. On 19 February 2019, after years of work to this end, a
+secure ward for intensive psychiatric treatment of children and youth was opened within the
+Ljubljana University Psychiatric Clinic to meet the national needs.
+30.     In the period after the second UPR cycle, Slovenia has strengthened its legal
+protection against eviction and the loss of housing.14 In accordance with the 2018 Act
+Amending the Claim Enforcement and Security Act, in the case of enforcement of low-
+amount claims on real estate in which the debtor lives, the court notifies the competent
+social work centre which then provides social security services to address social distress
+and difficulties. In addition, in these cases the court examines ex officio whether the debtor
+owns other property on which the enforcement could be imposed, thus ensuring more
+proportional measure to the value of the debt. Pursuant to the amendments, the court may
+decide ex officio or at the proposal of the social work centre to further stay the enforcement
+if an immediate enforcement would seriously jeopardize debtor’s housing situation.
+31.    Housing tenancy is regulated under the Housing Act, which stipulates the at-fault
+grounds for terminating a housing tenancy agreement. A tenancy agreement may not be
+terminated by filing a lawsuit if the landlord has not first notified the tenant in writing that
+he or she is violating the tenancy agreement.
+32.     Everyone in Slovenia is entitled access to drinking water under equal
+conditions.15 The constitutional act enshrining the right to drinking water in the
+Constitution entered into force on 25 November 2016. An inter-ministerial working group,
+composed of representatives of the competent ministries and government offices, was
+established to harmonise Slovenian legislation with the right to drinking water as
+stipulated in the Constitution. No later than by 31 December 2019, the working group
+will examine the grounds for amendments to the legislation regulating matters referred to in
+the new article 70a of the Constitution, prepare guidelines for draft amendments to
+regulations, assist ministries in preparing the amendments and monitor their adoption.
+33.    In the context of the right to education, Slovenia dedicates considerable attention to
+human rights education and training. 16 Police officers, early childhood educators, primary
+and secondary school teachers, university staff, and judicial officials participate in regular
+training programmes to gain teaching competencies and to develop their expertise. The
+human rights aspect has also been integrated into the traineeship programme, which
+
+
+
+                                                                                                        5
+A/HRC/WG.6/34/SVN/1
+
+
+           includes topics relating to the promotion of democracy among students and respect for
+           diversity and multiculturalism.
+           34.    Slovenia remains active in human rights education and training also at the
+           international level, and continues to implement the Our Rights project. In the 2017–2019
+           period, this project involved children from Morocco, Kosovo, Egypt, Palestine and
+           Slovenia, and it was also presented in Australia.
+           35.     Measures to ensure respect for, and the exercise of, economic, social and cultural
+           rights of members of particular groups are presented in sections II.F–II.K.
+
+
+      F.   The national communities and the Roma community
+
+           Recommendations 25, 62, 63, 69, 72–74, 78–91, 102, 139, 150–155, 158–160, 162
+           36.     Slovenia continues to improve the situation of Roma in the country. 17 The National
+           Programme of Measures for Roma for the Period 2017–2021, adopted in May 2017,
+           includes comprehensive measures to prevent discrimination against Roma and to improve
+           their situation and social integration. The two key objectives of the Programme are to
+           improve the situation of Roma community members and to promote their social integration.
+           The Programme includes eight strategic objectives: (1) to improve the educational structure
+           of Roma community members; (2) to reduce Roma unemployment rates; (3) to prevent or
+           to eliminate the exclusion of Roma; (4) to improve healthcare services for Roma; (5) to
+           improve their housing conditions; (6) to promote the maintenance and development of the
+           cultural, informational and publishing activities of the Roma community; (7) to raise
+           awareness among Roma community members and the majority population of the positive
+           effects of social inclusion of Roma in society; (8) and to strengthen dialogue and
+           cooperation with the local communities in which Roma live.
+           37.    The implementation of the Programme is monitored by the Government
+           Commission for the Protection of the Roma Community. The Government regularly reports
+           to the National Assembly of the Republic of Slovenia about the implementation of the
+           Roma Community in the Republic of Slovenia Act and the Programme. The Government
+           adopted the latest report, i.e. the Fifth Report on the Situation of the Roma Community in
+           Slovenia on 18 July 2018. The Report was examined by the competent working body of the
+           National Assembly on 27 September 2018, and discussed at the National Assembly plenary
+           session on 28 November 2018.
+           38.    The National Programme of Measures for Roma for the Period 2017–2021 includes
+           measures to raise awareness of, and to fight against, discrimination, i.e. measures to
+           strengthen and empower the Roma community and measures to break prejudice and
+           stereotypes about Roma among the majority population. Special attention is dedicated to
+           training and education programmes for public employees who in their professional capacity
+           deal with members of the Roma community.18
+           39.    With a view to strengthen the active engagement of Roma community
+           organisations and their cooperation in the implementation of measures in the National
+           Programme of Measures for Roma for the Period 2017–2021, the Office for National
+           Minorities financially supports the Roma Community Council of the Republic of Slovenia,
+           which was established under the Roma Community in the Republic of Slovenia Act to
+           represent the interests of the Roma community at the level of national authorities. The
+           Office also provides funding for the activities of other Roma community organisations
+           through public calls for applications. 19
+           40.    In May 2017, the Government established the Inter-ministerial Working Group for
+           the Preparation of Amendments to the Roma Community in the Republic of Slovenia
+           Act with a task to draft amendments, which were then harmonised with the Roma
+           community. The amendments were discussed and supported by the Roma Community
+           Council and the Government Commission for the Protection of the Roma Community. In
+           March 2018, the amendments were adopted by the Government and submitted for
+           consideration to the National Assembly. In the legislative term 2014–2018, the National
+
+
+
+6
+                                                                                     A/HRC/WG.6/34/SVN/1
+
+
+Assembly did not discuss the amendments. New amendments to the Roma Community in
+the Republic of Slovenia Act will be prepared again.
+41.     Roma are a priority group for active employment policy measures, which include
+workshops aimed at competence-building and improving employment opportunities. A
+project of seven multi-purpose Roma centres is under way to offer activities for improving
+the socio-economic situation of Roma community members (knowledge acquisition and
+competence-building to enable them to be successful in the labour market), increasing their
+quality of life, promoting and enhancing their integration into the broader community, and
+establishing trust and cooperation with the majority population.
+42.     In June 2018, a new spatial planning and construction legislation entered into force,
+this consisting of three acts aimed at improving spatial planning and comprehensive siting
+of buildings and facilitating the legalisation of buildings constructed without the necessary
+permits. The solutions provided in the legislation primarily concern two categories of
+buildings: those existing for a long period (20 years or more) and some illegal buildings
+where special circumstances (including social) need to be taken into account. This approach
+will also be used for legalisation of buildings in settlements where vulnerable social groups
+such as Roma live.
+43.    The introduction of Roma assistants has greatly facilitated the integration of Roma
+children into the educational system. 20 At present, 28 Roma assistants are available in 33
+preschools and primary and secondary schools.
+44.    With regard to the Italian and Hungarian national communities, the Government
+adopted the 2015, 2016 and 2017 reports on the implementation of the Programme of
+Measures for the Implementation of Regulations on Bilingualism for the 2015–2018 Period;
+these were discussed by the National Assembly Commission for National Communities.
+The national communities have observed progress with the implementation of the
+measures.
+45.    In September 2018, the Act Amending the Act Regulating Special Rights of
+Members of the Italian and Hungarian Ethnic Communities in the Field of Education
+entered into force: this (1) broadens the right to use national community languages, i.e. to
+short-cycle higher education and the education of children, minors and younger adults with
+special needs; (2) broadens the right to free learning of the mother tongue for members of
+the two national communities; (3) provides for bilingual questions for the pupils and
+students of bilingual schools at knowledge competitions (except at Slovene and Hungarian
+language competitions) which receive public funding; (4) amends decision-making by the
+councils of bilingual educational institutions; (5) stipulates that the self-governing national
+communities must submit their opinion on the proposals of annual work plans of
+educational institutions and may also propose above-standard programmes; and (6) amends
+conditions concerning the knowledge of the learning language and passing of the certified
+examination.
+46.    On the basis of the Action Plan for Language Education 2014-2018, the Action Plan
+on Language Reference Tools 2014-2018 and the Resolution on the National Programme
+for Language Policy for the 2014–2018 Period, the Inter-Ministerial Working Group for
+Monitoring the Implementation of the Language Policy prepares annual reports on the
+implementation of the Resolution and the action plans, past activities, co-financed projects,
+programmes, studies, etc. These include activities promoting the use of the Italian and
+Hungarian languages in the public sector in education, culture, the media (radio and TV
+programmes), public information activities (e.g. the website Jezikovna Slovenija),
+healthcare, and other public services (formal procedures and form sheets). In this light,
+Slovenia strives to promote co-existence and cultural exchange, to improve the language
+competence of all speakers, and to raise awareness of the importance of the use of the
+Italian and Hungarian languages in the entire Slovenian territory, including outside
+bilingual areas.21
+
+
+
+
+                                                                                                       7
+A/HRC/WG.6/34/SVN/1
+
+
+      G.   Foreigners
+
+           Recommendations 55, 74
+           47.     In accordance with the Foreigners Act, third-country nationals are entitled to
+           participate in programmes facilitating their inclusion in cultural, economic and social life in
+           Slovenia. The manner and scope of programmes are determined in the Decree on the means
+           and scope of providing programmes of support for integrating third-country nationals.
+           48.    The State provides funds for both Slovene language courses and mother tongue
+           courses for immigrant students within regular primary and secondary education.
+           49.    The latest amended acts governing secondary education (the Vocational Education
+           Act and the Grammar School Act), which entered into force in 2017, provide for the
+           possibility of learning Slovene for students whose mother tongue is not Slovene or who
+           completed primary education in countries other than Slovenia. Schools enrolling immigrant
+           students in the first and second years of education are granted a certain number of
+           additional hours of professional help for students learning Slovene.
+           50.    Between 2016 and 2018, a special manual for health professionals was compiled
+           in order to facilitate communication between migrants and medical personnel in primary
+           health care. In 2017 and 2018, inter-cultural dialogue projects were launched in three
+           Slovenian towns with the aim of activating local communities in order to facilitate the
+           integration of third-country nationals into local communities. The project is to conclude at
+           the end of 2019. In the framework of the programme entitled “Initial Integration of
+           Immigrants”, free-of-charge courses are available throughout Slovenia; these combine
+           Slovene language acquisition with learning about Slovenian history, culture and
+           constitutional arrangements.
+
+
+      H.   Erased persons
+
+           Recommendations 66, 95–97, 99, 100, 149, 161
+           51.     To regulate the status of persons erased from the Register of Permanent Residents
+           (the so-called “erased”), Slovenia adopted a series of measures. 22 In 2010, it adopted the
+           Act Amending the Act Regulating the Legal Status of Citizens of Former Yugoslavia
+           Living in the Republic of Slovenia. In 2013, to regulate the right to compensation of the
+           “erased”, Slovenia adopted the Act Regulating the Compensation for Damage Sustained as
+           a Result of Erasure from the Register of Permanent Residents (hereinafter: Compensation
+           Act), which provides for the right to financial compensation and to other forms of just
+           satisfaction as redress for the damage sustained. Other forms of just satisfaction ensure or
+           facilitate the exercise of rights in various areas, such as payment of contributions for
+           compulsory health insurance; inclusion and priority consideration in social protection
+           programmes; facilitation of exercising the rights from public funds; state scholarships;
+           equality of treatment with Slovenian citizens in resolving housing problems; access to the
+           education system; and priority treatment in the so-called integration programmes.
+           52.     The purpose of the Compensation Act is to ensure that eligible claimants obtain just
+           satisfaction in an expedited and efficient way. The Compensation Act stipulates that
+           eligible claimants may request financial compensation in an administrative procedure and
+           also provides for other forms of just satisfaction. Claimants deeming that they have
+           sustained greater damage may seek financial compensation in judicial proceedings. It is up
+           to each claimant to decide whether they will exercise their right to financial compensation
+           in administrative or judicial proceedings.
+           53.    In 2018, the Constitutional Court23 ruled as unconstitutional Article 12 of the
+           Compensation Act, which limited the amount of financial compensation that could be
+           awarded to a claimant in judicial proceedings. To implement the Constitutional Court
+           decision, the Act Amending the Act Regulating the Compensation for Damage Sustained as
+           a Result of Erasure from the Register of Permanent Residents (hereinafter: Amending Act)
+           was adopted; it entered into force on 30 December 2018. The Amending Act abolishes the
+
+
+
+8
+                                                                                          A/HRC/WG.6/34/SVN/1
+
+
+     limitation of the financial compensation in judicial proceedings and provides for interest on
+     arrears to be awarded to claimants in judicial proceedings.
+     54.     The amended regulation applies to injured parties who filed their compensation
+     claims after the date of application of the Compensation Act (after 18 June 2014) or prior to
+     the date of application of the Compensation Act (before 18 June 2014) whose claims would
+     be subject to the statute of limitation according to the previous arrangement. With regard to
+     injured parties who had filed compensation claims prior to the date of application of the
+     Compensation Act and whose claims, when filed, were not subject to the statute of
+     limitations, the Constitutional Court Decision of 15 March 2018 repealed Article 12 of the
+     Compensation Act with immediate effect. The Constitutional Court ruled that limiting the
+     amount of financial compensation in judicial proceedings was unconstitutional and that
+     claimants were entitled to full compensation regarding damage to property and to just
+     financial compensation for non-property damage sustained.
+
+
+I.   Persons with disabilities
+
+     Recommendations 145–148
+     55.    Slovenia remains committed to respect and implement the human rights of persons
+     with disabilities.24 A major step forward was the adoption of the Personal Assistance Act,
+     enabling the employment of personal assistants. An act that will provide for an institution
+     for protecting the rights of persons with disabilities is in the process of harmonisation.
+     56.    As part of the cohesion policy for the 2018–2022 period, a call for proposals has
+     been issued inviting NGOs to participate in the project related to equal opportunities for
+     and non-discrimination of persons with disabilities. In order to make legislation related
+     to people with disabilities more easily accessible, it is being translated into easily readable
+     forms. The project also involves training courses delivered by experts specialising in
+     accessibility of the built environment and information and communications technology
+     (ICT).
+     57.     Slovenia has in place an active policy of employing persons with disabilities, and
+     invites projects that provide employers with access to training for employing persons with
+     disabilities. The project entitled “Transition of Youth” is under way; the project – through a
+     comprehensive approach and systematically designed content – aims to promote social
+     inclusion of young people with special needs and thus help create a unified support
+     environment to facilitate the transition from school to the labour market.
+     58.   Slovenia continues its efforts to further improve accessibility of the built
+     environment and infrastructure. In the framework of development social assistance
+     programmes, Slovenia co-funds the development programme entitled “Transport of
+     Students with Disabilities”.
+     59.    A new Building Act has been adopted, stipulating mandatory compliance with
+     regulations governing the universal design of all buildings in public use. The Act provides
+     the basis for the Rules on the universal design and usability of the built environment, which
+     provides accessibility and usability of the built environment and consider other standards
+     (SIST ISO 21542:2012).
+     60.     2017 saw the entry into force of the amended National Assembly Elections Act,
+     stipulating that polling stations must be accessible to people with disabilities. The
+     amended act was applied during the elections to the National Assembly and local elections
+     in 2018 and during the European elections in 2019.
+     61.     Special measures are in place to address discrimination against children with
+     special needs. Slovenia encourages NGOs to employ people willing to cooperate with
+     educational institutions in working with children with special needs. Educational
+     institutions continue to employ assistants to work with children with special needs. Other
+     related activities include projects promoting social integration of children and youth with
+     special needs into local environments, building a network of specialised institutions to
+
+
+
+
+                                                                                                            9
+A/HRC/WG.6/34/SVN/1
+
+
+           support children with special needs and their families, and a comprehensive programme for
+           institutionalised children with emotional and behavioural disorders.
+
+
+      J.   Gender equality
+
+           Recommendations 21, 23, 25, 59–61, 104–108, 110, 111
+           62.    Slovenia is committed to women’s empowerment and gender equality both at the
+           national and international levels. Slovenia’s national policy priorities are set in the
+           Resolution on the National Programme for Equal Opportunities for Women and Men
+           2015-2020.25 Measures for the protection of women’s rights are more specifically
+           determined in periodic plans. In 2018, the Government adopted the Report on the
+           Implementation of the Resolution on the National Programme for Equal Opportunities for
+           Women and Men 2015-2020 for 2016 and 2017 and the Periodic Plan for 2018 and 2019.
+           63.    Through regular annual calls for proposals, Slovenia co-funds projects of NGOs
+           related to equality between women and men, with the main focus on awareness raising,
+           prevention of gender-based discrimination and elimination of gender stereotypes,
+           whereby special attention is devoted to vulnerable groups. In 2019, public calls are being
+           issued for the implementation of social security programmes covering the active integration
+           of Roma women and other vulnerable groups of women with the aim of strengthening their
+           integration in the local environment and their prospects on the labour market in order to
+           reduce the risk of poverty. Since 2017, to prevent gender-based discrimination, gender
+           perspective has been included in newly published school textbooks. Where necessary,
+           updates of primary- and secondary-school curricula include changes with regard to gender
+           equality.
+           64.    Slovenia promotes a balanced representation of both genders in leadership
+           positions by carrying out regular activities focused on awareness-raising, provision of
+           information and competence-building. Special attention is devoted to leadership positions
+           in politics (particularly at the local level) and in business. Following the 2018 elections,
+           women’s representation in the National Assembly dropped slightly, as only 24.4% of the
+           elected deputies were female. The 2018 local elections saw an increase in female mayors
+           (up to 10%) and female municipal councillors (up to 33%). Amendments to the Equal
+           Opportunities for Women and Men Act are in preparation; these will legally introduce the
+           principle of a minimum 40% representation of both genders in certain government bodies,
+           self-governing local communities, and public law entities whose representatives are
+           appointed by the Government or self-governing local communities.
+           65.    In Slovenia, the gender gap in average pay is among the lowest in Europe. It has
+           been observed that the elements contributing to lower wages and pensions of women
+           include different behavioural patterns throughout life. In 2019, the Ministry of Labour,
+           Family, Social Affairs and Equal Opportunities launched the project “My work, my
+           pension”, co-funded by the European Union. The purpose of the project is to develop
+           awareness-raising tools in order to enable women and men to take better-informed
+           decisions concerning their employment and vocation throughout their lives.
+           66.    Efforts for preventing violence against women continue.26 A resolution on a
+           national plan for the prevention of family violence and violence against women is in
+           preparation. The resolution will include guidelines for working with sexually abused
+           children. In 2019, Slovenia is preparing the first report on the implementation of the
+           Council of Europe Convention on Preventing and Combating Violence against Women and
+           Domestic Violence.
+           67.     In 2017, as part of the efforts to prevent all forms of violence against women and
+           girls, Slovenia launched the project “Click-off! Stop cyber violence against women and
+           girls”, which is co-funded by the European Commission. The project will end in December
+           2019. It focuses mainly on women and girls aged between 12 and 30, and its aim is to
+           prevent and eliminate gender stereotypes and increase sensitivity and awareness. Part of the
+           project is a targeted media campaign to reach potential victims of cyber violence and
+           harassment, particularly girls and boys aged 12 to 19 and their parents. By raising public
+
+
+10
+                                                                                          A/HRC/WG.6/34/SVN/1
+
+
+     awareness of cyber violence against and harassment of women and girls, the campaign
+     enhances sensitivity towards gender stereotypes and sexism and promotes a different
+     attitude towards preventing cyber violence.
+
+
+K.   Children
+
+     Recommendations 20, 21, 23, 25, 39, 40, 42, 68, 91, 93, 104, 105, 109–118, 130, 131
+     68.    The legislative framework for the protection of the rights of the child is ensured by
+     the Family Code, adopted in 2017, which provides for the highest level of protective
+     measures.27 Between 2006 and 2016, concrete measures for the protection and
+     development of children and youth were specified in the Programme for Children and
+     Youth (2006–2016). A new programme for children for the 2019–2024 period is in
+     preparation; this will put special emphasis on preventing violence against and protection of
+     children, their participation in procedures that concern them, security in digital
+     environment, children-friendly justice, and equal opportunities for all children. The
+     document will be based on the recommendations contained in the Council of Europe
+     Strategy for the Rights of the Child 2016–2021 and will take into account the needs and
+     quality of the lives of children in Slovenia. A separate programme document was adopted
+     for youth, i.e. the Resolution on the National Programme for Youth for 2013–2022. The
+     amended Family Violence Prevention Act adopted in 2016 enacted the explicit prohibition
+     of corporal punishment and degrading treatment of children. 28
+     69.    In the 2018–2020 period, Slovenia is co-funding 11 family centres which provide
+     training and practical workshops on positive parenting aimed at strengthening parenting
+     competences as one of mandatory courses. The purpose of the training is to foster positive
+     changes in family upbringing patterns.
+     70.    Slovenia also co-funds 15 psychosocial assistance programmes for children, youth
+     and families aiming to teach effective communication, improve relations and positive
+     attachment in the family, improve the social competences of children and youth, improve
+     emotion management, help build a positive self-image, boost preventive problem-solving,
+     including behavioural and emotional problems, provide homework and study help, reduce
+     emotional distress, etc.
+     71.     In addition, Slovenia funds 15 multi-generational centres equally distributed over the
+     territory of Slovenia, which implement five-year preventive programmes focusing on the
+     social inclusion of vulnerable social groups and prevention of social exclusion. The centres
+     also provide training and workshops for the development of parenting competences.
+     72.    In order to protect children from violence, the Organisation and Financing of
+     Education Act was amended to more clearly define safe and stimulating learning
+     environment where corporal punishment of children as well as any other form of violence
+     against and among children and unequal treatment based on their personal circumstances
+     are prohibited.
+     73.     Activities are also under way to prevent peer violence29 among young people and
+     violence against teachers. In 2017, regional consultations on violence were organised, and
+     violence against teachers was included in the Teaching and Learning International Survey
+     (TALIS). In September 2018, the Police and the Ministry of Education, Science and Sport
+     launched a two-year project entitled “Peer Violence: Reducing Violence among Youth” to
+     help reduce peer violence and violence against teachers. Another important objective of the
+     project is to support Slovenian institutions in the implementation of the national strategic
+     plan for the prevention of violence against children, violence among minors and violence
+     against teachers in the education process, in the family and in society at large. The
+     legislation on secondary-school education was revised in the second half of 2017, extending
+     the list of the gravest violations that might provide grounds for expulsion of secondary-
+     school students to include endangering their or other people’s life or health that could result
+     in serious bodily or mental harm.
+     74.   As regards safe use of modern information and communication technologies,
+     Slovenia adopted strategic orientations in 2016, striving to ensure education in a safe, open,
+
+
+                                                                                                           11
+A/HRC/WG.6/34/SVN/1
+
+
+           creative and sustainable learning environment supported by innovative uses of ICT. This
+           will enable effective and quality acquisition of knowledge and skills needed for successful
+           integration into society as well as contributing to improved skills and competences of pupils
+           and students. In 2017, the European Digital Competence Framework for Citizens issued by
+           the European Commission was translated into Slovene.
+           75.    Since 2009, digital literacy has been part of the primary- and secondary-school
+           curricula. Teachers, principals and other teaching professionals in educational institutions
+           are provided with regular training in digital competences. Since 2016, groundwork has been
+           in preparation to include IT basics into pre-school curricula and more advanced IT topics in
+           primary- and secondary-school curricula. The content includes safe Internet use and
+           preserving health with the help of ICT.
+           76.   The primary goal of safe mobility in educational institutions is the acquisition of
+           knowledge and skills needed for safe mobility through a combination of activities ranging
+           from health promotion and exercise to ecological and environmental perspectives and social
+           elements, all together resulting in sustainable mobility.
+           77.    A survey conducted by the Social Protection Institute of the Republic of Slovenia
+           has demonstrated that child labour or forced child labour is not a systemic issue in
+           Slovenia. Furthermore, forced labour for survival is practically non-existent, and is
+           noticeable only in the form of excessive care for siblings and domestic overwork,
+           particularly in rural settings, which is most frequently identified by school staff.
+           78.     Criminal legislation in force already contains special provisions for juveniles which
+           are in accordance with international standards. The purpose of a special act on criminal
+           liability of juvenile offenders is to ensure a comprehensive legal basis for dealing with
+           juvenile offenders in criminal proceedings. A special juvenile criminal code is in
+           preparation; The Government is planning to submit the draft act to the National Assembly
+           in 2019. The act will regulate content on juvenile offenders presently regulated by the
+           Criminal Code, the Criminal Procedure Act and the Enforcement of Criminal Sanctions
+           Act. In addition, the act will transpose Directive (EU) 2016/800 on procedural safeguards
+           for children who are suspects or accused persons in criminal proceedings. The act will be
+           based on generally established and internationally recognised principles for juvenile
+           offenders: the principle of non-discrimination; the best interests of the child; the right to
+           life, survival and development; the right to be heard; and respecting dignity. In its basic
+           provisions, the draft act explicitly acknowledges that the principle of the best interests of
+           the child and juvenile (depending on the age definition of offenders in the draft act) must be
+           observed, that proportionality must be applied in all proceedings involving juveniles and
+           that deterring procedures take precedence over criminal prosecution.
+
+
+      L.   Trafficking in human beings
+
+           Recommendations 119–127
+           79.    In 2018, Slovenia strengthened its institutional structure for combating trafficking
+           in human beings.30 On 26 November 2018, the Ministry of the Interior of the Republic of
+           Slovenia established a department for preventing and combating trafficking in human
+           beings, which also includes the National Coordinator for combating trafficking in human
+           beings.
+           80.    In December 2015, the Government adopted a decision on the extension of the
+           Working Group on Combating Trafficking in Human Beings to include representatives of
+           the Financial Administration, the Office for National Minorities and the Association of Free
+           Trade Unions of Slovenia. In 2017, the Working Group was further extended with
+           representatives of the Government Office for Support and Integration of Migrants.
+           81.   Furthermore, in accordance with the adopted action plans, line ministries and
+           governmental services are allocating more funds to the activities aimed at preventing and
+           combating trafficking in human beings.
+
+
+
+
+12
+                                                                                     A/HRC/WG.6/34/SVN/1
+
+
+82.    Slovenia has also intensified its efforts in dealing with the issue of early and forced
+marriages in the Roma community. Since 2015, forcing someone into marriage or a similar
+union has been treated as a criminal offence. The 2017–2021 National Programme of
+Measures for Roma imposes an obligation to prepare a protocol to be followed when
+dealing with cases of non-marital cohabitation involving minors or elopement of minors
+into harmful environments (early marriages). The task to prepare a protocol and address the
+issue of forced marriages in the Roma community was entrusted to an ad hoc inter-
+ministerial working group. In November 2018, the Office for National Minorities organised
+national consultations on early and forced marriages, and in April 2019, two sets of
+regional consultations were held, one on forced and one on early marriages. The
+conclusions reached at the three events will serve as a basis for drafting a manual outlining
+in more detail the two phenomena and presenting guidelines for action to be taken by the
+competent institutions. In 2018, on the basis of arrangements with the Judicial Training
+Centre, five lectures for judges and judicial professionals were given on this topic. The
+lectures are continuing in 2019. The 2017–2018 Action Plan for Combating Trafficking in
+Human Beings provided the basis for preventive awareness-raising activities targeting
+potential human trafficking victims in Roma communities. The 2018 public call for
+proposals for co-funding ICT and education projects of NGOs and humanitarian
+organisations also included contents related to raising the awareness of dangers inherent in
+forced and arranged marriages; some of those projects were implemented in Roma
+communities.
+83.    For the 2019–2020 period, the necessary funds have been allocated for the
+implementation of the project “(Re)integration of Human Trafficking Victims”. 31 The
+project is intended both for Slovenian nationals who have been identified as victims of
+human trafficking abroad and for EU and third-country citizens legally residing in Slovenia
+who have been identified as human trafficking victims in pre-trial investigation or criminal
+proceedings in Slovenia.
+84.     Assistance to minor victims of trafficking in human beings is currently provided
+under crisis and safe accommodation programmes intended for victims of human
+trafficking, which impose the obligation to assist and protect child victims of human
+trafficking. In accordance with the Action Plan for the 2019–2020 Period, the
+Interdepartmental Working Group on the Fight against Trafficking in Human Beings is
+seeking solutions for ensuring comprehensive and sustainable assistance to children with
+experience in human trafficking, including the provision of appropriate accommodation.
+85.     Regular education and training on trafficking in human beings is provided for police
+officers, judges and consular staff. 32 In 2017 and 2018, the Police carried out basic training
+courses for border police candidates aimed at raising the awareness and identifying red-flag
+indicators of human trafficking. The Police provide continuous training for criminal
+investigators and police officers at the local level, focusing on recognising various forms of
+human trafficking, identifying potential victims and perpetrators, and learning about further
+procedures in dealing with victims and conducting pre-trial investigations. In 2017 and
+2018, training courses were provided for criminal investigators from regional criminal
+police directorates who investigate human trafficking related criminal offences with a
+special focus on the identification of and conducting procedures involving human
+trafficking victims.
+86.    In 2018, three training courses were organised for judges and investigating judges,
+two in the framework of the Criminal Law School for Judges (“Trafficking in human
+beings: Identifying the phenomenon in modern society”), and one at the seminar for
+investigating judges (“Forms of trafficking in human beings”).
+87.     Awareness-raising and training for consular staff on various forms of human
+trafficking continues in the framework of regular annual consultations, regional
+consultations and preparations for performing consular duties in diplomatic missions and
+consular posts. This topic is also part of the training of diplomats for consular duties prior
+to posting abroad.
+88.     Slovenia continues its efforts to strengthen international cooperation in combating
+trafficking in human beings. 33 Special attention is devoted to the regions of South-Eastern
+
+
+                                                                                                      13
+A/HRC/WG.6/34/SVN/1
+
+
+           Europe and the Western Balkans in particular. In March 2018, Slovenia held an informal
+           meeting of ministers of the interior of the Brdo-Brijuni Process. The meeting aimed at
+           enhancing cooperation in combating trafficking in human beings was also attended by
+           representatives of the informal network of national anti-trafficking coordinators from
+           South-Eastern Europe established on Slovenia’s initiative. The ministers reaffirmed
+           continued support for the successful work of the informal network in combating trafficking
+           in human beings. Together with national coordinators, the ministers adopted a joint
+           declaration on strengthening regional cooperation in combating trafficking in human beings
+           in South-Eastern Europe.
+           89.     In June 2018, a twinning project targeting fight against organised crime in Serbia
+           was successfully concluded; within the project, the component which Slovenia focused on
+           was combating trafficking in human beings. Since September 2018, Slovenia has
+           participated in another two-year twinning project in Serbia entitled “Support for
+           strengthening the fight against trafficking in human beings”.
+
+
+     III. Challenges in the field of human rights since the last review
+
+      A.   Migration
+
+           90.     In all activities related to refugees and migrants, Slovenia underlines the respect for
+           human rights and their universality. Slovenia signed the Global Compact for Safe, Orderly
+           and Regular Migration and the Global Compact on Refugees, and is committed to
+           observing both in its national policies. The two compacts represent an important milestone
+           in designing, developing and strengthening policies related to international migration and
+           safeguarding persons in need of international protection. The Government has established
+           excellent cooperation with governmental and non-governmental organisations operating in
+           the field of migration. During the period of a marked increase in arrivals of migrants and
+           applicants for international protection in 2015 and 2016, Slovenia devoted special attention
+           to providing those persons with the necessary care and protection. Upon admittance to
+           reception centres, they were given brochures providing information on how to apply for
+           international protection in a language they understood. Health care was provided for all,
+           while members of vulnerable groups (children, women, the elderly and the disabled) were
+           accorded special attention and priority treatment. Separate accommodation was provided
+           for women, and nursing corners established.
+           91.    Slovenia’s humanitarian aid funds are allocated in order to improve the situation of
+           refugees and address the root causes of migration. Additional activities in Slovenia related
+           to refugees include bilateral projects dealing with mine-awareness education, psychosocial
+           and economic empowerment, and ensuring better food and water security in refugee camps.
+           92.    The establishment of the Government Office for the Support and Integration of
+           Migrants was a major step forward towards more effective action related to migration. The
+           Office has been operational since 1 June 2017 and is responsible for providing basic
+           support to applicants for international protection and for ensuring the rights of and
+           implementing the integration measures concerning persons who have been granted
+           international protection.
+           93.    In November 2018, the Government set up an inter-ministerial working group to
+           draft and monitor the implementation of a government strategy on migration and to
+           coordinate migration-related activities. Other tasks of the inter-ministerial working group
+           include coordination in the field of migration and coordination of operative activities in
+           circumstances of increased migration. The strategy will define the goals, orientations and
+           measures for effective migration management in the Republic of Slovenia.
+           94.    In July 2018, to adapt to the current situation and needs related to international
+           protection, the Government adopted an updated Contingency Plan to provide housing and
+           care in the event of an increase in the number of applicants for international protection and
+           to implement international protection procedures.
+
+
+
+14
+                                                                                        A/HRC/WG.6/34/SVN/1
+
+
+ B.   Hate speech
+
+      95.   Slovenia, as many other contemporary societies, has recently seen an increase in
+      freedom of speech violations in the form of hate speech.
+      96.    The Police have been actively involved in the identification, prevention and
+      prosecution of various manifestations of hate speech. For this purpose, additional training
+      has been provided for police officers working in multicultural communities. Significant
+      emphasis is put on awareness-raising and integrating the activities of national and local
+      authorities in multicultural environments.
+      97.     Competent state bodies will examine the need for possible additional awareness-
+      raising measures related to hate speech and analyse the appropriateness of the regulatory
+      framework on hate speech in the broadest sense. Competent state bodies, assisted by
+      experts on hate speech, are already studying the possibility of introducing new media
+      legislation to facilitate the detection of, prompt response to and deletion of contents
+      containing hate speech and provide for possible sanctions.
+
+
+IV. Achievements in the sphere of human rights
+
+ A.   Integration of migrant children into the education system
+
+      98.    Over the past few years, Slovenia has had to deal with an increasing number of
+      migrants and applicants for international protection, including children who require special
+      protection. Important issues in this regard are education and inclusion in education.
+      99.    From the 2018/2019 academic year onwards, the Decree on the methods and
+      conditions for ensuring rights of persons with international protection has provided for
+      people who cannot demonstrate their formal education to sit for examinations in
+      mathematics and English at the National Examination Centre: if they pass the examinations,
+      they can enrol in study programmes at higher-education institutions. The 2018/2019
+      academic year saw improved conditions for successful integration of secondary-school
+      students whose mother tongue is not Slovene or who completed primary education in
+      countries other than Slovenia. Students attend an intensive Slovene course in the first year
+      of secondary education in Slovenia.
+      100. The study entitled “Evaluation of Slovene Learning Models (2018-2019)” is under
+      way, and curricula are being prepared for beginners’ Slovene courses at the pre-school and
+      primary-school levels.
+      101. In 2017, considerable attention was devoted to education and training in intercultural
+      competences for teaching professionals, and a special website was launched for school
+      managements, teachers, parents and the interested public. A public call for proposals has
+      been issued entitled “Strengthening social and civic competences of teaching professionals
+      (2016–2021)” aimed at empowering teaching professionals to be better able to facilitate the
+      integration of immigrant children, pupils and students into society.
+      102. In 2016, in order to provide adequate accommodation for unaccompanied minors as
+      a vulnerable group requiring all-day care and professional assistance, the Government, in
+      the framework of a pilot project, ensured safe accommodation on the premises of student
+      dormitories in Postojna and Nova Gorica. After the evaluation, the project was recognised
+      as an example of good practice. A systemic arrangement for resolving the issue of
+      accommodation of unaccompanied minors is foreseen for the end of 2019 to enable
+      sustainable integration into society.
+      103. A number of documents have been prepared, including the “Implementation
+      instructions for the accommodation of unaccompanied minors in student dormitories”,
+      “Forms and contents of expert work with unaccompanied minors in student dormitories”
+      and “Protocol and procedures for the accommodation of unaccompanied minors in student
+      dormitories”.
+
+
+
+                                                                                                         15
+A/HRC/WG.6/34/SVN/1
+
+
+      B.   Rights of older persons
+
+           104. As a result of the demographic transition34 in the country, Slovenia pays particular
+           attention to the situation and rights of older persons. Slovenia started to respond to the
+           transition as early as 1997 by adopting the first strategy on the social security of the elderly.
+           In 2017, the Government adopted a long-term Active Ageing Strategy setting the following
+           strategic goals: (1) Wellbeing for all generations and safe living in the home environment,
+           (2) Participation of all generations in intergenerational practice, and (3) Physical and mental
+           health of people of all ages. The four pillars underpinning the Strategy are employment
+           (Labour market and education), independent, healthy and safe living for all generations,
+           inclusion in society, and creation of an environment conducive to active ageing. In
+           February 2018, the Government established the Council for Active Ageing and
+           Intergenerational Cooperation. Action plans for the implementation of the strategy are in
+           preparation; these are foreseen to be approved by the Government in the autumn of 2019.
+           105. A separate act on long-term care is in preparation to reinforce the right of older
+           persons needing assistance in daily activities to a decent life, care and safety. The aim of
+           systemic regulation of long-term care is to ensure people entitled to long-term care to enjoy
+           comparable rights for comparable needs. Slovenia believes that the planned solutions will
+           make a significant contribution to the overall care for the elderly, both in old people’s
+           homes and in community care.
+           106. To address discrimination on the basis of age, NGOs have been invited to engage in
+           awareness-raising activities. A number of projects are under way in various parts of
+           Slovenia.
+           107. Slovenia advocates the protection of the rights of older persons also at the
+           international level, and is a staunch supporter of a new international legal instrument
+           regulating the rights of older persons.
+
+
+      C.   Women, peace and security
+
+           108. In November 2018, the Government adopted the 2nd Action Plan of the Republic of
+           Slovenia for the Implementation of United Nations Security Council Resolutions on
+           Women, Peace and Security in the 2018–2020 Period. The Action Plan was the result of
+           inter-ministerial efforts, and the line ministries consulted with the civil society on its
+           content. The document was prepared on the basis of the findings of the Implementation
+           Review of the Action Plan of the Republic of Slovenia for the Implementation of United
+           Nations Security Council Resolutions 1325 and 1820 on Women, Peace and Security in the
+           2010–2015 Period, adopted by the Government in July 2017. The purpose of the Action
+           Plan is to contribute to international activities aimed at achieving gender equality in the
+           field of peace and security and related areas (humanitarian aid and development
+           cooperation, human rights and the rule of law).
+
+
+      D.   Business and human rights
+
+           109. In November 2018, the Government adopted the National Action Plan on Business
+           and Human Rights. The Action Plan was drafted by the Ministry of Foreign Affairs in
+           cooperation with line ministries, the academic community, business representatives, trade
+           unions and NGOs. By adopting the National Action Plan, Slovenia intends to strengthen the
+           activities aimed at ensuring respect for human rights in business activities along the entire
+           value chain and to further develop the cooperation between the state, businesses, NGOs and
+           other stakeholders. Attached to the National Action Plan are the Guidelines on Corporate
+           Human Rights Due Diligence, which are designed to assist businesses in the identification,
+           prevention and mitigation of negative impacts of their operation and practices on human
+           rights and in reporting on their findings. Slovenia is the 22nd state in the world to have
+           adopted such a National Action Plan. On the State’s initiative, 10 businesses have
+           committed to implement corporate human rights due diligence.
+
+
+
+16
+                                                                                         A/HRC/WG.6/34/SVN/1
+
+
+E.   Implementation of judgments of the European Court of Human Rights
+
+     110. A tangible measure of respect for human rights is also the implementation of
+     international courts judgments. With regard to the implementation of judgments of the
+     European Court of Human Rights (ECtHR), Slovenia has made noticeable progress. By the
+     end of 2015, 309 ECtHR judgments remained to be implemented; by the end of 2017, the
+     number had dropped to 49, and at the end of 2018, only 11 final judgments remained to be
+     implemented, owing to systemic measures at the governmental level and the introduction of
+     an effective project structure at the Ministry of Justice.
+
+
+V. Implementation of voluntary pledges and commitments
+
+A.   Voluntary pledges and commitments for membership of the Human
+     Rights Council in the 2016–2018 period
+
+     111. As a candidate State for the UN Human Rights Council membership in 2016–2018,
+     Slovenia committed to (1) strive for progress in the sphere of human rights in appropriate
+     international human rights forums, (2) promote gender equality and protection of
+     vulnerable groups, and (3) mainstream a human rights perspective in the development
+     agenda, environmental protection, business and education.
+     112. During its second membership of the UNHRC, Slovenia made every effort to
+     implement the above-mentioned commitments. It advocated the mainstreaming of gender
+     perspective in the work of the UNHRC. During its membership, Slovenia was among the
+     proposers of three initiatives – on the environment and human rights, on the rights of
+     members of minorities, and on human rights education.
+     113. At the national level, Slovenia included a human rights perspective in its
+     Development Cooperation and Humanitarian Aid Strategy of the Republic of Slovenia until
+     2030. One of its cross-cutting issues is gender equality. Slovenia has adopted the Action
+     Plan of the Republic of Slovenia for the Implementation of United Nations Security
+     Council Resolutions on Women, Peace and Security in the 2018–2020 Period and the
+     National Action Plan on Business and Human Rights. Slovenia continues to strive for
+     human rights education and training at the national and international levels and for
+     recognising the right to a clean, healthy and safe environment as a human right.
+     114. In 2018, the former Slovenian Permanent Representative to the UN Office in
+     Geneva held the office of President of the UN Human Rights Council; his priorities were
+     primarily to (1) enhance the Council’s efficiency, (2) increase its reputation and visibility
+     and strengthen cooperation with other UN entities, (3) strengthen cooperation with regional
+     organisations (4) improve the constructive atmosphere, foster dialogue and instil trust in the
+     Council’s work, (5) allow enough space for the participation of civil society in the
+     Council’s work, and (6) promote transparent, impartial and inclusive functioning of the
+     Council. The presidential statement adopted in 2018 is an important contribution to
+     increasing the efficiency of the UN Human Rights Council.
+
+
+B.   Voluntary pledges and commitments in the Universal Periodic Review
+
+     115. During the second cycle of the Universal Periodic Review, Slovenia made a
+     commitment to submit a voluntary Mid-term report on the implementation of the accepted
+     recommendations. The Voluntary Mid-term Report was approved by the Government on 24
+     May 2017. In June 2017, the Report was submitted to the Office of the UN High
+     Commissioner for Human Rights and presented at the 35th session of the UN Human
+     Rights Council.
+
+
+
+
+                                                                                                          17
+A/HRC/WG.6/34/SVN/1
+
+
+        VI. Conclusion
+               116. Slovenia remains committed to the Universal Periodic Review, and will continue to
+               strive for constructive action within this mechanism, with regard to both the Slovenian and
+               other countries’ periodic reviews, in order to further strengthen the promotion of human
+               rights.
+
+Notes
+
+           1  Slovenia has noted and implemented recommendation 26 by introducing children’s rights advocates.
+           2  More information on the Protection against Discrimination Act is provided in the Voluntary UPR
+              Mid-term Report (recommendations 22, 46, 47, 50, 51).
+            3 The Advocate’s activities system-wide involve conducting independent research, monitoring
+
+              discrimination at the national level, reporting to national authorities and other entities responsible for
+              promoting equality and eliminating and preventing discrimination, and awareness-raising among
+              stakeholders and the wider public of the importance of equality and non-discrimination. The
+              Advocate may also request a constitutional review of discriminatory general legal acts. At the level of
+              individuals, the Advocate conducts procedures to establish instances of discrimination in concrete
+              cases and offers advice to victims of discrimination, who the Advocate may also represent or
+              accompany in administrative and court proceedings concerning discrimination.
+            4 More information on the Protection against Discrimination Act is provided in the Voluntary UPR
+
+              Mid-term Report (recommendations 22, 46–50, 51, 57, 62, 63, 65).
+            5 Further details on the legislation prohibiting hate speech and acts of hatred are provided in the
+
+              Voluntary UPR Mid-term Report (recommendation 45).
+            6 Measures promoting cooperation to address hate speech and acts of hatred and various other forms of
+
+              intolerance are presented in the Voluntary UPR Mid-term Report (recommendations 48, 49).
+            7 Further information on Slovenia’s international legal obligations is provided in the Voluntary UPR
+
+              Mid-term Report (see response to recommendation 134).
+            8 More information is provided in the Voluntary UPR Mid-term Report (recommendation 64).
+            9 More information is provided in the Voluntary UPR Mid-term Report (recommendation 128).
+           10 More information is provided in the Voluntary UPR Mid-term Report (recommendation 129).
+           11 Information on measures in the period up to 2017 is provided in the Voluntary UPR Mid-term Report
+
+              (see recommendations 101, 135, 136 in 137).
+           12 Slovenia’s at-risk-of-poverty rate is among the lowest in Europe. It is calculated using the Eurostat
+
+              methodology. The at-risk-of-poverty rate is the percentage of the population living in households
+              where the equivalised disposable income (after social transfers) is below the at-risk-of-poverty
+              threshold, which is set at 60% of the national median equivalised disposable income.
+           13 More information on Slovenia’s healthcare system and health insurance is provided in the Voluntary
+
+              UPR Mid-term Report (see recommendation 142). For information on mental health and suicide
+              prevention, see also recommendation 141.
+           14 Information on Slovenia’s applicable legislation is provided in the Voluntary UPR Mid-term Report
+
+              (recommendation 138).
+           15 Information on Slovenia’s legislation regulating access to drinking water and sanitation is provided in
+
+              the Voluntary UPR Mid-term Report (see recommendation 140).
+           16 Further information on human rights education activities is provided in the Voluntary UPR Mid-term
+
+              Report (recommendation 24).
+           17 Detailed information on Slovenia’s efforts to improve the situation of Roma in the country is
+
+              provided in the Voluntary UPR Mid-term Report (recommendations 62, 63, 69, 72, 73, 81, 84, 86, 91,
+              139, 158, 159).
+           18 Three training programmes were organised in 2018 for 68 public employees who in their professional
+
+              capacity deal with members of the Roma community. Roma assistants, who work in educational
+              institutions, attend regular pedagogical training programmes. Two additional assistants have been
+              trained within the project ‘Together for knowledge – The development of a support mechanism of
+              learning for Roma community members’, and nine more are being trained. In 2018, the Police
+              organised seven training programmes entitled ‘Recognising stereotypes, overcoming prejudice and
+              preventing discrimination in police work in a multicultural society’; these were attended by 142
+              members of the Police. Furthermore, in 2018, as part of the measure ‘Police work in the community’,
+              the Police conducted 300 preventive activities in the Roma community.
+           19 These activities include workshops, conferences, consultations, awareness-raising, and educational
+
+              and activation programmes. Roma community organisations (associations) may perform these
+              activities alone or in tandem with other institutions and organisations. The purpose is to promote the
+              social inclusion and empowerment of Roma, to improve their situation, and to eliminate intolerance
+
+
+
+18
+                                                                                                 A/HRC/WG.6/34/SVN/1
+
+
+
+   among the majority and minority populations, particularly in local communities. The funding for the
+   Roma umbrella organisation of Slovenia and other Roma organisations and associations also
+   contributes to the capacity-building of the Roma civil society. The inclusion of Roma civil society in
+   the preparation, implementation and monitoring of action plans and measures is provided for by law
+   (the Roma Community in the Republic of Slovenia Act) and is implemented in practice when the
+   competent ministries and local self-governing communities address issues relating to members of the
+   Roma community. The Roma community also participated in the preparation of the National
+   Programme of Measures for Roma for the Period 2017–2021, with its representatives involved in
+   consultations with the competent ministries. When the Programme was open for public debate, both
+   the Roma community and the broader civil society were invited to submit proposals.
+20 The institute of the Roma assistant is presented in the Voluntary UPR Mid-term Report
+
+   (recommendations 25 and 84).
+21 In accordance with Regulation (EC) No 763/2008 on population and housing censuses, Slovenia has
+
+   conducted register-based population censuses since 2011. Data on national affiliation are not included
+   in the administrative databases. The Medium-Term Programme of Statistical Surveys 2018–2022
+   does not foresee any survey to collect data on the national affiliation of individuals. Slovenia has thus
+   noted and implemented recommendation 157.
+22 More detailed information on the legislative measures aimed at redress and compensation for the
+
+   damage sustained by erasure is provided in the Slovenia’s latest Voluntary Mid-term Report
+   (recommendation 66).
+23 Decision of the Constitutional Court of the Republic of Slovenia No. U-I-80/16-36, U-I-166/16-28,
+
+   U-I-173/16-33 of 15 March 2018 (Official Gazette of the Republic of Slovenia No. 24/18).
+24 The Government continues the efforts outlined in the Voluntary Mid-term Report (Recommendations
+
+   145–148).
+25 More detailed information on the Resolution on the National Programme for Equal Opportunities for
+
+   Women and Men is provided in the Voluntary Mid-term Report (recommendations 23, 59).
+26 More detailed information on the measures in force was included in the Voluntary Mid-term Report
+
+   (Recommendation 105).
+27 The adoption of the Family Code, which was presented in more detail in the Mid-term Report
+
+   (recommendations 20, 131), contributes to the implementation of recommendations 19 and 27, of
+   which Slovenia took note.
+28 More detailed information on the Family Violence Prevention Act is included in the Voluntary Mid-
+
+   term Report (Recommendations 104 and 105). In our view, the adoption and implementation of the
+   Act also implements Recommendation 41, of which Slovenia took note.
+29 More information on the legal arrangement and certain past projects related to preventing violence in
+
+   school environment is provided in the Voluntary Mid-term Report (Recommendation 113).
+30 Further information on Slovenia’s past activities is provided in the Voluntary UPR Mid-term Report
+
+   (Recommendation 125).
+31 Measures to prevent trafficking in human beings and assist victims are outlined in the Voluntary Mid-
+
+   term Report (Recommendations 120, 122–124).
+32 Education and training activities were included in the Voluntary Mid-term Report (Recommendation
+
+   119).
+33 Slovenia’s past activities related to international cooperation are outlined in the Voluntary Mid-term
+
+   Report (Recommendation 121).
+34 Judging by the current trends, by 2030, over 25% of Slovenia’s population will be aged above 65.
+
+
+
+
+                                                                                                                  19
+

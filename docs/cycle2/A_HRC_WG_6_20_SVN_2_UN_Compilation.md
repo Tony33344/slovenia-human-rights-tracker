@@ -1,0 +1,1284 @@
+# A/HRC/WG.6/20/SVN/2 - Compilation of UN Information: Slovenia (2nd Cycle)
+
+**Document:** A/HRC/WG.6/20/SVN/2
+**Session:** 20th UPR Working Group
+**Date:** 2014
+**Source:** UN OHCHR
+
+---
+
+## Full Document Text
+
+
+             United Nations                                                               A/HRC/WG.6/20/SVN/1
+             General Assembly                                                    Distr.: General
+                                                                                 15 August 2014
+
+                                                                                 Original: English
+
+
+
+
+Human Rights Council
+Working Group on the Universal Periodic Review
+Twentieth session
+27 October–7 November 2014
+
+            National report submitted in accordance with
+            paragraph 5 of the annex to Human Rights
+            Council resolution 16/21*
+            Slovenia
+
+
+
+
+         * The present document has been reproduced as received. Its content does not imply the
+           expression of any opinion whatsoever on the part of the Secretariat of the United Nations.
+
+GE.14-13493 (E)
+
+*1413493*
+A/HRC/WG.6/20/SVN/1
+
+
+
+      I. Report drafting methodology
+           1.     In March 2012, the Republic of Slovenia submitted mid-term report on the
+           implementation of 2010 UPR recommendations to the OHCHR. Both the Interministerial
+           Working Group for Human Rights (IWGHR) and NGOs have been regularly informed
+           about their implementation. The Ministry of Foreign Affairs (MFA) coordinated the
+           drafting of the national report in co-operation with all relevant ministries and Government
+           services. Prior to Government approval, the draft was examined by the IWGHR and
+           communicated to NGOs and the Human Rights Ombudsman.
+
+
+     II. Developments regarding the normative and institutional
+         framework and the protection and promotion of human
+         rights since 2010
+           2.      Several changes in the institutional framework have been made since the
+           presentation of the first report (A/HRC/WG.6/7/SVN/1). The Office for Equal
+           Opportunities (OEO) has been abolished and its remit taken over by the Ministry of Labour,
+           Family, Social Affairs and Equal Opportunities (MLFSAEO); the Office for National
+           minorities has been included in the Prime Minister's Office; and the Office for Religious
+           Communities has been operating within the Ministry of Culture (MoC). For the first time, a
+           State Secretary responsible for dialogue with civil society and the coordination of citizens'
+           initiatives has been appointed to the Prime Minister's Office. The Advocate of the Principle
+           of Equality now operates within the MLFSAEO. NGOs are pointing out that the Advocate's
+           role and the broader institutional framework for human rights protection should be
+           enhanced. Slovenia is examining the modalities of including the Human Rights
+           Ombudsman under Group A of the Paris Principles relating to the status of National Human
+           Rights Institutions.
+           3.     Since 2010 review Slovenia has adopted several new measures.
+           4.      Several changes were introduced in the amended Criminal Code1, which entered
+           into force in May 2012, including longer periods of limitation on the execution of
+           sentences, revised definitions of the offences of terrorism and trafficking in human beings
+           (THB), the introduction of new offences of grooming persons under the age of 15 for
+           sexual purposes, and intentional access to pornographic material by using information and
+           communication technologies. Exploitation through prostitution has been defined as an
+           aggravated offence in cases when the victim is a minor, and a more severe sentence is
+           imposed for the abuse of minors in order to produce material of a pornographic nature or
+           the use of minors in pornographic performances. The provision on public incitement to
+           hatred, violence or intolerance was also amended; now ethnic symbols are classified as a
+           protected category, and web publication of words referring to ethnicity is considered an
+           aggravated offence. Following the ratification of the Kampala amendments to the Rome
+           Statute of the ICC, a more precise definition of the crime of aggression was included in the
+           Code and war crimes were extended to the use of poisons, gases and 'dumdum bullets' also
+           in internal conflicts. The amended Code also restricted the liability of responsible editors
+           for criminal offences committed by publication; editors are not liable if the authors are
+           known and consented to the publication and if nothing would impede their prosecution.
+           There is no liability for administrators of freely-accessible websites allowing real-time
+           comments without prior approval where the administrator cannot prevent their publication.
+           5.     At the same time, the amended Criminal Procedure Act introduced a so-
+           called preliminary hearing at which the defendant can enter into a plea bargain with the
+
+
+
+2
+                                                                                   A/HRC/WG.6/20/SVN/1
+
+
+plaintiff and plead guilty. As a consequence, such proceedings are limited to a sentencing
+hearing, and the sentence may be reduced below the statutory minimum.
+6.      In the reference period, legislative and policy activities related to preventing and
+combating THB were drafted in accordance with EU documents and guidelines2. Article
+113 of the Criminal Code which deals with THB was expanded to include a new mode of
+culpability. Apart from sexual exploitation, forced labour, enslavement and servitude,
+trafficking may also serve the purpose of the use of traded persons for the perpetration of
+offences (e.g. recruitment for street-theft). The first paragraph was amended to dispel any
+doubts as to whether THB with the consent of the injured person constitutes an offence. In
+the second paragraph, “giving or receiving payments or benefits to achieve the consent of a
+person having control over another person” was included as an aggravated form of this
+offence. A new third paragraph was added to Article 199 (Undeclared Employment),
+explicitly referring to the exploitation of victims of THB.
+7.      In 2013, the National Assembly (NA) passed a constitutional act on constitutional
+amendments3. Accordingly, a legislative referendum may be called by 40,000 voters, and
+no longer by a third of deputies or by members of the National Council. The Constitution
+now defines issues on which it is not possible to hold a referendum, i.e. laws ratifying
+treaties and laws intended to rectify non-constitutional situations concerning human rights.
+8.      Since 2008, the economic crisis has also affected various social rights. Due to
+soaring unemployment and diminished income among the general population, the number
+of people at risk of poverty has been increasing since 2009 among all social groups and in
+all household types (from 11.3% in 2009 to 13.5% in 2012). The risk is high also among
+people above the age of 65 (19.6% in 2012), especially elderly women living alone. The
+risk of poverty among children increased from 11.2% in 2009 to 13.5% in 2012. The share
+of persons who are severely materially deprived (by at least 4 out of 9 elements of
+deprivation) was 6.1% in 2009 and 6.6% in 2012. NGOs note the increasing number of
+persons without adequate health insurance.
+9.     Due to the harsh social situation, and despite adopting austerity measures for budget
+consolidation, the Government is trying to safeguard the rights and status of the most
+vulnerable population groups. In its strategic documents (e.g. the Resolution on the
+National Social Assistance Programme 2013–2020, adopted by the NA in April 2013) and
+the National Reform Programmes4, Slovenia is aiming to reduce the number of persons at
+risk of poverty or social exclusion by 40,000 by 2020 (compared to 2008). Despite the
+grave social situation, the system of social transfers is still quite effective in mitigating
+poverty. The effect of social transfers (pensions excluded) on reducing the risk of poverty
+in 2012 was 46.4%, ranking Slovenia among EU Member States with social transfers
+(pensions excluded) most affecting the risk of poverty rates5. Slovenia is still among
+countries with relatively small inequalities in income distribution. In 2012, the Gini
+coefficient was 23.7%6.
+10.    In 2010, two new social acts were passed (the Exercise of Rights to Public Funds
+Act7 and the Social Assistance Benefits Act8), regulating the rights provided from public
+funds dependent on the material status of individuals and families. Both acts took effect in
+January 2012. The new social legislation was aimed at establishing a more just and
+sustainable system of granting public benefits dependent on the material (income and
+property) status. However, it resulted in a reduction of public funds and the number of
+beneficiaries. Based on analyses of the implementation of the new legislation and
+comments of the expert public, in 2013 the MLFSAEO drafted the Act Amending the
+Social Protection Benefits Act9 and the Act Amending the Exercise of Rights to Public
+Funds Act10. The new amendments increase the amount of public funds available to certain
+vulnerable and disadvantaged groups, thus improving their material status. In addition, the
+number of beneficiaries of cash social assistance and income support has increased, the
+
+
+                                                                                                     3
+A/HRC/WG.6/20/SVN/1
+
+
+           conditions for obtaining extraordinary cash social assistance have improved, and seasonal
+           fluctuations in periodical income are taken into account.
+           11.    Apart from cash social assistance provided directly to beneficiaries, MLFSAEO has
+           been co-financing various social security programmes, which are carried out by NGOs.
+           These usually target the most vulnerable groups. The state allocates funds for the operation
+           of humanitarian NGOs in the field and their programmes. NGOs act as partners in
+           addressing social distress.
+           12.     In education, the amended Placement of Children with Special Needs Act11 re-
+           defines the placement procedure in accordance to the children's special education needs. In
+           2011, a White Paper on Education in Slovenia was published, which includes an analysis of
+           the school system and proposes systemic solutions. This core curricular document defines
+           the basic education objectives of educational institutions. Three important long-term
+           resolutions have been adopted: the Resolution on the National Programme for Youth 2013–
+           202212, the Resolution on National Programme of Adult Education 2012–202013 and the
+           Resolution on the National Programme of Higher Education 2011–202014. In September
+           2010, new Rules on School Order in Secondary Schools15 entered into force, stipulating the
+           rights and obligations of, and prohibitions for, students during school classes, the method of
+           exercising rights, fulfilling obligations and actions in cases of breaches defined in the Rules
+           and general acts, and schools’ obligations.
+           13.     In January 2014, the Government adopted a Youth Guarantee scheme and an
+           implementation plan for 2014–2015. Its key objectives are: providing for a smooth
+           transition between school and work; the faster integration of unemployed young people in
+           the labour market; reduction of the unemployment rate. By adopting the Youth Guarantee,
+           Slovenia undertook to offer employment to every young person between 15 and 29 years of
+           age (including internship), in-service training, enrolment in formal education or a shorter
+           form of institutionalised or practical training within four months of signing on the
+           unemployment register with the Employment Service of Slovenia.
+           14.    One of the main objectives of the recent labour legislation reform was to reduce
+           labour market segmentation by amending legislation16 relating to the job security. Specific
+           provisions on concluding contracts for a definite period and measures guaranteeing greater
+           security for the most vulnerable groups were part of the reform. Another new provision is
+           the right to severance pay on the expiry of an employment contract for a definite period of
+           time. Additional measures for reducing labour market segmentation are included in the new
+           pension legislation. The amended Pension and Disability Insurance Act provides for
+           employer allowances in employing elderly and young workers, mothers caring for a child
+           under three years of age, and persons registering as self-employed for the first time. A
+           specific issue that has to be tackled with regard to labour market segmentation is student
+           work17.
+           15.     Since 2010 numerous regulations were adopted in an effort to codify health care.
+           The amended Health Services Act18 enhanced public health activities, guaranteeing high-
+           quality public health service with the available funds, while attaining maximum benefits
+           and the satisfaction of its users. Amendments to the Health Care and Health Insurance Act19
+           strove to attain more equal conditions for all liable for the payment of health insurance
+           contributions, lower coverage from compulsory health insurance, the inclusion of
+           therapeutic groups of medications in the supply of medicinal products system and lower
+           sick pay for the first 90 days of sick leave. The 2013 amendments to the Health Care and
+           Health Insurance Act20 remedied certain imbalances in compulsory health insurance
+           contributions, increasing the solidarity of insured persons. The Directive on the application
+           of patients’ rights in cross-border healthcare was transposed into the Slovenian legislation.
+
+
+
+
+4
+                                                                                    A/HRC/WG.6/20/SVN/1
+
+
+16.     Regarding adequate housing, the number of beneficiaries has been increasing since
+the introduction of housing subsidies, particularly in urban municipalities.21 The need for
+housing units is increasing as well; according to a 2012 estimate, an additional 600 units are
+needed. A National Housing Programme for the period 2014–2023 is being drafted to
+replace the abolished savings scheme22, with more effective measures guaranteeing
+adequate housing for young people and other vulnerable population groups.
+17.     A healthy and clean environment is highly valued by Slovenian citizens and the
+right to a healthy living environment is enshrined in the Constitution and regulated by the
+Environment Protection Act. The latter was adopted on 22 April 2004 and last amended in
+October 2013 in order to rectify certain violations noted by the European Commission and
+to bring the act up to date with current trends and insights and the state of the global
+environment. The amended act allows for greater public influence on the regulation of
+environmental issues. The Government's main strategic environment tasks are environment
+protection and prevention of degradation by means of planning policies and measures to
+guarantee quality ambient air, especially in areas where permitted levels of pollutants have
+been persistently exceeded, with considerable progress having been made. The Government
+also strives to conserve the ecosystems, nature and water resources, including access to
+drinking water by completing the water supply network and waste management
+infrastructure. Special concern is devoted to the sustainable use of natural resources and the
+promotion of sustainable production and consumption.
+18.     In May 2010, Catarina de Albuquerque, UN Special Rapporteur on the human
+right to safe drinking water and sanitation, visited Slovenia as the first UN Human
+Rights Council special procedure mandate holder. Apart from her generally positive
+assessment of the visit and situation in Slovenia, her final report includes several critical
+remarks on the access of the Roma community in the Dolenjska region to water and
+sanitation; the issue is being addressed systematically to achieve long-term results23.
+19.     From 7 to 9 April 2014, Marta Santos Pais, Special Representative of the UN
+Secretary-General on Violence against Children, participated in the 24th session of the
+National Children's Parliament and a round-table organised by the MFA to mark the 25th
+anniversary of the Convention on the Rights of the Child. During her visit, she held talks
+with numerous representatives of Government and NGOs and attended a celebration on 8
+April, International Roma Day.
+20.    To resolve the issue of persons erased from the Register of Permanent Residents,
+the Act Regulating the Legal Status of Citizens of Former Yugoslavia Living in Slovenia24
+was adopted in 2010 and took effect on 24 July 2010.25 It allowed persons erased from the
+Register of Permanent Residents to regulate their status, with the possibility of obtaining a
+permanent residence permit dating from the erasure onwards (with retroactive effect).
+21.     Additionally, in 2013 a special compensation scheme was adopted guaranteeing just
+satisfaction for persons whose human rights had been violated in this manner: the Act on
+Compensations for Persons Erased from the Register of Permanent Residents26 entered into
+force on 18 December 2013, with effect from 18 June 2014.
+22.    Since 2010 several amendments to the International Protection Act27 were
+adopted. Most of them raised the standards of procedures for obtaining international
+protection, gave more rights to applicants and improved the conditions for the successful
+integration of persons under international protection. The Act introduced an allowance for
+international protection applicants and reduced the period for their inclusion in the labour
+market, while granting equal conditions for their access to higher and university education
+as those afforded to Slovenian citizens. The amount of financial assistance for displaced
+applicants was reduced, while they may still decide to stay at an Asylum Centre that
+provides full board. Pro bono legal aid to international protection applicants in appeal
+
+
+                                                                                                      5
+A/HRC/WG.6/20/SVN/1
+
+
+           procedures is guaranteed through a legal aid project funded by the responsible ministry with
+           the assistance of the European Refugee Fund and continually provided by NGOs in the
+           Asylum Centre on a daily basis, allowing for effective and high-quality exercise of
+           applicants' rights in the procedure. Legal representation of unaccompanied minors has been
+           comprehensively regulated and the scope of their health-care rights has been expanded.
+           23.    In 2011, a new Aliens Act28 entered into force, based on that of 1999. It follows the
+           European Commission guidelines on free movement of persons. New features include
+           national interest when granting a residence permit, and expanded rights and relief for
+           migrants. Consequently, aliens facing deportation have more rights; they can leave the
+           country voluntarily and are guaranteed legal protection. The Act also provides for the
+           protection of rights of aliens who are victims of illegal employment by allowing them to
+           acquire permission to stay and subsequently a residence permit if they are willing to
+           cooperate with the judicial authorities in (criminal and civil) proceedings against the
+           employer. The new Act explicitly stipulates the possibility of regulating the status of
+           victims of THB. In April 2014, a law amending the Aliens Act29 was passed, which will
+           enter into force on 1 January 2015. Together with the act amending the Employment and
+           Work of Aliens Act, it introduces a single residence and work permit and facilitates
+           obtaining a residence permit for certain categories of aliens by removing administrative
+           obstacles and introducing the 'one-stop shop' principle. The legislation was also adapted to
+           EU standards on readmission.
+           24.     The amended Elementary School Act30 of 2011 is also pertinent for aliens. It
+           stipulates organisation of Slovene language and culture classes for children living in
+           Slovenia whose mother tongue is not Slovene upon their enrolment in school, as well as
+           classes in their mother tongue and culture, in cooperation with their countries of origin. In
+           order to assist pre-school institutions and schools in planning education activities involving
+           immigrant children, in 2012 the Ministry of Education, Science and Sport (MESS) adopted
+           amended Guidelines for the inclusion of pre-school and school migrant children. MESS co-
+           finances elective classes in mother tongue and culture for children of immigrants, by
+           providing a lump sum payment for each student attending. Teachers are paid either by the
+           country concerned, parents or societies. Since August 2013, MESS has financed a project
+           "Training Professionals to Achieve Better Integration of Basic and Secondary School
+           Immigrant Students into the Educational System". The primary objective is to facilitate the
+           integration of children from minority communities and of immigrants into the educational
+           system, and enhance the intercultural competences of teachers and other professionals
+           concerned.
+           25.     On 5 June 2010, the Integrity and Prevention of Corruption Act31 entered into
+           force, expanding the remit of the Commission for the Prevention of Corruption and
+           introducing a politically more independent system for appointing its members, i.e.
+           appointment by the President on the proposal of a special panel. Having additional
+           competences, the Commission has become a minor offence authority. On suspicion of a
+           crime of corruption, it informs the Police and the Prosecutor's Office thereof. In 2011, the
+           Act was twice amended, extending the Commission's mandate. Nonetheless, the
+           Commission assesses that the Act is still deficient and unclear in certain parts, especially
+           regarding the Commission's statutory competences for effective supervision and
+           sanctioning, and the lack of qualified personnel to perform its tasks. The programme of
+           Government measures to combat corruption, which will be implemented in 2014 and 2015,
+           foresees the reorganisation of the Commission, which will be accompanied by amendments
+           to the Act enhancing the supervisory competences of the Commission and establishing an
+           independent supervisory body to assess its work in terms of integrity, objectivity, and
+           efficiency.
+
+
+
+
+6
+                                                                                     A/HRC/WG.6/20/SVN/1
+
+
+26.    In Slovenia, freedom of conscience is guaranteed in accordance with international
+conventions, the Constitution and partially by the Religious Freedom Act32. In 2010, the
+Constitutional Court included the right to legal personality in the definition of religious
+freedom and thus repealed the strict criteria for registering a religious community under the
+Religious Freedom Act. A religious community may now be established by ten adult
+residents33. Owing to the constitutional separation between the state and religious
+communities, the Constitutional Court prohibited the employment of religious workers in
+prisons and hospitals for performing religious activities.
+27.    Since December 2011, Slovenia has been a full member of the International
+Holocaust Remembrance Alliance (IHRA). The Slovenian Delegation to the IHRA will
+focus also on the 'hushed-up' genocide of the Roma during World War II.
+28.    The IWGHR coordinates reporting in accordance with the ratified treaties and other
+mechanisms for the protection of human rights and monitors the implementation of
+Slovenia's international commitments in this area, including voluntary commitments
+undertaken in view of its candidacy for membership of the UN Human Rights Council for
+the 2016–18. IWGHR, headed by the MFA, includes representatives of all the ministries,
+the Statistical Office, the Prime Minister's Office, civil society and academia. It biannually
+presents its reports to the Government, and it may in its report include proposals for
+decisions to be taken by the Government.
+29.     Since 2010, Slovenia signed and ratified the following international treaties:
+      • Council of Europe (CoE) Convention on the Protection of Children against Sexual
+        Exploitation and Sexual Abuse (Lanzarote Convention); ratified on 26 September
+        2013, entered into force on 1 January 2014;
+      • CoE Convention on Preventing and Combating Violence against Women and
+        Domestic Violence; signed on 8 September 2011;
+      • Protocol No. 15 amending the Convention for the Protection of Human Rights and
+        Fundamental Freedoms; signed on 24 June 2013;
+      • Protocol No. 16 to the Convention for the Protection of Human Rights and
+        Fundamental Freedoms; signed on 2 October 2013;
+      • Third Additional Protocol to the European Convention on Extradition; signed on 10
+        November 2010, ratification pending – to be considered by the NA;
+      • Fourth Additional Protocol to the European Convention on Extradition; signed on 20
+        September 2012, ratification pending – to be considered by the NA;
+      • Additional Protocol to the Convention on the Transfer of Sentenced Persons; ratified
+        on 26 September2013, entered into force on 1 January 2014;
+      • Optional Protocol to the Convention on the Rights of the Child on a
+        Communications Procedure; signed on 28 February 2012;
+      • Convention Concerning Tripartite Consultations to Promote the Implementation of
+        International Labour Standards (ILO Convention 144); ratified on 29 June 2011,
+        entered into force on 29 June 2012;
+      • Convention Concerning Protection of the Right to Organise and Procedures for
+        Determining Conditions of Employment in the Public Service (ILO Convention
+        151); ratified on 20 September 2010, entered into force on 20 September 2011;
+      • Convention Concerning the Revision of the Maternity Protection Convention
+        (Revised), 1952 (ILO Convention 183); ratified on 1 March 2010, entered into force
+        on 1 March 2011;
+
+
+                                                                                                       7
+A/HRC/WG.6/20/SVN/1
+
+
+                   • Protocol of 2000 to the Occupational Safety and Health Convention (ILO
+                     Convention 155), 1981; ratified on 1 March 2010, entered into force on 1 March
+                     2011;
+                   • Convention Concerning Night Work (ILO Convention 171); ratified on 10 February
+                     2014;
+                   • Convention Concerning the Promotional Framework for Occupational Safety and
+                     Health (ILO Convention 187); ratified on 10 February 2014.
+           30.    In 2013, Slovenia's 4th Report to the CoE according to the European Charter for
+           Regional or Minority Languages was evaluated and the relevant Committee visited
+           Slovenia. In 2014, the country is submitting periodic reports under the ICCPR (3rd report),
+           the ICERD (8th to 11th periodic reports), the CRPD (initial report), the CEDAW (5th and
+           6th periodic reports) and a Common Core Document. In November 2014, Slovenia will
+           present its 2nd periodic report under the ICESCR.
+
+
+     III Implementation of adopted recommendations of the first
+         round of the UPR
+
+      A.   Rule of law: court backlogs, trial without undue delay, fair trial and ill
+           treatment by law enforcement officials (recommendations 30–31, 54–
+           57)
+
+           31.    Judicial reform aimed at increasing efficiency has been implemented; Slovenia is
+           continuing its projects to reduce court backlogs. As a result, backlogs have been reduced to
+           the point where they can no longer be considered a systemic problem.
+
+                                                                                                        Percentage
+                                                                                                          decrease
+           Courts          30.12.2008   31.12.2009   31.12.2010   31.12.2011   31.12.2012   30.9.2013 (2008–2013)
+
+           Higher-
+           instance              667          242          326          788        1,005         999     +49.8%
+           District           10,748       14,452       24,275       24,121       22,355      20,192     +87.8%
+           Local            262,656      239,477      236,043      215,733      175,475     160,777       -38.8%
+           Total            274,071      254,171      260,644      240,642      198,835     181,968       -33.7%
+
+           Table 1: Backlogs in courts of general jurisdiction of first and second instance as at 30
+           September 2013.
+           32.     A comparison of data from the previous report from 31 December 2008 with the
+           recent data for the first nine months of 2013 indicates that the total number of backlogs in
+           the courts of first and second instance was reduced by more than a third. This is a
+           significant step forward, given that since 2009 stricter criteria were adopted for designating
+           a case as backlog34.
+           33.    A certain increase in the volume of court backlogs at second-instance higher courts
+           and first-instance district courts, which, however, does not have significant effect on the
+           total number of court backlogs, is the result of the 'soft' reorganisation of courts of first
+           instance imposed by the Act Amending the Courts Act35, which concentrated judicial
+           authority in 11 districts as of 1 January 201036. Since the focus is now on districts, the
+           number of court backlogs has reduced in local courts, while in district courts it has slightly
+           increased (in absolute terms). It should also be noted that there are 50 fewer judges
+
+
+8
+                                                                                        A/HRC/WG.6/20/SVN/1
+
+
+     compared to 2010, while the trend of reducing the burden of pending cases and court
+     backlogs is proceeding at the same pace.
+     34.    The Commitment to citizens to improve the situation in the judiciary was signed by
+     the Prime Minister, the Minister of Justice and the President of the Supreme Court in June
+     2013. In addition to legislative measures, pending cases – especially concerning
+     commercial disputes – are also being successfully tackled through organisational measures,
+     particularly the so-called Procedural Triage, which was first implemented in 2012.
+     35.    In 2013, police legislation was reformed in order to provide for more operational
+     autonomy, for the protection of freedom and human rights in police procedures, and to
+     ensure safety. This resulted in a higher level of human rights and freedoms, particularly
+     concerning cases in which police officers abuse their powers to infringe people’s rights and
+     freedoms. Apart from internal supervision performed by the Ministry of the Interior (MoI)
+     through managing police tasks and addressing complaints over the work of police officers
+     and the Police themselves, police work is also scrutinised by several other institutions and
+     bodies37 to provide for independent, unbiased, timely, transparent, thorough and efficient
+     investigations of alleged violations of human rights and fundamental freedoms during
+     police procedures.
+     36.    Since 2010, training of police officers and social services staff has been carried out
+     by the Police within the new Recognising stereotypes, overcoming prejudice and
+     eliminating discrimination in a multicultural society programme. Police officers also attend
+     Romani classes. Apart from regular training on border issues and aliens, border police
+     officers attend lectures on combating cultural stereotypes and discrimination against aliens
+     and training on conducting interviews with illegal migrants. The Legal-informational centre
+     for NGO’s and the IOM cooperate with the Police during readmission procedures and offer
+     pro bono legal aid to aliens. The officer higher education study programme, which was
+     converted into a higher professional educational degree (6th level) in 2013, provides police
+     officers with in-depth knowledge and skills for performing police duties, including
+     protecting human rights in police procedures.
+
+
+B.   Anti-discrimination measures (recommendations 19, 21, 26, 63, 64)
+
+     37.     In 2010 and 2011, the OEO implemented the project Achieve Equality within
+     Diversity, which included raising awareness of the Equal in Diversity – Getting There in
+     society and pointing to the fact that no one should be discriminated on the grounds of race
+     or ethnic affiliation, disability, age, religion or belief, gender, sexual orientation or any
+     other personal circumstance. Guidelines for encouraging equality and protection against
+     discrimination were drafted, workshops and training were organised for NGOs, civil
+     servants at the national and local levels, judges and state prosecutors. There was an
+     extensive media campaign aimed at raising awareness of the existence, prohibition and
+     negative effects of discrimination, promoting diversity, multiculturalism and tolerance in
+     general, irrespective of gender, nationality, race and ethnic origin, religion or belief,
+     disability, age or sexual orientation. The website www.zagovornik.gov.si was launched,
+     providing information about the project, basic facts about discrimination, tips and advice on
+     what to do in cases of discrimination and the possibility of filing a petition for a case of
+     alleged discrimination to be considered by the Advocate of the Principle of Equality.
+     Leaflets with this information were published in 11 languages.
+     38.     In addition to the Criminal Code, which, under certain conditions, defines public
+     incitement to hatred and intolerance as an offence, such heinous acts are also prohibited
+     by the Media Act38, which explicitly prohibits the dissemination of programming that
+     encourages ethnic, racial, religious, sexual or any other inequality, or violence and war, or
+     incites ethnic, racial, religious, sexual or any other hatred and intolerance. Incitement to
+
+                                                                                                          9
+A/HRC/WG.6/20/SVN/1
+
+
+            intolerance also constitutes an offence under Article 20 of the Protection of Public Order
+            Act39, when violent and audacious behaviour, misbehaviour, damage to official inscriptions,
+            markings or decisions, writing on buildings and the destruction of state symbols is
+            implemented for the purpose of inciting national, racial, sexual, ethnic, religious and
+            political intolerance or intolerance of sexual orientation.
+            39.    In the period 2011–2013, the Culture and Media Inspectorate received four reports
+            of alleged violations of the Media Act relating to the prohibition of hate speech and
+            incitement to discrimination and intolerance through the media, but the inspection
+            procedure was not initiated because no elements of hate speech were detected in the cases
+            concerned. In 2011, the Inspectorate, having detected an alleged criminal offence of public
+            incitement to hatred, violence or intolerance pursuant to the first and third paragraphs of
+            Article 297 of the Criminal Code, committed through electronic publication, filed a
+            criminal complaint against the responsible persons with the competent prosecutor’s office.
+            40.    To prevent or limit hate speech and other illegal content on the Internet and in online
+            media, the Slovenian Internet reporting portal Web Eye, Spletno-oko.si, for anonymous
+            reporting of hate speech and other illegal content disseminated via the Internet has proved
+            highly effective. Spletno-oko.si operates under the Safer Internet Plus programme and the
+            INHOPE organisation. The Office of the State Prosecutor General, the police and
+            representatives of mass media and other organisations involved in the protection of
+            children's rights cooperate in this project as members of the advisory body. Since 2013, the
+            Office of Slovenia for Youth has been coordinating the CoE No hate speech movement
+            campaign. It includes youth structures and CoE organisations involved with young people
+            and focuses on informal education, intercultural dialogue and hate speech.
+            41.    The annual call for co-financing mass media programmes includes an objective "the
+            culture of public dialogue". The part of the call aimed at programmes of special importance
+            in the public and cultural interests of Slovenia defined "ensuring compliance with the
+            principles of cultural diversity, the principle of equal opportunities of sexes and promoting
+            tolerance" as one of the criteria for assessing individual projects submitted by the media.
+            For reasons of freedom of expression of the media and protection of editorial independence,
+            direct media interference by the state is not possible and not allowed.
+            42.    The ethical behaviour of deputies is the responsibility of the NA. Outside the scope
+            of deputy immunity (e.g. outside NA sessions), the prohibition of hate speech applies also
+            to deputies.
+
+       1.   Gender equality and empowerment of women (recommendations 4, 14, 22, 23, 25, 65–
+            70, 74)
+            43.   Within biannual action plans in accordance with the National Programme for Equal
+            Opportunities for Women and Men 2005–2013, Slovenia continued its endeavours to
+            promote gender equality and stop discrimination against women.
+            44.    In cooperation with the relevant partners, the Government carried out activities
+            aimed at increasing the number of women in top-level positions and in decision-making in
+            business and their empowerment in science and research. Among other things, the OEO
+            organised a conference on the role of management in shaping non-discriminatory policies,
+            together with eliminating gender-based discrimination; it conducted a survey on gender
+            balance in decision-making positions in the business sector, organised a press conference
+            "Have we really tapped the full potential?", which focused on gender imbalance in
+            decision-making positions, published a brochure under the same title, and cooperated with
+            the Managers' Association – Women Managers' Section on drafting guidelines for
+            encouraging equality in decision-making business positions.
+
+
+
+10
+                                                                                    A/HRC/WG.6/20/SVN/1
+
+
+45.    Legislation stipulating a minimum quota of women and men on candidate lists
+contributed to an increased share of women in political decision-making positions. A
+draft law amending the NA Elections Act is being considered; it envisages at least a
+40%40share of women and men on candidate lists and amends the rules on the composition
+of candidate lists. With the parliamentary elections on 4 December 2011, the share of
+women deputies increased considerably and women account for a third of all deputies in the
+NA. On 27 February 2013, a woman was elected Prime Minister for the first time.
+46.     Following the 2010 local elections, the OEO commissioned an analysis to examine
+the impact of gender quotas on the electability of women. In the 2010 elections, 11.95% of
+women stood for mayor and 10 were elected (5%). The share of women on candidate lists
+for a seat on town and municipal councils has increased to 38%, with 23.26% having been
+elected. In areas where the Roma community autochthonously resides, one female
+councillor was elected among 18 Roma councillors. The OEO co-funded an analysis of the
+impact of electoral districts on the electability of women to the NA. In 2011, it organised a
+Mentoring Day with a Female Politician in cooperation with the Government, the NA and
+the universities of Ljubljana, Maribor and Primorska.41
+47.    Equal pay for women and men for equal work is guaranteed by the Employment
+Relationship Act, which also incorporates the relevant recommendations of the ILO. The
+Government did not adopt any particular measures to reduce the male-female income
+disparity, except for awareness rising on the persisting gender pay gap and its causes on the
+occasion of European Equal Pay Day. The 2012 data show that the average pay of women
+was 4.6% below the average pay of men, making it one of the smallest disparities in the
+EU.
+48.    The prohibition of sexual harassment is regulated by the Employment Relationship
+Act. The Health and Safety at Work Act stipulates that at workplaces where there is higher
+risk of third-party violence, the employer must ensure a design and equipment of the
+workplace that reduces the risk of violence and allows assistance to be provided at the
+workplace under threat. Pursuant to the Decree on measures for protecting the worker's
+dignity at work in state administration42, each authority must have at least one counsellor to
+provide information and assistance to victims.
+49.    The Government pursues various activities to identify and eliminate stereotypes,
+particularly by organising consultations, training and seminars, by drafting analyses and
+studies on the division of power between women and men in different areas, by
+encouraging fathers to assume a more active role in child care and equal division of tasks
+within the family, as well as responsible partnership and parenting.
+50.    Slovenia withdrew from the Night Work (Women) Convention43, as the conditions
+are too limiting and imply discrimination. Despite the withdrawal, women workers will not
+remain without protection. The current legislation on night work guarantees special
+protection for night workers regardless of their gender and the tasks they perform.
+51.    Since 2004, a working group has been operating within the Institute of Public Health
+of Slovenia (IPHS) which regularly analyses all cases of maternal death. Each case is
+scrutinised following a single protocol. Based on the findings, the group publishes a
+comprehensive report every three years, with recommendations for clinical and public
+health measures in the field of reproductive health, focusing particularly on the importance
+of socio-economic factors, the detection and treatment of mental disorders, and the need for
+education and awareness raising among the general public and medical professionals.
+Between 2010 and 2013, several symposia were dedicated to the main causes of maternal
+death in Slovenia, and the national association of perinatal medicine adopted clinical
+guidelines. The Ministry of Health (MoH) co-finances programmes on reproductive health
+and rights at the national, regional and local levels. Since post-natal mental disorders and
+
+
+                                                                                                     11
+A/HRC/WG.6/20/SVN/1
+
+
+            suicide are among the main causes of maternal death in Slovenia, in 2013 the IPHS
+            published a draft programme for the detection and treatment of mental problems and
+            disorders in the perinatal period, which will serve as the basis for further activities.
+
+       2.   Same-sex partnerships (recommendations 5, 6, 7, 8, 22)
+            52.     On 16 June 2011, the NA adopted the Family Code, according to which a same-sex
+            union (partnership, extramarital union) is equal to a union between a man and a woman.
+            The Act was rejected in a referendum held on 25 March 2012, with 45.45% voting for its
+            adoption and 54.55% against. The relevant ministry has prepared working documents for a
+            new family code and a draft law on civil partnership. In April 2014, the draft law was
+            submitted for inter-ministerial consideration and public debate. The procedure has been
+            suspended following the resignation of the Government. At the 2nd IDAHO Forum in May
+            2014, Slovenia was among 17 countries that signed the Declaration of Intent, which draws
+            attention to the issues of homophobia and transphobia.
+
+       3.   Rights of persons with disabilities (recommendations 4, 22)
+            53.    Slovenia boasts a modern disability policy. In 2008, it ratified the CRPD and its
+            optional protocol.
+            54.     November 2010 saw the adoption of the Act Guaranteeing Equal Opportunities for
+            Persons with Disabilities44, which is intended to prevent and stop discrimination based on
+            disability and create equal opportunities for persons with disabilities in all spheres of life.
+            Its basic principles are the guarantee of equal opportunities as a planned activity and access
+            of persons with disabilities to public services, the physical environment, goods and
+            services, information, and communications. The Act also stipulates the right to equal
+            participation in procedures before public authorities. It refers to both direct and indirect
+            discrimination on grounds of disability. The Act includes a definition of reasonable
+            accommodation and of harassment on grounds of disability. Existing measures in other
+            relevant regulations have been supplemented by new ones45.
+            55.    The 2004 Vocational Rehabilitation and Employment of Disabled Persons Act46
+            with amendments is the basic law on the employment of persons with disabilities. An
+            analysis of its implementation shows the positive effect of the measures taken47. Despite the
+            harsh economic and financial crisis, the share of persons with disabilities in employment
+            has remained stable (about 4% of the active working population). Similarly, the share of
+            persons with disabilities among the unemployed has remained the same (approximately
+            14%). In 2013, almost 70% more persons with disabilities found new employment than in
+            2008, before the onset of the crisis – a result of the active employment policy in this area:
+            comprehensive, interconnected and combined measures of vocational rehabilitation,
+            employment incentives and the quota system.
+            56.     In January 2014, the Government adopted the Action Plan for Persons with
+            Disabilities 2014–202148. It is aimed at promoting, protecting and guaranteeing the full and
+            equal enjoyment of human rights of persons with disabilities and promoting respect for
+            their dignity. The programme is based on 13 main objectives49, with 91 measures which
+            thoroughly regulate all areas of their lives. An inter-ministerial working group, which
+            brings together the main professional institutions and representative organisations of
+            disabled persons, was appointed to implement and monitor these objectives and measures.
+            It reports to the Government annually.
+
+
+
+
+12
+                                                                                         A/HRC/WG.6/20/SVN/1
+
+
+4.   Rights of national, Roma and other ethnic communities (recommendations 27–29, 71,
+     73, 76, 89–92, 94, 95)
+     57.   A new law on the autochthonous Italian and Hungarian national communities in
+     Slovenia is being drafted. It will guarantee more consistent implementation of their rights
+     which are already included in more than 100 sectoral acts.
+     58.    Certain amendments to the 2007 Roma Community Act50 are being prepared in
+     order to comprehensively regulate its status. The protection of the Roma community is
+     enshrined in other laws51 and forms part of numerous programmes, strategies and
+     resolutions.
+     59.     In 2010, the Government adopted a National Programme of Measures for Roma for
+     the Period 2010–2015, which is the national strategy for their social inclusion. Its
+     implementation is monitored by the Government Commission for the Protection of the
+     Roma Community. The Government reports annually to the NA on the implementation of
+     the Act and the national strategy. The latter document defines priority areas52 for short- and
+     long-term measures at the national and local community levels. The long-term objective
+     and purpose of the adopted programme of measures is to contribute to the development of
+     mutual understanding and dialogue between the Roma community and the majority
+     population, and to promote the implementation of human and minority rights. The current
+     strategy expires in 2015. A new strategy will be adopted for the 2015–2020 period. The
+     implementation of measures is financed by the national and local budgets and from EU
+     funds. Documents that will serve as a basis for drawing on these funds with regard to the
+     social inclusion of Roma are being drafted and will be included in the 2015–2020 strategy.
+     60.    The MoH implements measures to improve the health care of Roma. The IPHS
+     guarantees the regular implementation of measures in areas populated by Roma, which are
+     evaluated annually53.
+     61.    With a view to improving the employability of Roma and reducing the number of
+     unemployed, Roma are included in active employment policy programmes aimed at
+     training, employment incentives and the creation of jobs and promotion of self-
+     employment.
+     62.     In 2011, MESS amended the Strategy of the education of Roma, which encourages
+     their access to education, also by financing Roma teaching assistants. MESS provides funds
+     for social incubators, which are important centres of extracurricular activities, as well as
+     learning assistance for young and adult Roma within their communities. The Ministry
+     prioritises the inclusion of Roma in pre-school institutions and finances several projects to
+     stimulate cooperation among different local players54. MESS also sets more favourable
+     norms and standards for classes with Roma pupils, provides funds for teaching aids, prints
+     Roma fairy tales and works on Roma history and literature, as well as Romani language,
+     and manuals for working with Roma pupils. Slovenian schools and pre-school institutions
+     do not segregate Roma children. They attend regular classes, except those with special
+     needs according to the Placement of Children with Special Needs Act.
+     63.     In November 2011, the Government Commission for the Protection of the Roma
+     Community approved the concept of modernising Roma settlements, i.e. good practices in
+     resolving housing issues, which include the modernisation and development of Roma
+     settlements, their public infrastructure, spatial continuity and interconnectedness with
+     surrounding settlements, the participation of Roma in the development and maintenance of
+     the settlement, and preservation and development of Roma culture.
+     64.    The objective of this spatial planning policy is comprehensive integration of Roma
+     into the Slovenian society, i.e. gradual formal, infrastructural and social integration of
+     Roma settlements into the Slovenian settlement system, with concurrent rehabilitation of
+
+
+                                                                                                          13
+A/HRC/WG.6/20/SVN/1
+
+
+           these areas. This can only succeed in partnership between municipalities, the Roma and
+           state institutions. Given the current legal order and applicable legislation in Slovenia,
+           spatial planning is the exclusive responsibility of municipalities. These must include Roma
+           settlements in their settlement systems and municipal spatial plans, enable their further
+           development and legalisation, and provide them with public utilities.
+           65.     Based on public tenders, the line ministries provide for the regulation of the basic
+           infrastructure in Roma settlements (construction, renovation or modernisation of water
+           supply networks, sewerage, connection to power supply networks, construction and
+           reconstruction of local roads)55. In the 2014–2020 period, the relevant ministry will replace
+           public tenders with a programme-based approach56.
+           66.    In addition to the general voting right to which Roma are entitled as citizens of
+           Slovenia, they also hold a special voting right in twenty municipalities where they have
+           been historically present, which enables them to elect their own representative to the
+           municipal council. In certain municipalities in which Roma have not been historically
+           present and consequently have no representative on the municipal council, special
+           municipal working bodies are set up to monitor the situation of the Roma community,
+           through which Roma may engage with the municipality and present their own initiatives
+           and proposals.
+           67.    The MoC has been developing a dynamic model to protect the cultural rights of
+           minorities, which includes the Roma community. On this basis various anti-discrimination
+           measures, including the co-financing of Roma cultural projects. The Ministry also provides
+           counselling, workshops and expert assistance for Roma.
+           68.    Since 1990, the MoC has systematically implemented measures for minority
+           communities, including those not explicitly mentioned in the Constitution. The rights of
+           minorities are addressed in the context of support for human rights and cultural diversity. In
+           compliance with Articles 14, 61 and 62 of the Constitution, members of all minority
+           communities are guaranteed individual rights to preserve their own national, linguistic and
+           cultural features. For a number of years, the Ministry has developed and, on the basis of
+           regular evaluations, upgraded and improved the model for protecting the cultural rights of
+           various minority groups, which also comprise ethnic minorities, including the national
+           communities recognised under the Constitution, the Roma community and other minority
+           ethnic communities.
+           69.    Minority policy is implemented through a programme aimed at protecting their
+           cultural identities and an integration programme aimed at improving access to cultural
+           goods, services and creativity. The MoC strives to protect the cultural rights of minorities
+           and other social groups with financial and organisational instruments57 as well as normative
+           instruments58.
+           70.     In 2012, the MoC commissioned a study "Ethnic Vitality of Areas Inhabited by
+           Small Minority Ethnic Communities and Autochthonous Peoples", which was aimed at
+           identifying the cultural needs and their articulation in areas populated by Gottschee German
+           settlers, Serbs in Bela Krajina and Croats along the border with Croatia. The study shows
+           that special attention should be devoted to regional integration and maintaining local
+           identities.
+           71.    In February 2011, the Slovenian NA adopted the Declaration of Slovenia on the
+           Status of National Communities of Members of Nations of the Former SFRY in Slovenia59,
+           which concerns the implementation of the rights of these communities in education as well
+           as cultural and political participation. On 17 October 2013, the Government Council for
+           Issues concerning the National Communities of Members of Nations of the Former SFRY
+           in Slovenia was re-established on the basis of the provisions of the Declaration, as a
+           consultative body of the Slovenian Government for the situation of these communities. All
+
+
+14
+                                                                                           A/HRC/WG.6/20/SVN/1
+
+
+     representatives of national communities, ministries and government bodies are equal
+     members of the Council, which addresses issues, requirements and proposals concerning
+     the preservation, promotion and development of ethnic and national identities of members
+     of all national communities.
+
+
+C.   Violence against women and domestic violence (recommendations 18,
+     23, 32–39, 72)
+
+     72.    The Slovenian Criminal Code defines the criminal offence against marriage, family
+     and children. Issue is also regulated by the Family Violence Prevention Act60. Domestic
+     violence prevention campaigns are being implemented in cooperation with NGOs.
+     73.    In 2009, Slovenia adopted the Resolution on the 2009–2014 National Programme on
+     Prevention of Family Violence (NPPFV). This strategic document sets out objectives,
+     measures and key players to reduce and prevent domestic violence. The document aims to
+     combine measures implemented by various ministries and provides for effective activities
+     to reduce domestic violence, both in terms of identification and prevention. Therefore, the
+     Resolution also provides for the implementation of a national awareness-raising campaign
+     on the issue of violence and for reducing the extent of such deviant behaviour in every
+     society. Rules were adopted in certain fields to implement the 2008 Family Violence
+     Prevention Act (FVPA), effectively provide assistance to children and cooperate with other
+     authorities.
+     74.     The two-year nation-wide awareness raising campaign "VESNA – to live a life free
+     of violence" officially started on 7 March 2014 with a national conference. The target group
+     is women of three generations (young women, adults and old women), for whom different,
+     target-oriented activities have been envisaged. Activities are tailored to the needs and
+     lifestyle of each target group.
+     75.    Several other sector-specific implementing acts on education, health care, social
+     security, and the police have been passed to implement the FVPA, effectively provide
+     assistance to children and cooperate with other authorities61.
+     76.     The Slovenian Research Agency, the OEO and the MoI/Police co-financed the target
+     research project "Violence and Responses to it in the Private Sphere and Partnerships". At
+     the end of 2010, the results of the first empirical national research on violence in the private
+     sphere and partnerships were published, and followed at the end of 2011 by analyses on the
+     work of the Police, courts and social services concerning violence against women and
+     domestic violence. The research has shown that the number of cases of domestic violence
+     that are detected, identified and processed by institutions is increasing. This is also due to
+     the implementation of legislation that both enables and imposes the obligation of
+     institutions to provide effective assistance to victims and to prosecute offenders. In
+     addition, the number of cases processed also increased as a result of the victims’ increased
+     willingness to seek help and the increased awareness and sensitivity of staff in institutions
+     established to help such victims.
+     77.     Adopted in 2013, the Police Tasks and Powers Act62 significantly upgraded the
+     police restraining order. Police officers may impose such a measure on the offender not
+     only on the scene of the offence, but also immediately after the offender has been
+     apprehended, regardless of location. An offender who has repeatedly violated a restraining
+     order may be detained by the Police and, at the same time, a fine may be imposed. For the
+     cases when the place that the offender must not approach is an education institution
+     attended by a victim who is a child or a minor, the legal basis was added to inform the
+     relevant personnel at the education institutions of the duration of the restraining order or
+     other information vital to the protection of the victim.
+
+
+                                                                                                            15
+A/HRC/WG.6/20/SVN/1
+
+
+           78.    With a view to raising public awareness, the Police publish on its web page, in
+           several foreign languages, information on domestic violence and on police procedures.
+           79.     Housing capacities for women victims of violence have increased. One of the safe
+           houses has also been adapted for the needs of disabled persons. One crisis centre has been
+           adapted for the needs of older people. The network of crisis centres and shelters expanded
+           to regions in which such services were previously unavailable, and the housing capacities
+           for victims of violence are currently provided for.
+           80.   NGOs caution about the changed criminal offence of threat under Article 135 of the
+           Criminal Code, which stipulates that the threatening of the security of another person
+           without any consequences and when only one person is involved is liable to private
+           prosecution63. This change was made particularly due to prosecutors' experience of a large
+           number of withdrawn complaints of injured parties during the later stages of the procedure.
+           The adequacy of this solution is being reviewed in 2014.
+           81.    The available statistics show the improved effectiveness of justice in terms of
+           prosecutions and conviction related to the offence of domestic violence under Article 191
+           of the Criminal Code64.
+
+
+      D.   Children's rights and violence against children (recommendations 4, 9,
+           12, 13, 17, 24, 50–53, 75)
+
+           82.    Regarding general executive measures, in 2006, on the basis of the recommendation
+           of the Committee on the Rights of the Child, the Government adopted the Programme for
+           Children and Youth 2006–2016. Since the basic document needed revising, the
+           Government adopted the updated Programme for Children and Youth 2013–2016. The
+           Child Observatory within the Social Protection Institute organised a single database on
+           children and youth. In recent years, Slovenia has devoted particular attention to vulnerable
+           groups of children. An important novelty in the prevention of child abuse is the passage of
+           the FVPA and adoption of the Resolution on the 2009–2014 NPPFV65.
+           83.     The amended Criminal Code specified criminal offences against sexual integrity of
+           children in more detail, including Article 175 (Exploitation through Prostitution) and
+           Article 176 (Presentation, Manufacture, Possession and Distribution of Pornographic
+           Material). The sentence was elevated to a maximum of eight years, and intentional access
+           to child pornography by computerised means was criminalised. The amendment introduced
+           a new Article 173 a (criminal offence of soliciting persons under 15 years for sexual
+           purposes), which incriminated grooming66.
+           84.    Human rights education has already been introduced in the Slovenian school system
+           and training programmes. Slovenia continues its efforts, also at the international level, by
+           supporting the UN Declaration on Human Rights Education and Training, which was
+           adopted by the UNGA, and by promoting and further implementing the World Program for
+           Human Rights Education.
+           85.     In 2011, as part of the e-Justice project and to implement draft Article 35 of the CoE
+           Convention on the Protection of Children against Sexual Exploitation and Sexual Abuse,
+           the Ministry of Justice (MoJ) placed video conference equipment in 11 child-friendly
+           interview rooms at social services.67 MoJ is preparing interdisciplinary training for experts
+           on how to conduct interviews with children, including in the child-friendly interview
+           rooms, by using video conference equipment.
+           86.    Following expert consultations, which were organised by the Supreme Court in
+           2008, the judiciary, on the basis of opinions of various experts and the experience of judges
+           acquired when working with children involved in criminal proceedings, issued a
+
+
+16
+                                                                                        A/HRC/WG.6/20/SVN/1
+
+
+     publication tailored to the needs of children of different age groups. To facilitate and
+     prepare children to testify in criminal proceedings, the publication aims to explain to
+     children in a friendly manner their role in the proceedings, as well as the importance and
+     functioning of the court. The website of the courts has published the following brochures:
+     "Jan and Jana Go to Court" for children aged 5–8 and "Going to Court as a Witness" for
+     children aged 9–13.
+     87.     According to the FVPA, children are a specially protected category covered by
+     MLFSAEO, since all relevant authorities – when encountering violence against a child –
+     must take immediate and effective action. The Act particularly stipulates that children are
+     considered victims of violence even if the violence occurs against another family member
+     in their presence. Nevertheless, the provision of the Family Code, which was rejected in a
+     referendum on 25 March 2012, was wider, banning all forms of corporal punishment by
+     parents, other persons, state authorities or providers of public services responsible for the
+     care of children.68
+
+
+E.   Freedom of religion and belief (recommendations 59, 60, 61, 62)
+
+     88.    Slovenia guarantees freedom of religion and belief. According to the Criminal Code,
+     public incitement to hatred, violence or intolerance based on religion is punishable by
+     imprisonment up to two years. Incitement to religious hatred is also prohibited under the
+     Religious Freedom Act. Freedom of construction and use of premises and buildings for
+     religious purposes is provided for in the Religious Freedom Act. In 2013, the Islamic
+     Religious Community laid the foundation stone for an Islamic cultural centre and mosque
+     in Ljubljana.
+
+
+F.   Persons transferred from the Register of Permanent Residents to the
+     register of aliens after Slovenia’s independence (recommendations 77–
+     83, 85–87)
+
+     89.     In 2010, the NA passed the Act Amending the Act Regulating the Legal Status of
+     Citizens of Former Yugoslavia Living in Slovenia69, which entered into force on 24 July
+     2010 to implement the decision of the Constitutional Court of Slovenia No. U-I-246/02-28
+     of 3 April 2003. The NA passed the amending Act with a view to finally regulating the
+     legal status of persons erased from the Register of Permanent Residents. In addition to the
+     implementation of the Constitutional Court Decision No. U-I-246/02-28 and the remedying
+     of the non-compliance established therein (including by the regulation of the status with
+     retroactive effect, i.e. since the erasure), the Act also regulates certain other, related,
+     issues70. The content of the Act was also reviewed by the Constitutional Court. In its
+     Decision No. U-II-1/10-19 of 10 June 201071, the Constitutional Court ruled on the
+     unlawfulness of the required referendum, and also ruled that the amending Act remedies, in
+     a constitutionally adequate manner, the non-compliance established in Constitutional Court
+     Decision No. U-I-246/02-28, and that it legitimately regulates other issues72as they are
+     closely connected with the remedying of the incompliances. The Court also assessed that
+     the amending Act would provide the basis for finally regulating the legal status of citizens
+     of other republics of the former SFRY erased from the Register of Permanent Residents,
+     unless their status has already been regulated.
+     90.    The amending Act also sets out the requirements to be met by a foreign national who
+     was citizen of another republic of the former SFRY on 25 June 1991, and who has not yet
+     obtained a permanent residence permit in Slovenia, to obtain the permit regardless of the
+     provisions of the Aliens Act. The amending Act also lists cases in which it is deemed that
+     citizens of other republics of the former SFRY who had been erased from the Register of
+
+
+                                                                                                         17
+A/HRC/WG.6/20/SVN/1
+
+
+           Permanent Residents had permanent residence permits and registered permanent residence
+           also with retroactive effect, i.e. from the cessation of registration of permanent residence
+           onwards (in respect of which they are issued with a special decision). According to the
+           amending Act, a permanent residence permit may be obtained by persons erased from the
+           Register of Permanent Residents who do not live in Slovenia due to justified absence.
+           91.    As the regulation of the status of persons erased from the Register according to the
+           amending Act and the effective management of administrative procedures also required that
+           these persons be informed of the content of the amending Act, MoI presented the Act to
+           those interested before its entry into force. Thereafter, the Ministry issued a special
+           brochure in the Slovenian language which is available at all administrative units in Slovenia
+           and at diplomatic missions and consular posts of Slovenia in the successor states of the
+           former SFRY. It was also distributed to NGOs. In January 2012, MoI published the
+           brochure in four additional languages of the successor states. The brochures and all relevant
+           information are also available at the Ministry's website.
+           92.    In addition to the amended Act regulating the status of persons erased from the
+           Register of Permanent Residents in Slovenia and guaranteeing persons who left Slovenia
+           the possibility of obtaining permanent residence permits, also with retroactive effect,
+           Slovenia adopted a special compensation scheme in 2013, and an act providing for the
+           redress of damages suffered by these persons. The Act on Compensations for Persons
+           Erased from the Register of Permanent Residents (ARD), entered into force on December
+           2013 and with effect from June 2014.
+           93.     The Act provides for compensation for damages suffered by persons erased from the
+           Register of Permanent Residents after Slovenia’s independence, remedies the violation of
+           human rights and fundamental freedoms, and executes the judgement of the Grand
+           Chamber of the European Court of Human Rights (ECHR) of 26 June 2012 passed in Kurić
+           and others v. Slovenia. The Slovenian legal order systemically provides for just satisfaction,
+           i.e. the compensation for damages suffered by persons erased from the Register of
+           Permanent Residents.
+           94.    The Act on Compensations stipulates that eligible persons may claim pecuniary
+           compensation in an administrative procedure in which the pecuniary compensation will be
+           set depending on the period of erasure since the date of erasure. For each completed month
+           of erasure, a person is entitled to 50 euros compensation.
+           95.   In addition to exercising the right to pecuniary compensation in an administrative
+           procedure, the Act on Compensations offers eligible persons the option of claiming
+           compensation in a judicial procedure in accordance with the general provisions of the Civil
+           Code, with an additional three-year period for filing actions.
+           96.    In addition to pecuniary compensation, the Act on Compensations provides for other
+           forms of just satisfaction, providing or facilitating access to rights in various other areas
+           regarding which it was deemed that such benefits could be useful or necessary. According
+           to the Act on Compensations, eligible persons will be entitled to the payment of
+           contributions for compulsory health insurance, to inclusive and priority consideration in
+           social assistance programmes, to facilitation in exercising rights to public funds, to state
+           scholarships, to equal treatment as Slovenian citizens in resolving housing problems, to
+           access to the education system, and to participation or priority treatment in integration
+           programmes.
+           97.     The judgement of the Grand Chamber of the ECHR passed, on 12 March 2014 in
+           Kurić and others v. Slovenia shows that the costs of compensation are subject to the
+           discretion of the respondent state, and that, due to the exceptional circumstances of the
+           case, the solution of awarding compensation on the basis of a lump sum appeared to be
+           appropriate and that the state is free to select the method of implementing the judgement.
+
+
+18
+                                                                                       A/HRC/WG.6/20/SVN/1
+
+
+G.   Rights of aliens and asylum seekers (recommendations 1, 4, 27, 96)
+
+     98.    The Government is examining the possibilities of ratifying the International
+     Convention on the Protection of the Rights of All Migrant Workers and Members of Their
+     Families, whereby most of the rights in the Convention have already been included in the
+     Slovenian legal system, and the scope and protection of migrant workers have been
+     adequately regulated at the national level. Slovenia is a party to both international
+     covenants on human rights, the ILO conventions C97 and C143 and the European Social
+     Charter, which all contain a wide spectrum of protection of the rights of migrant workers.
+     99.    During the reference period, Slovenia began intensively implementing integration
+     measures with a view to developing a comprehensive and effective integration policy based
+     on intercultural dialogue. Taking into account that integration is a dynamic and two-way
+     process, Slovenia provides numerous programmes assisting immigrants in their integration
+     into society and organises regular training for civil servants on intercultural competencies
+     and an awareness-raising campaign for the majority population of the importance of
+     accepting migration and on refugee issues. In recent years, the programmes have been made
+     more accessible to foreign nationals.
+     100. All proposed amendments to legislation governing international protection are
+     submitted to the UNHCR for preliminary observations and remarks. These remarks should
+     be taken into account as far as possible. Both the UNHCR and NGOs engaged in
+     international protection have been actively involved in implementing the provisions of the
+     International Protection Act.
+
+
+H.   Trafficking in human beings (recommendations 11, 16, 39–50)
+
+     101. With the reform of the Inter-ministerial Working Group on the Fight against THB in
+     2012, the National Coordinator on the issue of THB was tasked with reporting before the
+     relevant commission of the NA.
+     102. In the period between 2011 and 2013, the law enforcement authorities recorded and
+     dealt with several forms of THB73. Most of the cases were identified as a form of exploiting
+     prostitution and other sexual abuse of victims of trafficking. Instances of forced labour
+     were also considered, such as forced begging and forced commission of crimes (e.g.
+     theft)74.
+     103. Providing assistance and protecting trafficking victims is carried out on the basis of
+     legally provided public tenders for programmes of assistance published by the MoI and
+     MLFSAEO, and implemented by the NGOs selected in the tendering procedure. Engaging
+     NGOs was also the main focus of the National Coordinator. As a result, another NGO was
+     included in the new intergovernmental working group in 2012.
+     104. Since 2010, trafficking was prevented through a number of events and awareness-
+     raising projects among the general public, including target risk groups. The general public
+     was informed of the different forms of media reporting; the topics and events were also
+     accessible at a government web site set up for this purpose. The target risk groups
+     (adolescents and migrant workers) were informed about the risks of trafficking through
+     various government projects. The prevention also includes training for professionals
+     encountering this issue in their work. In October 2010, the MoJ published a translation of
+     the leading judgement of the ECHR on THB75, which is included in training material for
+     judges. Police officers participated in training programmes to uncover such trafficking. The
+     Slovenian Police took part in the drafting of a manual of the FRONTEX Agency to identify
+     potential trafficking victims. Regular training is provided for the staff of education
+     institutions, diplomatic missions and consular posts, and social workers.
+
+
+                                                                                                        19
+A/HRC/WG.6/20/SVN/1
+
+
+             105. Child victims of trafficking are a special category in the fight against THB, to which
+             Slovenia devotes adequate legal and other attention. Fight against trafficking in children,
+             child prostitution and child pornography forms part of the biannual joint Government action
+             plan for the fight against THB.
+             106. The 2013 manual of the FRONTEX Agency containing indicators of potential
+             trafficking victims was drafted to serve as a tool for border police officers to identify
+             potential perpetrators or victims quickly and effectively and is available in electronic form
+             on the Police web site, which makes it accessible to all police officers in Slovenia.
+
+Notes
+
+         1
+            Official Gazette of the Republic of Slovenia (hereinafter Ur.l.RS) No. 91/2011.
+         2
+            Most of the provisions of Directive 2011/36/EU have been transposed into national legislation.
+          3
+            Amendments were made to articles 90, 97 and 99 of the Constitution.
+          4
+            National Reform Programme presents the country's policies and measures to sustain growth and jobs
+            and to reach the targets of the EU strategy Europe 2020.
+          5
+            In 2012, the EU-28 average was 34.4%.
+          6
+            The average for EU-28 was 30.6%.
+          7
+            Ur.l.RS Nos. 62/2010, 40/2011, 40/2012, 57/2012, 14/2013.
+          8
+            Ur.l.RS Nos. 61/2010, 40/2011, 110/2011, 40/2012, 14/2013.
+          9
+            Ur.l.RS No. 99/2013.
+         10
+            Ur.l.RS No. 99/2013.
+         11
+            Ur.l.RS No. 58/2011.
+         12
+            Ur.l.RS No. 90/2013.
+         13
+            Ur.l.RS No. 90/2013.
+         14
+            Ur.l.RS No. 41/2011.
+         15
+            Ur.l.RS No. 60/2010.
+         16
+            Ur.l.RS No. 21/2013.
+         17
+            The necessary measures are envisaged in the draft law on student work which is currently being
+            considered by the Government. MLFSAEO expects to limit student work through the above and other
+            measures, such as tax relief for employers who hire unemployed persons and benefit refunds upon the
+            employment of young unemployed, resulting in an increased number of employment contracts.
+         18
+            Ur.l.RS No. 14/13.
+         19
+            Ur.l.RS No. 40/12.
+         20
+            Ur.l.RS No. 91/13.
+         21
+            In 2010, 782 beneficiaries received a housing subsidy, in 2011, 816 beneficiaries, and in 2012 as
+            many as 1,406, which is partly due to the fact that municipalities cannot provide enough low-cost
+            housing.
+         22
+            As part of the austerity measures, the national housing savings scheme was abolished in 2012, since
+            its original purpose had not been fulfilled.
+         23
+            Chapter 2.4 in Part III of the report includes a detailed description of the issue.
+         24
+            Official Gazette of the Republic of Slovenia No. 50/10.
+         25
+            Chapter 6 in Part III of the report includes a detailed description of the issue.
+         26
+            Ur.l.RS No. 99/13
+         27
+            Ur.l.RS Nos. 11/11, 98/11, 83/12, 111/13 and 114/13.
+         28
+            Ur.l.RS Nos. 50/11 and 57/11.
+         29
+            Ur.l.RS No. 26/2014.
+         30
+            Ur.l.RS No. 87/11.
+         31
+            Ur.l.RS No. 45/2010.
+         32
+            Ur.l.RS Nos. 14/2007, 46/2010, 40/2012, and 100/2013.
+         33
+            Earlier requirement was 100 members with 10 years of previous activities.
+         34
+            From 2009 and 2010, respectively, certain important categories of cases are designated as constituting
+            court backlog earlier than hitherto. Accordingly, before the adoption of the new methodology, certain
+            cases that were considered as constituting court backlogs if they had been in the judicial system for 18
+            months, are now considered as such if more than 6 months have passed since they were received, and
+
+
+
+20
+                                                                                                A/HRC/WG.6/20/SVN/1
+
+
+
+   sometimes even in cases when they are older than three months.
+35
+   Ur.l.RS No. 96/2009.
+36
+   Formerly 55 first-instance district and local courts.
+37
+   The most important being the Department for the Investigation and Prosecution of Officials with
+   Special Authorisations within the Specialised State Prosecutor's Office.
+38
+   Ur.l.RS No. 110/2006.
+39
+   Ur.l.RS No. 70/2006.
+40
+   Instead of current 35%.
+41
+   It was intended to give female students an opportunity to familiarise themselves with politics,
+   political life and active participation.
+42
+   Ur.l.RS Nos. 36/2009 and 21/2013.
+43
+   ILO Convention 89.
+44
+   Ur.l.RS No. 94/2010.
+45
+   Among others, new measures include the right to assistive devices to overcome communication
+   obstacles, right to reimbursement of costs of vehicle alteration, and financing of a call centre for the
+   deaf.
+46
+   Ur.l.RS No. 87/2011.
+47
+   Vocational rehabilitation, system of quotas, employment incentives, etc.
+48
+   It is a follow-up to the 2006 Action Programme for Persons with Disabilities 2007–2013.
+49
+   The main objectives include: awareness raising and information, housing and inclusion, accessibility,
+   education, work and employment, financial and social security, health and health care, cultural
+   expression, sports and leisure activities, religious and spiritual life, organisations of persons with
+   disabilities, violence and discrimination, and aging with disability.
+50
+   Ur.l.RS No. 33/2007.
+51
+   Local Self-Government Act, Local Elections Act, Voting Rights Register Act, Organization and
+   Financing of Education Act, Elementary School Act, Pre-school Education Act, Media Act, Act
+   Implementing the Public Interest in the Field of Culture, Librarianship Act, Promotion of Balanced
+   Regional Development Act, Radiotelevizija Slovenija Act, Financing of Municipalities Act, Cultural
+   Heritage Protection Act, Criminal Code of the Republic of Slovenia, Public Interest in Youth Sector
+   Act, Slovenian Press Agency Act.
+52
+   They concern housing, education, employment, health care, preserving and developing different
+   varieties of Romani, culture, informational and publishing activities, awareness raising, and
+   combating discrimination.
+53
+   On the basis of national conferences on the reduction of inequality in the health of the Roma
+   population, and the health of Roma women and children; programmes to promote health among
+   Roma; activities aimed at improving the rate of immunisation and earlier recourse to medical
+   assistance and respecting the instructions of health-care workers, and workshops focusing on health in
+   Roma settlements.
+54
+   See examples of good practices.
+55
+   In 2012, 18 projects in 16 municipalities were co-financed. In 2013, 18 projects in 11 municipalities
+   were co-financed.
+56
+   In future, programmes to equip Roma settlements with basic public utility infrastructure will be
+   drafted at municipal level and will include all the needs of Roma settlements, together with financial
+   evaluation and overall assessment. Municipalities will integrate their programmes in regional
+   development programmes, which will be in accordance with Slovenia’s development strategy and
+   will specify the time-frame and financial evaluation, and a system for monitoring, assessing and
+   organising implementation.
+57
+   Expert assistance and consultations for all providers engaged in minority issues, the open-door day
+   organised by the heads of departments for all artists engaging in minority issues, etc.
+58
+   Mediation, legal advice on awareness-raising, etc.
+59
+   Ur.l.RS No. 7/2011.
+60
+   Ur.l.RS No. 16/2008.
+61
+   MLFSAEO, the Police, social services, educational institutions, multidisciplinary teams, and regional
+   services, etc.
+62
+   Ur.l.RS No. 15/2013.
+63
+   This means that the State Prosecutor does not prosecute ex officio.
+
+
+
+                                                                                                                 21
+A/HRC/WG.6/20/SVN/1
+
+
+
+         64
+            In 2009, 89 adult offenders were convicted, in 2010 186 offenders, in 2011 207 offenders and in 2012
+            265 offenders; the number of convicted minor offenders also increased – in 2009, there were 2, in
+            2010 there were 6; in 2011 there were 9, and in 2012 there were 13 such offenders.
+         65
+            Ur.l.RS No. 41/2009.
+         66
+            I.e. when the offender arranges, through communication technologies, to meet with the future victim
+            with a view to committing an illegal sexual offence.
+         67
+            The project is presented in more detail under the section on good practices.
+         68
+            More information on the Family Code is included in the chapter 2.2 Same-sex partnerships.
+         69
+            Ur.l.RS No. 50/2010.
+         70
+            Regulating the status of children of persons erased from the Register and regulating the status with
+            retroactive effect for those citizens of Slovenia who were citizens of other republics of the former
+            SFRY when Slovenia gained independence, and who were erased from the Register of Permanent
+            Residents, and subsequently admitted to Slovenian citizenship without having received a permanent
+            residence permit.
+         71
+            Ur.l.RS No. 50/2010.
+         72
+            The status of children of persons erased from the Register and the status with retroactive effect for
+            citizens of Slovenia.
+         73
+            In 2011, there were fifteen criminal proceedings (13 for the offence of trafficking), in 2012 twenty-
+            seven (12 for the offence of trafficking), in 2013 fifteen (all for the offence of trafficking).
+         74
+            In 2011, there were six, in 2012 eight, in 2013 only two.
+         75
+            Rantsev v. Cyprus and the Russian Federation (2009).
+                                             ____________________
+
+
+
+
+22
+

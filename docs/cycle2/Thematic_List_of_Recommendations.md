@@ -1,0 +1,1725 @@
+# UPR 20th Session - Slovenia - Thematic List of Recommendations
+
+**Document:** Thematic List of Recommendations
+**Session:** 20th UPR Working Group
+**Date:** October 2014
+**Total Recommendations:** 155
+
+---
+
+## Full Document Text
+
+
+
+Recommendation
+Position
+Full list of themes
+Assessment/comments on level of implementation
+Theme: A12 Acceptance of international norms
+115.1 Take further steps for the ratification of several international treaties in the field of human rights that were signed by Slovenia since the first UPR cycle (Croatia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A12 Acceptance of international norms
+Affected persons:
+- general
+
+
+115.3 Ratify the Optional Protocol to the Rights of the Child on a communications procedure (Portugal, Slovakia);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A12 Acceptance of international norms
+Affected persons:
+- children
+
+
+115.4 Ratify the Optional Protocol to the Covenant on Economic, Social and Cultural Rights (Spain, Tunisia, Portugal);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A12 Acceptance of international norms
+Affected persons:
+- general
+
+
+115.2 Expedite the process of ratification of the amendment toarticle8 of the International Convention on the Elimination of All Forms of Racial Discrimination (Belgium); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A12 Acceptance of international norms
+B32 Racial discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.18 Ratify the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence, also known as the Istanbul Convention, which it signed on 8 September 2011 (Turkey); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+A12 Acceptance of international norms
+D29 Domestic violence
+F13 Violence against women
+Affected persons:
+- women
+
+
+115.5 Proceed with the ratification of the Convention for the Protection of All Persons from Enforced Disappearance, which was the object of a recommendation accepted by Slovenia during the first cycle (Spain); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A12 Acceptance of international norms
+D32 Enforced disappearances
+Affected persons:
+- disappeared persons
+
+
+115.14 Ratify the International Convention on Protection of All Persons from Enforced Disappearance (Iraq); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A12 Acceptance of international norms
+D32 Enforced disappearances
+Affected persons:
+- disappeared persons
+
+
+115.15 Ratify the Convention for the Protection of All Persons from Enforced Disappearance (Uruguay); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A12 Acceptance of international norms
+D32 Enforced disappearances
+Affected persons:
+- disappeared persons
+
+
+115.16 Ratify the International Convention for the Protection of All Persons from Enforced Disappearance (Belgium, France, Tunisia, Sierra Leone, Argentina);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A12 Acceptance of international norms
+D32 Enforced disappearances
+Affected persons:
+- disappeared persons
+
+
+115.133 Consider the ratification of ILO Convention 189 concerning decent work for domestic workers (Nicaragua); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A12 Acceptance of international norms
+E32 Right to just and favourable conditions of work
+B31 Equality &amp; non-discrimination
+Affected persons:
+- general
+- women
+
+
+Theme: A22 Cooperation with treaty bodies
+115.43 Increase cooperation with relevant United Nations treaty bodies, in particular by submitting its periodic report to the Human Rights Committee overdue since 2010 (Uzbekistan); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+A22 Cooperation with treaty bodies
+Affected persons:
+- general
+
+
+Theme: A41 Constitutional and legislative framework
+115.21 Ensure that Slovenia’s national legislation is fully harmonized with international standards to comply with its commitments under international treaties, especially with regard to the Convention on the Elimination of All Forms of Discrimination against Women, CRC and ICERD (Bahrain); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A41 Constitutional and legislative framework
+F12 Discrimination against women
+F31 Children: definition; general principles; protection
+B32 Racial discrimination
+Affected persons:
+- women
+- children
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.130 Address the lack of special provisions for children in the Slovenian criminal code and bring its juvenile justice system fully into compliance with international standards (Poland);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A41 Constitutional and legislative framework
+F31 Children: definition; general principles; protection
+F34 Children: Juvenile justice
+Affected persons:
+- children
+- judges, lawyers and prosecutors
+
+
+115.94 Bring forward legislation providing a clear legal process for the restoration of rights for individuals affected by the erasure (United Kingdom of Great Britain and Northern Ireland); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A41 Constitutional and legislative framework
+G1 Members of minorities
+D6 Rights related to name, identity, nationality
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- non-citizens
+- stateless persons
+
+
+115.95 Enact comprehensive legislation addressing the situation of the “erased”, ensuring them appropriate assistance and protection (Uruguay); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A41 Constitutional and legislative framework
+G1 Members of minorities
+D6 Rights related to name, identity, nationality
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- non-citizens
+- stateless persons
+
+
+Theme: A42 Institutions &amp; policies - General
+115.40 Implement the 2006–2016 Programme for Children and Youth (Israel); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+A42 Institutions &amp; policies - General
+Affected persons:
+- children
+
+
+115.34 Strengthen the mandates of the Ombudsman for Human Rights and the Defender of the Principle of Equality and avoid any overlap in the execution of their respective mandates (Morocco); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A42 Institutions &amp; policies - General
+A45 National Human Rights Institution (NHRI)
+Affected persons: 
+
+
+115.31 Broaden the mandate of its equality bodies and increase their human and financial resources (Australia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A42 Institutions &amp; policies - General
+B31 Equality &amp; non-discrimination
+Affected persons:
+- general
+
+
+115.60 Adopt proactive measures to ensure access to equal opportunities and promote equal gender representation in decision-making positions, and implement non-discriminatory policies to ensure equal pay for women and men (Bahrain); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A42 Institutions &amp; policies - General
+B31 Equality &amp; non-discrimination
+F12 Discrimination against women
+Affected persons:
+- women
+
+
+Theme: A45 National Human Rights Institution (NHRI) 
+115.32 Take further steps towards strengthening the mandate of the Human Rights Ombudsman in order to ensure full compliance with the Paris Principles (Ireland); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A45 National Human Rights Institution (NHRI)
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+
+
+115.33 Bring its Human Rights Ombudsman’s Office into compliance with the Paris Principles, including by providing it with adequate financial and human resources (Malaysia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A45 National Human Rights Institution (NHRI)
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+
+
+115.35 Accelerate the process of reform of the Ombudsman for Human Rights in order to comply with the Paris Principles (Tunisia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A45 National Human Rights Institution (NHRI)
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+
+
+115.38 Ensure the compliance of its National Ombudsman with the Paris Principles (Egypt); continue with the efforts to guarantee compliance of the Human Rights Ombudsperson with the Paris Principles (Peru);take more effective measures in order to bring the Ombudsman’s Office into compliance with the Paris Principles (Azerbaijan); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A45 National Human Rights Institution (NHRI)
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+
+
+115.39 Take the necessary steps to include the Human Rights Ombudsman under Group A of the Paris Principles relating to the status of national human rights institutions (Greece); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A45 National Human Rights Institution (NHRI)
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+
+
+115.36 Bring the national human rights institution into compliance with the Paris Principles and broaden its mandate to carry out investigations into allegations of torture and ill-treatment (Ukraine); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A45 National Human Rights Institution (NHRI)
+A42 Institutions &amp; policies - General
+D25 Prohibition of torture and cruel, inhuman or degrading treatment
+Affected persons:
+- general
+
+
+115.37 Create the conditions that allow the Human Rights Ombudsperson to acquire A status according to the Paris Principles, by enlarging its mandate to receive allegations of torture and abuse and by providing it with the necessary resources to enable it to fulfil its functions (Chile); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A45 National Human Rights Institution (NHRI)
+A42 Institutions &amp; policies - General
+D25 Prohibition of torture and cruel, inhuman or degrading treatment
+Affected persons:
+- general
+
+
+Theme: A5 Human rights education, trainings and awareness raising
+115.57 Continue with the campaign to eliminate all forms of discrimination, particularly from school age and through human rights education (Mexico); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+A5 Human rights education, trainings and awareness raising
+A51 Human rights education - general
+B31 Equality &amp; non-discrimination
+E51 Right to education - General
+Affected persons:
+- children
+
+
+115.30 Continue the steps aimed at the promotion of human rights education at the national and international levels (Armenia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+A5 Human rights education, trainings and awareness raising
+A51 Human rights education - general
+E51 Right to education - General
+Affected persons:
+- general
+
+
+115.29 Continue efforts towards the introduction of human rights training in the educational system and training programmes (Senegal); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+A5 Human rights education, trainings and awareness raising
+E51 Right to education - General
+Affected persons:
+- general
+
+
+Theme: A51 Human rights education - general
+115.24 Continue its efforts with a view to the effective implementation of the United Nations Declaration on Human Rights Education and Training (Morocco); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+A51 Human rights education - general
+E51 Right to education - General
+Affected persons:
+- general
+
+
+Theme: B31 Equality &amp; non-discrimination
+115.44 Address discrimination by the public and private sectors as a matter of priority (Israel); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+Affected persons:
+- general
+
+
+115.51 Take the necessary measures to effectively fight against discrimination by public and private actors (Belgium);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+Affected persons:
+- general
+
+
+115.22 Broaden the mandate and powers of the institutions tasked with guaranteeing the principle of equality and non-discrimination (Israel); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+
+
+115.48 Establish a better coordination between the different institutional bodies competent in matters of non-discrimination (Spain); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+
+
+115.53 Continue to formulate, implement and enhance public policies aimed at raising awareness of discrimination-related issues in society and ensure effective remedies to victims of discrimination and statelessness (Brazil); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+A42 Institutions &amp; policies - General
+D6 Rights related to name, identity, nationality
+Affected persons:
+- general
+- stateless persons
+
+
+115.89 Accelerate approval of the reforms of the Roma Community Act and strengthen coordination with all actors involved to address the strategies of the national programme of measures for Roma (Mexico); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+A41 Constitutional and legislative framework
+A42 Institutions &amp; policies - General
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.55 Ensure follow-up of legislative measures for the protection and inclusion of foreigners (Côte d’Ivoire); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+A41 Constitutional and legislative framework
+A42 Institutions &amp; policies - General
+G1 Members of minorities
+G4 Migrants
+G5 Refugees &amp; asylum seekers
+Affected persons:
+- migrants
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- refugees &amp; asylum seekers
+
+
+115.85 Strengthen activities to raise awareness in society of the need to eliminate discrimination, intolerance and hate speech against minorities and other groups (Costa Rica); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+A41 Constitutional and legislative framework
+A54 Awareness raising and dissemination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.58 Ensure thorough implementation of the anti-discrimination legislation in order to prevent and combat the discrimination based on any criteria, notably racial and ethnic (Romania); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+A41 Constitutional and legislative framework
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.70 Criminalize all acts of discrimination directed against Roma persons (Sierra Leone); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+A41 Constitutional and legislative framework
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.87 Strengthen measures to combat discrimination, with special attention to the situation of minorities, by adopting laws and policies for the effective promotion and protection of their rights (Ecuador); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+A41 Constitutional and legislative framework
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.74 Strengthen legislative and practical measures to prevent all forms of discrimination against ethnic minorities and foreigners (Uzbekistan); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+A41 Constitutional and legislative framework
+G1 Members of minorities
+G4 Migrants
+Affected persons:
+- migrants
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- refugees &amp; asylum seekers
+
+
+115.54 Pursue and strengthen policies against discrimination and intolerance (Côte d’Ivoire); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+
+
+115.50 Adopt policies to ensure equality of rights for all persons, without discrimination of gender, religion, race or sexual orientation, in line with international standards (Uruguay); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+A42 Institutions &amp; policies - General
+D42 Freedom of thought, conscience and religion
+Affected persons:
+- women
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- lesbian, gay, bisexual, transgender and intersex persons (LGBTI) 
+
+
+115.79 Strengthen its human rights framework, including access to human rights training, in order to increase protections for Roma people against violations of their rights (Australia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+A5 Human rights education, trainings and awareness raising
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.73 Measurably improve access to the legal system for Roma individuals and other individuals belonging to groups facing discrimination, and carry out a campaign to increase awareness among these minorities of their rights and means of redress when infringements occur (United Kingdom of Great Britain and Northern Ireland); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+B51 Right to an effective remedy
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.90 Continue to improve Roma conditions, access to housing, water, sanitation, education and employment and make further efforts to combat all forms of intolerance and racism against them (Thailand); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+E1 Economic, social &amp; cultural rights - general measures of implementation
+E23 Right to adequate housing
+E26 Human Rights &amp; drinking water and sanitation
+E31 Right to work
+E51 Right to education - General
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.81 Adopt immediate and positive measures to combat all forms of discrimination, xenophobia and related intolerance against the Roma communities and other ethnic groups, with regard to access to housing, quality education, employment and healthcare (Bahrain); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+E1 Economic, social &amp; cultural rights - general measures of implementation
+E23 Right to adequate housing
+E31 Right to work
+E41 Right to health - General
+E51 Right to education - General
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.82 Take further measures to provide security of tenure and promote access to water, sanitation, education, health and employment for all Roma communities (Brazil); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+E1 Economic, social &amp; cultural rights - general measures of implementation
+E26 Human Rights &amp; drinking water and sanitation
+E31 Right to work
+E41 Right to health - General
+E51 Right to education - General
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.72 Further improve the living conditions of Roma, especially ensuring access to running water, electricity and housing, as well as providing education, employment and health care for all members of the Roma community (the former Yugoslav Republic of Macedonia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+E21 Right to an adequate standard of living - general
+E23 Right to adequate housing
+E26 Human Rights &amp; drinking water and sanitation
+E31 Right to work
+E41 Right to health - General
+E51 Right to education - General
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.75 Guarantee the right of Roma people to adequate housing, water and sanitation, work, education, and security of tenure of their settlements (Venezuela (Bolivarian Republic of)); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+E23 Right to adequate housing
+E26 Human Rights &amp; drinking water and sanitation
+E51 Right to education - General
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.83 Intensify its efforts to ensure that the Roma are not victims of discrimination, especially in areas such as access to housing and the right to drinking water and sanitation (Chile); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+E23 Right to adequate housing
+E26 Human Rights &amp; drinking water and sanitation
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.71 Take further measures to combat all forms of discrimination against the Roma community and ensure equal opportunities for their enjoyment of economic, social and cultural rights, including education, health, employment and housing (Sri Lanka); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+E23 Right to adequate housing
+E31 Right to work
+E41 Right to health - General
+E51 Right to education - General
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.80 Combat discrimination against Roma and implement special measures in the education, housing, health and employment spheres, as well as investigating and prosecuting all discriminatory acts directed at Roma children (Azerbaijan); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+E23 Right to adequate housing
+E31 Right to work
+E41 Right to health - General
+E51 Right to education - General
+G1 Members of minorities
+Affected persons:
+- children
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.84 Continue to increase input into education for Roma and other minorities (China); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+E51 Right to education - General
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.91 Strengthen efforts to reduce disparities in the enjoyment of rights between children of minority groups, particularly Roma children and children of the majority of the population (Austria); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+F31 Children: definition; general principles; protection
+G1 Members of minorities
+Affected persons:
+- children
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.56 Take concrete measures to prevent racially motivated crimes and investigate and prosecute all acts of political discourse against minorities (Egypt); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.66 Continue to combat intolerance based on ethnic origin and ensure the full respect of the human rights of the so-called “erased” people (Portugal); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.76 Take the necessary measures to fight all forms of intolerance and hate speech against persons belonging to minorities (Algeria); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.77 Strengthen its policy aimed at combating prejudice against minorities (Angola); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.78 Take the additional measures necessary to eliminate discrimination against the Roma community and other vulnerable groups in the country (Argentina); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.86 Continue reinforcing measures to guarantee respect for the human rights of national communities, Roma and other ethnic groups (Cuba); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.88 Take further measures to combat marginalization and discrimination against Roma (Greece); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.103 Take legal measures aimed at preventing ethnically motivated crimes (Iran (Islamic Republic of)); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.49 Intensify its efforts to fight discrimination and intolerance, particularly against Muslims, immigrants and people of African descent, and encourage senior State officials and politicians to take a clear stand against racist or xenophobic political discourse (Tunisia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+G1 Members of minorities
+G4 Migrants
+Affected persons:
+- migrants
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.52 Strengthen measures to ensure that there are effective remedies for potential victims of discrimination (Benin);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B51 Right to an effective remedy
+Affected persons:
+- general
+
+
+115.47 Strengthen measures to combat discrimination and facilitate victims’ access to remedies (Senegal); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B31 Equality &amp; non-discrimination
+B51 Right to an effective remedy
+B53 Support to victims and witnesses
+Affected persons:
+- general
+
+
+115.69 Step up efforts to combat discrimination against national minorities, including Roma, and provide the victims of discrimination with access to effective legal protection (Russian Federation); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+B51 Right to an effective remedy
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.64 Continue its policy to establish a climate of trust, understanding and mutual respect between the different religions in the country (Morocco); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+D42 Freedom of thought, conscience and religion
+G1 Members of minorities
+Affected persons:
+- general
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.65 Adopt non-discriminatory policies with regard to the realization of civil, political, economic, social and cultural rights of all ethnic and religious communities, without any discrimination (Pakistan); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+D42 Freedom of thought, conscience and religion
+G1 Members of minorities
+Affected persons:
+- general
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.68 Strengthen efforts to combat discrimination against children belonging to national minorities, particularly Roma, and reduce the number of children living in poverty (Poland); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+E21 Right to an adequate standard of living - general
+G1 Members of minorities
+Affected persons:
+- children
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.67 Ensure that Roma children have equal opportunities in access to quality education at all levels (Slovakia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+E51 Right to education - General
+G1 Members of minorities
+Affected persons:
+- children
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.93 Heed the call by the Committee on the Rights of the Child to regularize the status of children of same-sex couples and ensure their protection against discrimination (Sweden); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B31 Equality &amp; non-discrimination
+F31 Children: definition; general principles; protection
+G1 Members of minorities
+G2 Lesbian, gay, bisexual and transgender and intersex persons (LGBTI)
+Affected persons:
+- children
+- lesbian, gay, bisexual, transgender and intersex persons (LGBTI)
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+Theme: B32 Racial discrimination
+115.46 Take the necessary steps for the criminalization of all acts of intolerance and hate speech (Pakistan); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B32 Racial discrimination
+A41 Constitutional and legislative framework
+B31 Equality &amp; non-discrimination
+Affected persons:
+- general
+
+
+115.45 Step up efforts to prevent or limit hatred, racist and xenophobic acts and speeches, including on the Internet (Malaysia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+B32 Racial discrimination
+B31 Equality &amp; non-discrimination
+D43 Freedom of opinion and expression
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.62 Increase its efforts to combat racial discrimination and racist attacks, particularly against the Roma (Iran (Islamic Republic of)); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B32 Racial discrimination
+B31 Equality &amp; non-discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.63 Introduce measures that will prevent discrimination against Roma and make further efforts to combat all forms of intolerance and racism (Nigeria); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B32 Racial discrimination
+B31 Equality &amp; non-discrimination
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+Theme: B51 Right to an effective remedy
+115.96 Immediately restitute permanent residence for the “erased” persons and adequately compensate them (Venezuela (Bolivarian Republic of)); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+B51 Right to an effective remedy
+G1 Members of minorities
+A41 Constitutional and legislative framework
+D6 Rights related to name, identity, nationality
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- non-citizens
+- stateless persons
+
+
+Theme: D27 Prohibition of slavery, trafficking
+115.120 Further provide protection to victims of trafficking in human beings, on the basis of a human rights-based approach, and ensure that they are systematically informed of the possibility of a recovery and reflection period (Republic of Moldova); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D27 Prohibition of slavery, trafficking
+Affected persons:
+- general
+- children
+- women
+
+
+115.121 Step up efforts to combat trafficking in human beings, including broadening international cooperation on this matter (Russian Federation); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D27 Prohibition of slavery, trafficking
+A3 Inter-State cooperation &amp; development assistance
+Affected persons:
+- general
+- children
+- women
+
+
+115.125 Invest in the human and financial resources of the secretariat of the Working Group and the national coordinator dealing with trafficking in human beings so that they can effectively carry out the full range of tasks within their mandate (Czech Republic); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+D27 Prohibition of slavery, trafficking
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+- children
+- women
+
+
+115.127 Take appropriate steps to ensure the effectiveness of its Inter-Ministerial Working Group for Combating Trafficking in Human Beings and of the national coordinator on human trafficking and continue to improve public awareness of this issue (Indonesia);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+D27 Prohibition of slavery, trafficking
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+- children
+- women
+
+
+115.119 Intensify its work to provide specialized training for investigators, prosecutors and judges in applying the human trafficking statute (Norway); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+D27 Prohibition of slavery, trafficking
+A5 Human rights education, trainings and awareness raising
+Affected persons:
+- general
+- children
+- women
+- judges, lawyers and prosecutors
+
+
+115.122 Combat trafficking, punish perpetrators and compensate and rehabilitate victims (Venezuela (Bolivarian Republic of));
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+D27 Prohibition of slavery, trafficking
+B51 Right to an effective remedy
+Affected persons:
+- general
+- children
+- women
+
+
+115.123 Further strengthen the steps taken in regard to trafficking, particularly in reference to women and children (Afghanistan); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D27 Prohibition of slavery, trafficking
+F13 Violence against women
+F31 Children: definition; general principles; protection
+Affected persons:
+- general
+- children
+- women
+
+
+115.124 Continue the efforts directed towards combating trafficking in human beings (Armenia); continue its efforts to combat trafficking in persons, especially women and children, by prosecuting the perpetrators (Costa Rica); take effective measures to prevent trafficking in persons, including women and children (Uzbekistan); combat trafficking in persons, especially in women and children, as well as prosecuting and investigating all perpetrators of these crimes (Azerbaijan); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D27 Prohibition of slavery, trafficking
+F13 Violence against women
+F31 Children: definition; general principles; protection
+Affected persons:
+- general
+- children
+- women
+
+
+115.126 Redouble its efforts regarding trafficking, with a special focus on trafficking in children (India);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+D27 Prohibition of slavery, trafficking
+F31 Children: definition; general principles; protection
+Affected persons:
+- general
+- children
+- women
+
+
+115.117 Take appropriate measures to prevent the forced labour of children in the country (Azerbaijan); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D27 Prohibition of slavery, trafficking
+F33 Children: protection against exploitation
+Affected persons:
+- children
+
+
+Theme: D29 Domestic violence
+115.106 Take further steps to implement the national programme of family violence prevention (Netherlands); ensure implementation of the national programme of family violence prevention (2009–2014) and prevent all forms of violence against women and children, including domestic violence (Bahrain); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D29 Domestic violence
+D8 Rights related to marriage &amp; family
+F13 Violence against women
+F31 Children: definition; general principles; protection
+Affected persons:
+- children
+- women
+
+
+115.110 Broaden the definition of violence in the Law on the Prevention of Domestic Violence, according to international standards, with a view to eliminating all forms of violence against women and girls (Mexico); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D29 Domestic violence
+F13 Violence against women
+Affected persons:
+- women
+
+
+115.107 Concentrate attention on domestic violence (New Zealand); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D29 Domestic violence
+F13 Violence against women
+F31 Children: definition; general principles; protection
+Affected persons:
+- children
+- women
+
+
+115.108 Adopt a national strategy on combating domestic violence (Russian Federation);
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D29 Domestic violence
+F13 Violence against women
+F31 Children: definition; general principles; protection
+Affected persons:
+- children
+- women
+
+
+115.109 Strengthen the measures undertaken to combat domestic violence in general and violence against children in particular (Algeria); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D29 Domestic violence
+F13 Violence against women
+F31 Children: definition; general principles; protection
+F32 Children: family environment and alternative care
+Affected persons:
+- children
+- women
+
+
+Theme: D51 Administration of justice &amp; fair trial
+115.128 Increase the efficiency of court case management, thereby ensuring access to trial without undue delay (United States of America);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+D51 Administration of justice &amp; fair trial
+Affected persons:
+- general
+- judges, lawyers and prosecutors
+
+
+115.129 Adopt a professional code of conduct for judges and prosecutors (Venezuela (Bolivarian Republic of)); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+D51 Administration of justice &amp; fair trial
+Affected persons:
+- general
+- judges, lawyers and prosecutors
+
+
+Theme: D6 Rights related to name, identity, nationality
+115.100 Take all appropriate measures to enable and facilitate the acquisition of Slovenian citizenship by the “erased persons”, paying particular attention to the children of “erased persons” in 1992, who are still stateless. Ensure compensation for all “erased persons” and, in this regard, review their compensation schemes, on the basis of the amounts and criteria established by the European Court of Human Rights and ensure the implementation of measures to reintegrate “erased persons” (France); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+D6 Rights related to name, identity, nationality
+B51 Right to an effective remedy
+D51 Administration of justice &amp; fair trial
+F31 Children: definition; general principles; protection
+G1 Members of minorities
+Affected persons:
+- children
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- non-citizens
+- stateless persons
+
+
+115.149 Ensure the full enjoyment of the political, civil, economic and social rights of “erased” people, including health, social security, education and employment, by regulating the status of the remaining “erased” persons and providing adequate reparation to those affected (Ireland); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+D6 Rights related to name, identity, nationality
+B51 Right to an effective remedy
+E1 Economic, social &amp; cultural rights - general measures of implementation
+E24 Right to social security
+E31 Right to work
+E41 Right to health - General
+E51 Right to education - General
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- non-citizens
+- stateless persons
+
+
+115.99 Adopt further measures to facilitate effective access of the so-called “erased” to permanent residency and citizenship (Czech Republic); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+D6 Rights related to name, identity, nationality
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- non-citizens
+- stateless persons
+
+
+115.161 Regularize the status of all erased persons of origin from other former Yugoslavian republics (Sierra Leone); 
+Source of position: A/HRC/28/15/Add.1, para. 3 - Para. 3
+Supported
+D6 Rights related to name, identity, nationality
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- non-citizens
+- stateless persons
+
+
+Theme: D8 Rights related to marriage &amp; family
+115.131 Provide protection to the family as the basic and fundamental unity of the society (Egypt); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+D8 Rights related to marriage &amp; family
+D46 Right to private life, privacy
+Affected persons:
+- general
+
+
+Theme: E1 Economic, social &amp; cultural rights - general measures of implementation
+115.136 Apply more effective actions to face the negative effects of the economic crisis on the population (Cuba);
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+E1 Economic, social &amp; cultural rights - general measures of implementation
+E25 Human rights &amp; poverty
+Affected persons:
+- general
+- persons living in poverty
+
+
+Theme: E21 Right to an adequate standard of living - general
+115.135 Improve the social protection and living conditions of the most vulnerable groups of the population (Algeria); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+E21 Right to an adequate standard of living - general
+B31 Equality &amp; non-discrimination
+E25 Human rights &amp; poverty
+G1 Members of minorities
+Affected persons:
+- general
+- persons living in poverty
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.158 Continue increasing the allocation of additional resources to improve the living conditions of the Roma population in the informal settlements, by strengthening their security oftenancy and ensuring the human right to drinking water and sanitation and access to electricity (Spain); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+E21 Right to an adequate standard of living - general
+E23 Right to adequate housing
+E26 Human Rights &amp; drinking water and sanitation
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+Theme: E23 Right to adequate housing
+115.138 Provide legal protection against forced evictions (Nigeria); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+E23 Right to adequate housing
+E25 Human rights &amp; poverty
+G1 Members of minorities
+Affected persons:
+- general
+- persons living in poverty
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+Theme: E25 Human rights &amp; poverty
+115.137 Continue its positive efforts in reducing the numbers of persons at risk of poverty or social exclusion by 2020 (Malaysia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+E25 Human rights &amp; poverty
+E21 Right to an adequate standard of living - general
+Affected persons:
+- general
+- persons living in poverty
+
+
+Theme: E26 Human Rights &amp; drinking water and sanitation
+115.139 Implement recommendations by the Special Rapporteur on the rights to water and sanitation regarding access to water for Roma (Israel); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+E26 Human Rights &amp; drinking water and sanitation
+A24 Cooperation with special procedures
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.140 Continue to take measures in order to guarantee universal access to safe drinking water and sanitation (Portugal); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+E26 Human Rights &amp; drinking water and sanitation
+E25 Human rights &amp; poverty
+Affected persons:
+- general
+- persons living in poverty
+
+
+Theme: E33 Trade union rights
+115.134 Enact and fully implement the necessary laws to ensure protection against interference in the establishment, functioning, and administration of worker organizations, consistent with the recommendations of ILO (United States of America); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+E33 Trade union rights
+A41 Constitutional and legislative framework
+Affected persons:
+- general
+
+
+Theme: E41 Right to health - General
+115.142 Consider appropriate means to reach out to achieve universal access to health services and consider expanding the coverage of health services under the compulsory health insurance schemes to include appropriate secondary and tertiary services (Thailand); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+E41 Right to health - General
+Affected persons:
+- general
+
+
+115.143 Ensure that Slovenia’s facilities regarding the compulsory health insurance scheme are available at the secondary and tertiary levels (Nigeria); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+E41 Right to health - General
+Affected persons:
+- general
+
+
+115.141 Accelerate its efforts to finalize the national mental health programme, with the aim of reducing the suicide rate (Costa Rica); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+E41 Right to health - General
+D21 Right to life
+Affected persons:
+- general
+
+
+Theme: F12 Discrimination against women
+115.59 Continue making efforts to achieve full social equality between men and women (Nicaragua); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F12 Discrimination against women
+B31 Equality &amp; non-discrimination
+Affected persons:
+- women
+
+
+115.61 Take appropriate measures to enable more women to hold elective offices (Benin); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F12 Discrimination against women
+D7 Right to participation in public affairs and right to vote
+A42 Institutions &amp; policies - General
+Affected persons:
+- women
+
+
+115.23 Continue its efforts in the promotion and protection of women’s and children’s rights (Kuwait);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+F12 Discrimination against women
+F31 Children: definition; general principles; protection
+Affected persons:
+- women
+- children
+
+
+Theme: F13 Violence against women
+115.105 Take the necessary measures for setting up a comprehensive national strategy to prevent and address all forms of violence against women and children (Iran (Islamic Republic of)); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F13 Violence against women
+F31 Children: definition; general principles; protection
+Affected persons:
+- children
+- women
+
+
+115.111 Establish an institutional mechanism to combat discrimination and violence against women and children, particularly children from minority peoples (Viet Nam); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+F13 Violence against women
+F31 Children: definition; general principles; protection
+G1 Members of minorities
+Affected persons:
+- women
+- children
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+Theme: F31 Children: definition; general principles; protection
+115.101 That the youth guarantee scheme is implemented without discrimination and sufficient budget allocated for its effective implementation (India); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+F31 Children: definition; general principles; protection
+Affected persons:
+- children
+
+
+115.20 Draft a comprehensive law on children to incorporate in Slovenian domestic law all the provisions of the Convention on the Rights of the Child (Viet Nam); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+F31 Children: definition; general principles; protection
+A41 Constitutional and legislative framework
+Affected persons:
+- children
+
+
+115.114 Ensure that legislation is drafted and enacted to prohibit all corporal punishment of children, including in the home (Sweden);
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F31 Children: definition; general principles; protection
+A41 Constitutional and legislative framework
+F32 Children: family environment and alternative care
+Affected persons:
+- children
+
+
+115.42 Implement the child and youth programme of 2013–2016 (Saudi Arabia);
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F31 Children: definition; general principles; protection
+A42 Institutions &amp; policies - General
+Affected persons:
+- children
+
+
+115.113 Continue to strengthen normative frameworks for the protection of children from violence and abuse, and develop awareness-raising programmes aimed at educating the public about the harmful effects of corporal punishment and enhancing the capacities of educators and the media to promote good practices and more positive methods of child-rearing (Philippines); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F31 Children: definition; general principles; protection
+A5 Human rights education, trainings and awareness raising
+F32 Children: family environment and alternative care
+Affected persons:
+- children
+
+
+115.104 Establish a clear and comprehensive definition of violence against children, and prosecute all forms of violence, including domestic violence (Sierra Leone); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F31 Children: definition; general principles; protection
+D29 Domestic violence
+Affected persons:
+- children
+
+
+115.112 Adopt a comprehensive national strategy to prevent and combat all forms of violence against children (Iraq); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F31 Children: definition; general principles; protection
+F32 Children: family environment and alternative care
+Affected persons:
+- children
+
+
+115.115 Legally prohibit the abhorrent practice of corporal punishment of children and adopt an integral law on children, which compiles the provisions of the Convention on the Rights of the Child (Venezuela (Bolivarian Republic of)); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F31 Children: definition; general principles; protection
+F32 Children: family environment and alternative care
+F41 Persons with disabilities: definition, general principles
+Affected persons:
+- children
+
+
+115.116 Explicitly prohibit in national legislation corporal punishment in all settings, including at home (Austria); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F31 Children: definition; general principles; protection
+F32 Children: family environment and alternative care
+F41 Persons with disabilities: definition, general principles
+Affected persons:
+- children
+
+
+115.118 Adopt a comprehensive legal framework on the rights of the children aiming also at completely outlawing the violence against children (Romania); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F31 Children: definition; general principles; protection
+F32 Children: family environment and alternative care
+F41 Persons with disabilities: definition, general principles
+Affected persons:
+- children
+
+
+Theme: F41 Persons with disabilities: definition, general principles
+115.145 Allocate sufficient resources to promote the rights of persons with disabilities (Viet Nam); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F41 Persons with disabilities: definition, general principles
+Affected persons:
+- persons with disabilities
+
+
+115.147 Review the current practice of participatory rights of persons with disabilities in elections, with the aim of identifying the necessary changes in consultation with relevant stakeholders, and implementing measures to ensure the voting rights of persons with disabilities (Hungary); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+F41 Persons with disabilities: definition, general principles
+D7 Right to participation in public affairs and right to vote
+F44 Persons with disabilities: protecting the integrity of the person
+Affected persons:
+- persons with disabilities
+
+
+115.146 Continue to strengthen the protection of persons with disabilities through increasing employment opportunities to fundamentally improve their living conditions (China); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+F41 Persons with disabilities: definition, general principles
+E21 Right to an adequate standard of living - general
+E31 Right to work
+Affected persons:
+- persons with disabilities
+
+
+Theme: F42 Persons with disabilities: accessibility, mobility
+115.148 Continue improving the accessibility to transport and infrastructure for persons with disabilities (Spain);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+F42 Persons with disabilities: accessibility, mobility
+Affected persons:
+- persons with disabilities
+
+
+Theme: G1 Members of minorities
+115.152 Adopt the necessary measures in order to better comply with the recommendations on the use of minority languages released by the Council of Europe, with particular reference to the rights of the autochthonous Italian minority (Italy); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.155 Continued efforts in addressing and protecting the rights of ethnic minorities, including in particular the situation of Roma living in Slovenia (New Zealand); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.159 Involve Romani organizations and communities in the development and implementation of the strategy for Roma inclusion (United States of America); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.160 Continue working to safeguard the human rights of the minorities in the country (Guatemala); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.150 Implement the recommendations accepted by Slovenia during its first UPR on the subject of discrimination against Roma (Israel); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+G1 Members of minorities
+A27 Follow-up to Universal Periodic Review (UPR)
+B31 Equality &amp; non-discrimination
+B32 Racial discrimination
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.151 Continue to devote great attention to the effective implementation of the existing legislative framework on the use of the minority languages (Italy); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+G1 Members of minorities
+A41 Constitutional and legislative framework
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.162 Take additional measures to tackle the problem of assimilation and to reduce the gap that exists between the legislative framework and its implementation with regard to the use of minority languages in public services (Hungary); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+G1 Members of minorities
+A41 Constitutional and legislative framework
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.97 Recognize fully the civil and political rights of “erased” citizens and facilitate their complete social integration (Australia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+G1 Members of minorities
+D6 Rights related to name, identity, nationality
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+- non-citizens
+- stateless persons
+
+
+115.102 Take comprehensive measures to protect the rights of all national minorities, including the so-called erased people and promote their full integration into society (India);
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+G1 Members of minorities
+D6 Rights related to name, identity, nationality
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.25 Place a particular focus on the education and employability of Roma women in integration policies, since women and children are the most vulnerable groups within the Roma community (Norway); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+G1 Members of minorities
+F12 Discrimination against women
+E31 Right to work
+E51 Right to education - General
+Affected persons:
+- women
+- children
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+Theme: G2 Lesbian, gay, bisexual and transgender and intersex persons (LGBTI) 
+115.92 Harmonize the rights of homosexual couples with those of heterosexual couples (Spain); 
+Source of position: A/HRC/28/15/Add.1 - Para. 4
+Supported
+G2 Lesbian, gay, bisexual and transgender and intersex persons (LGBTI)
+B31 Equality &amp; non-discrimination
+Affected persons:
+- lesbian, gay, bisexual, transgender and intersex persons (LGBTI) 
+
+
+115.98 Adopt the same-sex partnership act in order to further improve the rights of LGBTI persons (Croatia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 3
+Supported
+G2 Lesbian, gay, bisexual and transgender and intersex persons (LGBTI)
+B31 Equality &amp; non-discrimination
+G1 Members of minorities
+Affected persons:
+- lesbian, gay, bisexual, transgender and intersex persons (LGBTI) 
+
+
+Theme: A12 Acceptance of international norms
+115.17 Accede to the 1961 Convention on the Reduction of Statelessness and take all relevant measures in order to reduce the number of stateless persons (Hungary); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A12 Acceptance of international norms
+D6 Rights related to name, identity, nationality
+Affected persons:
+- general
+
+
+115.12 Ratify the International Convention on the Rights of Migrant Workers and Members of their Family, based on the facts that the national report indicates in paragraph 98 that it is currently under examination (Egypt);
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A12 Acceptance of international norms
+D8 Rights related to marriage &amp; family
+G4 Migrants
+Affected persons:
+- migrants
+
+
+115.6 Ratify the International Convention on the Rights of All Migrant Workers and Members of Their Families (ICRMW) (Iran (Islamic Republic of)); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A12 Acceptance of international norms
+G4 Migrants
+Affected persons:
+- migrants
+
+
+115.7 Consider taking initial steps towards the ratification of ICRMW (Philippines); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A12 Acceptance of international norms
+G4 Migrants
+Affected persons:
+- migrants
+
+
+115.8 Ratify ICRMW (Senegal, Sierra Leone, Venezuela (Bolivarian Republic of),Peru, Uruguay);
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A12 Acceptance of international norms
+G4 Migrants
+Affected persons:
+- migrants
+
+
+115.9 Consider ratifying ICRMW (Sri Lanka); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A12 Acceptance of international norms
+G4 Migrants
+Affected persons:
+- migrants
+
+
+115.10 Ratify ICRMW (Bosnia and Herzegovina); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A12 Acceptance of international norms
+G4 Migrants
+Affected persons:
+- migrants
+
+
+115.11 Consider the possibility of ratifying the Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (Ecuador); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A12 Acceptance of international norms
+G4 Migrants
+Affected persons:
+- migrants
+
+
+115.13 Continue its efforts to ratify ICRMW (Indonesia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A12 Acceptance of international norms
+G4 Migrants
+Affected persons:
+- migrants
+
+
+Theme: A42 Institutions &amp; policies - General
+115.26 Consider the establishment of an office of the ombudsman for children’s rights, devoted purely to the protection of the rights of children (Poland); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A42 Institutions &amp; policies - General
+A45 National Human Rights Institution (NHRI)
+F31 Children: definition; general principles; protection
+Affected persons:
+- children
+
+
+Theme: A43 Human rights policies
+115.27 Consider developing national human rights indicators as an instrument that allows for a more precise and coherent evaluation of the effective implementation of human rights (Portugal); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+A43 Human rights policies
+A42 Institutions &amp; policies - General
+Affected persons:
+- general
+
+
+Theme: D43 Freedom of opinion and expression
+115.132 Bring its national legislation fully in line with international standards on freedom of expression by decriminalizing defamation in domestic law (Estonia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+D43 Freedom of opinion and expression
+A41 Constitutional and legislative framework
+Affected persons:
+- general
+
+
+Theme: D8 Rights related to marriage &amp; family
+115.19 Repeal provisions of the Marriage and Family Relations Act that are not compliant with the Convention on the Rights of the Child (Israel); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+D8 Rights related to marriage &amp; family
+F31 Children: definition; general principles; protection
+A41 Constitutional and legislative framework
+Affected persons:
+- children
+
+
+115.41 Adopt amendments to the Marriage and Family Relations Act in line with previous efforts and add a provision that prohibits other forms of demeaning treatment of children, such as psychological violence (Norway); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+D8 Rights related to marriage &amp; family
+F31 Children: definition; general principles; protection
+A41 Constitutional and legislative framework
+Affected persons:
+- children
+
+
+Theme: F31 Children: definition; general principles; protection
+115.28 Enact a unified and comprehensive law on child rights (Saudi Arabia);
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+F31 Children: definition; general principles; protection
+A41 Constitutional and legislative framework
+Affected persons:
+- children
+
+
+Theme: G1 Members of minorities
+115.144 Provide further resources for the preservation of the languages and culture of national communities, including the German-speaking community, which has for a very long time formed an important part of Slovene society (Austria); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.153 Continue strengthening the institutional framework for the promotion and protection of minority rights in the country (Montenegro); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.154 Take all necessary measures to ensure equal, legal and fair treatment of minorities, including Roma (Netherlands); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.156 Reconsider the grounds for recognizing national minority status (Serbia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+G1 Members of minorities
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+115.157 Consider including in future censuses a question on national ethnicity, so as to determine the different ethnic groups living in Slovenia (Serbia); 
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+G1 Members of minorities
+A62 Statistics and indicators
+Affected persons:
+- minorities/ racial, ethnic, linguistic, religious or descent-based groups
+
+
+Theme: G4 Migrants
+115.163 Establish conventions that will guarantee the non-violation of migrants’ rights (Nigeria).
+Source of position: A/HRC/28/15/Add.1 - Para. 5
+Noted
+G4 Migrants
+Affected persons:
+- migrants
+
+
