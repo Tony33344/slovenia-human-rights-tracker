@@ -22,14 +22,14 @@ class SpiderwebDiagram {
         ];
         
         this.issues = [
-            { id: 'roma', name: 'Roma Rights & Living...', recs: 17, color: '#ef4444' },
-            { id: 'erased', name: 'Rights of "The Eras...', recs: 4, color: '#ef4444' },
-            { id: 'trafficking', name: 'Trafficking in Huma...', recs: 25, color: '#ef4444' },
-            { id: 'hate_speech', name: 'Hate Speech & Disc...', recs: 20, color: '#ef4444' },
-            { id: 'prison', name: 'Prison Overcrowding', recs: 6, color: '#ef4444' },
-            { id: 'disability', name: 'Disability Rights & D...', recs: 15, color: '#ef4444' },
-            { id: 'gender', name: 'Gender-Based Viole...', recs: 22, color: '#ef4444' },
-            { id: 'migration', name: 'Migration & Asylum', recs: 13, color: '#ef4444' }
+            { id: 'roma', name: 'Pravice Romov', recs: 83, color: '#ef4444' },
+            { id: 'erased', name: 'Izbrisani', recs: 25, color: '#ef4444' },
+            { id: 'trafficking', name: 'Trgovina z ljudmi', recs: 46, color: '#ef4444' },
+            { id: 'hate_speech', name: 'Sovražni govor', recs: 36, color: '#ef4444' },
+            { id: 'discrimination', name: 'Diskriminacija', recs: 95, color: '#ef4444' },
+            { id: 'disability', name: 'Pravice invalidov', recs: 22, color: '#ef4444' },
+            { id: 'gender', name: 'Enakost spolov', recs: 105, color: '#ef4444' },
+            { id: 'migration', name: 'Migracije in azil', recs: 55, color: '#ef4444' }
         ];
         
         this.ministries = [
@@ -42,25 +42,27 @@ class SpiderwebDiagram {
         ];
         
         // Connections: [docIndex, issueIndex, strength]
+        // Issues: 0=Roma, 1=Izbrisani, 2=Trafficking, 3=Hate Speech, 4=Discrimination, 5=Disability, 6=Gender, 7=Migration
         this.docToIssue = [
-            [0, 0, 2], [0, 1, 1], [0, 2, 2], [0, 3, 2], [0, 4, 1], [0, 6, 2], [0, 7, 2],
-            [1, 0, 3], [1, 2, 3], [1, 3, 3], [1, 5, 2], [1, 6, 3], [1, 7, 2],
-            [2, 0, 2], [2, 1, 2], [2, 2, 2], [2, 3, 3], [2, 5, 2], [2, 6, 2],
-            [3, 0, 3], [3, 1, 2], [3, 2, 3], [3, 3, 3], [3, 4, 2], [3, 5, 3], [3, 6, 3], [3, 7, 3],
-            [4, 0, 2], [4, 3, 2], [4, 4, 2], [4, 5, 2],
-            [5, 0, 1], [5, 3, 2], [5, 7, 1]
+            [0, 0, 2], [0, 1, 1], [0, 4, 2], [0, 6, 2], [0, 7, 2],  // National Report
+            [1, 0, 3], [1, 2, 3], [1, 3, 3], [1, 4, 3], [1, 5, 2], [1, 6, 3], [1, 7, 2],  // UN Compilation
+            [2, 0, 2], [2, 1, 2], [2, 2, 2], [2, 3, 3], [2, 5, 2], [2, 6, 2],  // Stakeholder Summary
+            [3, 0, 3], [3, 1, 2], [3, 2, 3], [3, 3, 3], [3, 4, 3], [3, 5, 3], [3, 6, 3], [3, 7, 3],  // Working Group Report
+            [4, 0, 2], [4, 3, 2], [4, 4, 2], [4, 5, 2],  // Ombudsman
+            [5, 0, 1], [5, 3, 2], [5, 7, 1]  // CoE
         ];
         
         // Connections: [issueIndex, ministryIndex, strength]
+        // Ministries: 0=MDDSZ, 1=MNZ, 2=MP, 3=MOP, 4=MZ, 5=MK
         this.issueToMinistry = [
-            [0, 0, 3], [0, 2, 1], // Roma -> MDDSZ, MP
-            [1, 1, 3], [1, 2, 2], // Erased -> MNZ, MP
-            [2, 1, 3], [2, 2, 2], // Trafficking -> MNZ, MP
-            [3, 2, 3], [3, 1, 2], // Hate Speech -> MP, MNZ
-            [4, 2, 3], // Prison -> MP
-            [5, 0, 3], [5, 4, 2], // Disability -> MDDSZ, MZ
-            [6, 0, 3], [6, 2, 2], // Gender -> MDDSZ, MP
-            [7, 1, 3], [7, 0, 2] // Migration -> MNZ, MDDSZ
+            [0, 0, 3], [0, 2, 1],  // Roma -> MDDSZ, MP
+            [1, 1, 3], [1, 2, 2],  // Izbrisani -> MNZ, MP
+            [2, 1, 3], [2, 2, 2],  // Trafficking -> MNZ, MP
+            [3, 2, 3], [3, 1, 2],  // Hate Speech -> MP, MNZ
+            [4, 0, 2], [4, 2, 3],  // Discrimination -> MDDSZ, MP
+            [5, 0, 3], [5, 4, 2],  // Disability -> MDDSZ, MZ
+            [6, 0, 3], [6, 2, 2],  // Gender -> MDDSZ, MP
+            [7, 1, 3], [7, 0, 2]   // Migration -> MNZ, MDDSZ
         ];
     }
     
